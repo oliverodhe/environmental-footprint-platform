@@ -1,0 +1,173 @@
+/* Any css goes here */
+:root {
+    --base-color: #eeeeee;
+    --base-variant: rgba(255, 255, 255, 0.4);
+    --text-color: #111111;
+    --accent-color: #0d6efd;
+    --metric-background: rgba(13, 110, 253, 0.1);
+    --line: rgba(0, 0, 0, 0.125);
+  }
+
+
+body {
+  background-color: var(--bs-body);
+  width: 100%;
+}
+
+.container-fluid{
+  padding: 0;
+  --bs-gutter-x: 0;
+}
+
+.row {
+  width: 100%;
+  --bs-gutter-x: 0;
+  margin-bottom: 30px;
+}
+
+.main-section {
+  width: 100%;
+}
+
+.card {
+  border: none;
+  box-shadow: 0 0.125rem 0.25rem rgba(0, 0, 0, 0.075);
+  border-radius: 0.5rem;
+  border: 1px #ddd solid;
+}
+
+.card-header {
+  background-color: transparent;
+  border-bottom: 1px solid rgba(0, 0, 0, 0.125);
+  padding: 1rem 1.25rem;
+}
+
+.metric-icon {
+  width: 40px;
+  height: 40px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 50%;
+  background-color: rgba(13, 110, 253, 0.1);
+  color: var(--bs-primary);
+}
+
+.table-responsive {
+  border-radius: 0.5rem;
+  overflow: hidden;
+}
+
+.table th {
+  font-weight: 500;
+  color: #6c757d;
+}
+
+.badge-monitoring {
+  background-color: var(--bs-primary);
+  color: white;
+  padding: 0.35rem 0.65rem;
+}
+
+.badge-idle {
+  background-color: transparent;
+  color: #6c757d;
+  border: 1px solid #6c757d;
+  padding: 0.35rem 0.65rem;
+}
+
+body[data-bs-theme='dark'] #body-theme {
+  background-color: #333 !important;
+}
+
+/* Size of toggle button */
+.form-check-input {
+  width: 50px !important;
+  height: 25px !important;
+  border-radius: 50px !important;
+}
+
+body[data-bs-theme='dark'] .card {
+  color: var( --bs-body);
+  background-color: #515151 !important;
+  border: 1px #252526 solid;
+}
+
+ .scrollable-menu {
+    max-height: 200px;
+    overflow-y: auto;
+}
+  
+.fixed-width-button {
+    width: 200px; /* Adjust the width as needed */
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    display: inline-block;
+    vertical-align: middle;
+    position: relative;
+    padding-right: 30px; /* Ensure space for the caret */
+}
+
+.fixed-width-button::after {
+    content: "";
+    position: absolute;
+    top: 50%;
+    right: 10px;
+    transform: translateY(-50%);
+    border: solid transparent;
+    border-width: 0.25em 0.25em 0 0.25em;
+    border-top-color: #000;
+    pointer-events: none;
+}
+  
+.offcanvas {
+  position: fixed;
+  top: 0;
+  bottom: 0;
+  z-index: 1045;
+  overflow-y: auto;
+}
+
+.offcanvas-end {
+  transform: translateX(100%);
+}
+
+.col-lg-8 {
+  width: 70%;
+  padding-right: 30px;
+}
+
+.col-lg-3 {
+  flex: auto;
+}
+
+/* Adjust main content to make room for terminal */
+.main-content-wrapper {
+  padding-bottom: 300px; /* Same as terminal height */
+  transition: padding-bottom 0.3s ease;
+}
+
+.main-content-wrapper.terminal-minimized {
+  padding-bottom: 40px;
+}
+
+/* Terminal button styles */
+.terminal-controls .btn {
+  padding: 0.25rem 0.5rem;
+  color: #a0a0a0;
+  background-color: transparent;
+  border-color: #444;
+}
+
+.terminal-controls .btn:hover {
+  color: #f8f8f8;
+  background-color: #333;
+}
+
+.dropdown-menu {
+    border: none;
+    box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.15);
+    border-radius: 0.5rem;
+}
+

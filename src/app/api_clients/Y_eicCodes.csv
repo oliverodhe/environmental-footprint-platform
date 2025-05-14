@@ -1,0 +1,1324 @@
+﻿EicCode;EicDisplayName;EicLongName;EicParent;EicResponsibleParty;EicStatus;MarketParticipantPostalCode;MarketParticipantIsoCountryCode;MarketParticipantVatCode;EicTypeFunctionList;type
+10Y1001A1001A008;BE-FR-NL-MARKET;Market coupling area Belgium - France - Netherlands;;;Active;;;;Scheduling Area;Y
+10Y1001A1001A016;GB-NI;Northern Ireland;;;Active;BT6 9RT;GB;;Control Area,LFC Area,LFC Block,Scheduling Area;Y
+10Y1001A1001A39I;EE;Estonia;;;Active;;;;Bidding Zone,Control Area,LFC Area,Member State,Scheduling Area;Y
+10Y1001A1001A42T;CB-ES;CB Spain;;10XES-REE------E;Active;;;;Control Block;Y
+10Y1001A1001A44P;SE1;Swedish Elspot Area 1;;;Active;;;;Bidding Zone,Scheduling Area;Y
+10Y1001A1001A45N;SE2;Swedish Elspot Area 2;;;Active;;;;Bidding Zone,Scheduling Area;Y
+10Y1001A1001A46L;SE3;Swedish Elspot Area 3;;;Active;;;;Bidding Zone,Scheduling Area;Y
+10Y1001A1001A47J;SE4;Swedish Elspot Area 4;;;Active;;;;Bidding Zone,Scheduling Area;Y
+10Y1001A1001A48H;NO5;Norwegian Area Elspot Area 5;;;Active;;;;Bidding Zone,Scheduling Area;Y
+10Y1001A1001A49F;RUSSIAN_AREA;Russian area;;;Active;;;;Control Area,Member State,Scheduling Area;Y
+10Y1001A1001A50U;KALININGRAD_AREA;Kaliningrad area;;;Active;;;;Bidding Zone,Control Area,Scheduling Area;Y
+10Y1001A1001A51S;BELARUS_AREA;Belarus area;;;Active;;;;Bidding Zone,Control Area,Member State,Scheduling Area;Y
+10Y1001A1001A52Q;CZ-SK-HU-MARKET;Market coupling area Czech Republic – Slovakia –  Hungary;;;Active;;;;Market Area;Y
+10Y1001A1001A53O;NWE-EU;NWE Region;;;Active;;;;Scheduling Area;Y
+10Y1001A1001A54M;CB_PORTUGAL;Control Block Portugal;;10XPT-REN------9;Active;;;;Control Block;Y
+10Y1001A1001A55K;LT_BEL_IMP_AREA;Lithuania-Belarus Import Area;;;Active;;;;Bidding Zone;Y
+10Y1001A1001A56I;LT_BEL_EXP_AREA;Lithuania-Belarus Export Area;;;Active;;;;Bidding Zone;Y
+10Y1001A1001A57G;GB_N2EX_PRICZONE;Bidding Zone - Great Britain (N2EX);;;Active;;;;Bidding Zone;Y
+10Y1001A1001A58E;GB_APX_PRICEZONE;Bidding Zone - Great Britain (APX);;;Active;;;;Bidding Zone;Y
+10Y1001A1001A59C;SEM;Ireland and Northern Ireland;;;Active;;;;Bidding Zone,Scheduling Area,Synchronous Area;Y
+10Y1001A1001A62N;CZ-SK-HU-RO-MCA;Market coupling area Czech Republic – Slovakia – Hungary- Romania;;;Active;;;;Market Area;Y
+10Y1001A1001A63L;DE_AT_LU;Germany_Austria_Luxemburg;;;Active;;;;Bidding Zone;Y
+10Y1001A1001A64J;FICTIT_AREA_1A;Norwegian Fictitious Area 1A;;;Active;;;;Scheduling Area;Y
+10Y1001A1001A65H;DK;Denmark;;10X1001A1001A248;Active;7000;DK;;Control Area,Member State;Y
+10Y1001A1001A66F;IT-GR;Italy Greece;;;Active;;;;Bidding Zone,Scheduling Area;Y
+10Y1001A1001A67D;IT-NORTH_SI;Italy North_Slovenia;;;Active;;;;Bidding Zone;Y
+10Y1001A1001A68B;IT-NORTH_CH;Italy North_Switzerland;;;Active;;;;Bidding Zone;Y
+10Y1001A1001A70O;IT-CENTRE_NORTH;Italy Centre-North;;;Active;;;;Bidding Zone,Scheduling Area;Y
+10Y1001A1001A71M;IT-CENTRE_SOUTH;Italy Centre-South;;;Active;;;;Bidding Zone,Scheduling Area;Y
+10Y1001A1001A73I;IT-NORTH;Italy North;;;Active;;;;Bidding Zone,Scheduling Area;Y
+10Y1001A1001A74G;IT-SARDINIA;Italy Sardinia;;;Active;;;;Bidding Zone,Scheduling Area;Y
+10Y1001A1001A75E;IT-SICILY;Italy Sicily;;;Active;;;;Bidding Zone,Scheduling Area;Y
+10Y1001A1001A788;IT-SOUTH;Italy South;;;Active;;;;Bidding Zone,Scheduling Area;Y
+10Y1001A1001A796;CA-------DENMARK;Control Area Denmark;;10X1001A1001A248;Active;7000;DK;;Control Area;Y
+10Y1001A1001A80L;IT-NORTH_AT;Italy North_Austria;;;Active;;;;Bidding Zone;Y
+10Y1001A1001A81J;IT-NORTH_FR;Italy North_France;;;Active;;;;Bidding Zone;Y
+10Y1001A1001A82H;DE_LU;Germany_Luxemburg;;;Active;;;;Bidding Zone,LFC Area,Scheduling Area;Y
+10Y1001A1001A83F;DE;Germany;;;Active;;;;Member State;Y
+10Y1001A1001A84D;IT-MACRZONENORTH;Market Balance Area MACROZONE NORTH;;;Active;;;;Scheduling Area;Y
+10Y1001A1001A85B;IT-MACRZONESOUTH;Market Balance Area MACROZONE SOUTH;;;Active;;;;Scheduling Area;Y
+10Y1001A1001A869;UA-DOB_TPP;Ukrainian Area of Dobrotvirska TPP;;10X1001C--00001X;Active;;;;Control Area;Y
+10Y1001A1001A877;IT-MT;Italy_Malta;;;Active;;;;Bidding Zone;Y
+10Y1001A1001A885;IT-SACO_AC;Italy Saco_AC;;;Active;;;;Bidding Zone;Y
+10Y1001A1001A893;IT-SACODC;Italy Saco_DC;;;Active;;;;Bidding Zone;Y
+10Y1001A1001A90I;IT-MONFALCONE;Italy Monfalcone;;;Active;;;;Bidding Zone;Y
+10Y1001A1001A91G;NORDIC_AREA;Nordic Market Area;;;Active;;;;Capacity Calculation Region,LFC Block,Market Area,Outage Coordination Region;Y
+10Y1001A1001A92E;UK;United Kingdom;;10X1001A1001A515;Active;;;;Member State;Y
+10Y1001A1001A93C;MALTA_AREA;CONTROL AREA ITALY MALTA;;;Active;;;;Control Area,Member State;Y
+10Y1001A1001A94A;SYN_BALTICS;Baltic Area;;;Active;;;;LFC Area,LFC Block;Y
+10Y1001A1001A958;ICELAND;Member State Iceland;;;Active;;;;Bidding Zone,Control Area,Member State,Scheduling Area;Y
+10Y1001A1001A990;MOLDOVA;Moldova;;;Active;;;;Bidding Zone,Control Area,Market Area,Member State,Scheduling Area;Y
+10Y1001A1001B004;ARMENIA;Armenia;;;Active;1000;BE;;Market Area;Y
+10Y1001A1001B012;GEORGIA;Georgia;;;Active;1000;BE;;Market Area;Y
+10Y1001A1001B020;SYRIA;Syria;;;Active;1001;BE;;Market Area;Y
+10Y1001A1001B03Z;IRAQ;Iraq;;;Active;1001;BE;;Market Area;Y
+10Y1001A1001B04X;IRAN;Iran;;;Active;1002;BE;;Market Area;Y
+10Y1001A1001B05V;AZERBAIJAN;Azerbaijan;;;Active;1002;BE;;Market Area;Y
+10Y1001C--00002H;LFC-AREA-AMPR-LU;Load-frequency control area of Amprion GmbH-Luxembourg;;10XDE-RWENET---W;Active;;;;LFC Area;Y
+10Y1001C--00003F;UA;Ukraine;;10X1001C--00001X;Active;;;;Member State;Y
+10Y1001C--00005B;DEAMP-LU-AREA;Border Area DE-Amprion-Luxembourg;;;Active;;;;Border Area;Y
+10Y1001C--000069;DETNG-CH-AREA;Border Area DE-TransnetBW-Switzerland;;;Active;;;;Border Area;Y
+10Y1001C--000077;DEAMP-FR-AREA;Border Area DE-Amprion-France;;;Active;;;;Border Area;Y
+10Y1001C--000085;DEAMP-CH-AREA;Border Area DE-Amprion-Switzerland;;;Active;;;;Border Area;Y
+10Y1001C--000093;DETNG-FR-AREA;Border Area DE-TransnetBW-France;;;Active;;;;Border Area;Y
+10Y1001C--00010I;DETTG-DE50H-AREA;Border Area DE-TenneT-DE-50Hertz;;;Active;;;;Border Area;Y
+10Y1001C--00011G;DETTG-DEAMP-AREA;Border Area DE-TenneT - DE-Amprion;;;Active;;;;Border Area;Y
+10Y1001C--00012E;DETNG-DE50H-AREA;Border Area DE-TransnetBW - DE-50Hertz;;;Active;;;;Border Area;Y
+10Y1001C--00013C;DETNG-DETTG-AREA;Border Area DE-TransnetBW - DE-TenneT;;;Active;;;;Border Area;Y
+10Y1001C--00014A;DETNG-DEAMP-AREA;Border Area DE-TransnetBW - DE-Amprion;;;Active;;;;Border Area;Y
+10Y1001C--000158;PL-UA-AREA;Border Area Poland-Ukraine;;;Active;;;;Border Area;Y
+10Y1001C--000166;UA-SK-AREA;Border Area Ukraine-Slovakia;;;Active;;;;Border Area;Y
+10Y1001C--000174;DE50H-DEAMP-AREA;Border Area DE-50Hertz-DE-Amprion;;;Active;;;;Border Area;Y
+10Y1001C--000182;UA-IPS;Ukraine IPS;;;Active;;;;Bidding Zone,Control Area,LFC Area,Scheduling Area;Y
+10Y1001C--000190;BE-GB-AREA;Border Area Belgium-Great Britain;;;Active;;;;Border Area;Y
+10Y1001C--00020F;EE-ESTLINKBORDER;Border Area Estonia Estlink;;;Active;;EE;;Border Area;Y
+10Y1001C--00021D;FI-ESTLINKBORDER;Border Area Finland Estlink;;;Active;;FI;;Border Area;Y
+10Y1001C--00022B;CCR-IU;Capacity Calculation Region Ireland - United Kingdom;;10X1001A1001A361;Active;;;;Border Area,Capacity Calculation Region,Outage Coordination Region;Y
+10Y1001C--000239;CCR-CHANNEL;Capacity Calculation Region Channel;;10X1001A1001A361;Active;;;;Border Area,Capacity Calculation Region,Outage Coordination Region;Y
+10Y1001C--000247;BDL-AREA;Interconnector area BritNed;;;Active;;;;Scheduling Area;Y
+10Y1001C--000255;IF1-AREA;Interconnector area IFA;;;Active;;;;Scheduling Area;Y
+10Y1001C--000263;IF2-AREA;Interconnector area IFA2;;;Active;;;;Scheduling Area;Y
+10Y1001C--000271;NLL-AREA;Interconnector area Nemo Link;;;Active;;;;Scheduling Area;Y
+10Y1001C--00029Y;DE-CZ-AREA;Border Area Germany - Czech Republic;;;Active;;;;Border Area;Y
+10Y1001C--00030C;CE;Central Europe;;10X1001C--00006N;Active;;;;Scheduling Area;Y
+10Y1001C--00031A;WE;Western Europe;;10X1001C--00006N;Active;;;;Scheduling Area;Y
+10Y1001C--000328;EAST-EUROPE;Eastern Europe;;10X1001C--00006N;Active;;;;Scheduling Area;Y
+10Y1001C--000336;CGMA_AREA;Common Grid Model Alignment Area;;10X1001A1001A450;Active;;;;Scheduling Area;Y
+10Y1001C--000344;ELECLINK_IC;ElecLink Interconnector;;;Active;;;;Scheduling Area;Y
+10Y1001C--000352;DE-LU-SE4;Germany-Luxembourg-Sweden 4 Border;;;Active;;SE;;Border Area;Y
+10Y1001C--000360;DE-NO-AREA;Border Area Germany - Norway;;;Active;;;;Border Area,Metering Grid Area;Y
+10Y1001C--00037Z;EUROPE_EEA_CH;European Single Market Area, EEA plus Switzerland;;;Active;;;;Market Area;Y
+10Y1001C--00038X;CZ-DE-SK-LT-SE4;Polish optimization area PLC;;;Active;;;;Border Area;Y
+10Y1001C--00039V;IT-SDC-CN-BORDER;Border Area IT-SACODC-CNorth;;;Active;;;;Border Area;Y
+10Y1001C--000409;IT-CS-CN-BORDER;Border Area IT-CSouth-CNorth;;;Active;;;;Border Area;Y
+10Y1001C--000417;IT-N-CN-BORDER;Border Area IT-North-CNorth;;;Active;;;;Border Area;Y
+10Y1001C--000425;IT-SA-SDC-BORDER;Border Area IT-Sardinia-SACODC;;;Active;;;;Border Area;Y
+10Y1001C--000433;IT-SA-CS-BORDER;Border Area IT-Sardinia-CSouth;;;Active;;;;Border Area;Y
+10Y1001C--000441;IT-S-CS-BORDER;Border Area IT-South-CSouth;;;Active;;;;Border Area;Y
+10Y1001C--00055X;IT-S-RSN-BORDER;Border Area IT-South-Rossano;;;Active;;;;Border Area;Y
+10Y1001C--00056V;IT-SIC-RSN-BORDE;Border Area IT-Sicily-Rossano;;;Active;;;;Border Area;Y
+10Y1001C--00057T;ME-IT-AREA;Border area Montenegro Italy;;10XCS-CG-TSO---5;Active;;;;Border Area;Y
+10Y1001C--00058R;NSL-AREA;Interconnector area NSL (Norway-UK);;;Active;;;;Scheduling Area;Y
+10Y1001C--00059P;CORE;Core CCR;;;Active;;;;Capacity Calculation Region,Outage Coordination Region,Scheduling Area;Y
+10Y1001C--000603;DK1_NL_VT_AC;Virtual AC border Denmark West-Netherlands;;10X1001A1001A361;Active;;;;Border Area;Y
+10Y1001C--000611;IT-MONTENEGRO;BIDDING ZONE ITALY-MONTENEGRO;;;Active;;IT;;Bidding Zone;Y
+10Y1001C--00082U;TTG-NL-VH-1-AREA;DE TenneT Nordlink Virtual HUB 1;;10XDE-EON-NETZ-C;Active;;;;Market Area;Y
+10Y1001C--00083S;RTE-TERRE_WESTEU;Border domain RTE-TERRE Western Europe;;;Active;;;;Border Area;Y
+10Y1001C--00084Q;REN-TERRE;Border domain REN-TERRE Western Europe;;;Active;;;;Border Area;Y
+10Y1001C--00085O;MFRR_REGION;mFRR region;;;Active;;BE;;Scheduling Area;Y
+10Y1001C--00086M;DE-AT-PL-4MMC;Market Coupling Area DE-AT-PL-4MMC;;;Active;;;;Market Area;Y
+10Y1001C--00087K;REE-TERRE;Border domain REE-TERRE Western Europe;;;Active;;;;Border Area;Y
+10Y1001C--00088I;BD-NORTH-SOUTH;Border Domain NORTHCOMP-SOUTHCOMP;;;Active;;;;Border Area;Y
+10Y1001C--00089G;BD-SGD-TERRE-WE;Border Domain Swissgrid-TERRE Western Europe;;;Active;;;;Border Area;Y
+10Y1001C--00090V;AFRR_REGION;aFRR Region;;;Active;;;;Scheduling Area;Y
+10Y1001C--00091T;IT-CA-SIC-BORDER;Border Area IT-Calabria-Sicily;;;Active;;;;Border Area;Y
+10Y1001C--00092R;IT-S-CA-BORDER;Border Area IT-South-Calabria;;;Active;;;;Border Area;Y
+10Y1001C--00093P;FR-GB-IFA2-AREA;Border Area for IFA2;;10XFR-RTE------Q;Active;;;;Border Area;Y
+10Y1001C--00094N;TTG-NL-VH-2-AREA;DE TenneT Nordlink Virtual HUB 2;;10XDE-EON-NETZ-C;Active;;;;Market Area;Y
+10Y1001C--00095L;CCR-SWE;Capacity Calculation Region SWE;;22XCORESO------S;Active;;;;Capacity Calculation Region,Market Area,Outage Coordination Region,Scheduling Area;Y
+10Y1001C--00096J;IT-CALABRIA;Italy Calabria;;;Active;;;;Bidding Zone,Scheduling Area;Y
+10Y1001C--00097H;FR-GB-EL1-AREA;Border Area for ElecLink;;48X000000000101E;Active;;;;Border Area;Y
+10Y1001C--00098F;FR_UK_IFA_BZN;IFA Bidding Zone;;10XFR-RTE------Q;Active;;;;Bidding Zone;Y
+10Y1001C--00099D;TERNA-TERREWE;Border Domain TERNA-TERRE Western Europe;;;Active;;;;Border Area;Y
+10Y1001C--00100H;CAKOSTT;Control Area Kosovo*;;;Active;;;;Bidding Zone,Control Area;Y
+10Y1001C--00101F;CBOST-KOSTT;Control Block Albania-Kosovo*;;;Active;;;;Control Block;Y
+10Y1001C--00102D;RKS-MEAREA;Border area Kosovo* Montenegro;;10XRKS-KOSTT-007;Active;;;;Border Area;Y
+10Y1001C--00103B;RKS-SRAREA;Border area Kosovo* Serbia;;;Active;;;;Border Area;Y
+10Y1001C--001049;RKS-MKAREA;Border area Kosovo* N.Macedonia;;;Active;;;;Border Area;Y
+10Y1001C--001057;RKS-ALAREA;Border area Kosovo* Albania;;;Active;;;;Border Area;Y
+10Y1001C--001065;FR-GB-IFA-AREA;Border Area for IFA;;10XFR-RTE------Q;Active;;;;Border Area;Y
+10Y1001C--001073;COMP_OST_KOSTT;Control Compensation Area Control Block Albania-Kosovo*;;;Active;;;;Control Block;Y
+10Y1001C--001081;EWIC-AREA;Interconnector area EWIC;;;Active;;;;Scheduling Area;Y
+10Y1001C--00118Z;MOYLE-AREA;Interconnector area Moyle;;;Active;;;;Scheduling Area;Y
+10Y1001C--00119X;INREGION;Imbalance netting region;;;Active;;;;Scheduling Area;Y
+10Y1001C--00120B;CCR_BALTIC;Capacity Calculation Region Baltic;;;Active;;;;Capacity Calculation Region,Outage Coordination Region;Y
+10Y1001C--001219;NO_FICT_AREA_2A;Norwegian Fictitious Area 2A;;;Active;;;;Bidding Zone;Y
+10Y1001C--001227;SI-HU-AREA;Border area Slovenia-Hungary;;;Active;;;;Border Area;Y
+10Y1001C--001235;ROA-CEENORTH;Regional Outage Area Central East Europe North;;;Active;;;;Regional Outage Area;Y
+10Y1001C--001243;ROA-CEESOUTH;Regional Outage Area Central East Europe South;;;Active;;;;Regional Outage Area;Y
+10Y1001C--001251;ROA-CWE;Regional Outage Area Central West Europe;;;Active;;;;Regional Outage Area;Y
+10Y1001C--00127Y;ROA-DACH;Regional Outage Area DACH;;;Active;;;;Regional Outage Area;Y
+10Y1001C--00128W;ROA-DRAVA;Regional Outage Area DRAVA;;;Active;;;;Regional Outage Area;Y
+10Y1001C--00129U;ROA-EASTEUROPE;Regional Outage Area Central East Europe;;;Active;;;;Regional Outage Area;Y
+10Y1001C--001308;ROA-NIB;Regional Outage Area NIB;;;Active;;;;Regional Outage Area;Y
+10Y1001C--001316;ROA-REE-REN;Regional Outage Area REE-REN;;;Active;;;;Regional Outage Area;Y
+10Y1001C--001324;ROA-REE-RTE;Regional Outage Area REE-RTE;;;Active;;;;Regional Outage Area;Y
+10Y1001C--001332;ROA-SHB;Regional Outage Area SHB;;;Active;;;;Regional Outage Area;Y
+10Y1001C--001340;ROA-SMMB;Regional Outage Area SMMB;;;Active;;;;Regional Outage Area;Y
+10Y1001C--00135Z;ROA-SEE-MG;Regional Outage Area South East Europe MG;;;Active;;;;Regional Outage Area;Y
+10Y1001C--00136X;CCR-HANSA;Capacity Calculation Region Hansa;;;Active;;;;Capacity Calculation Region,Outage Coordination Region;Y
+10Y1001C--00137V;CCR-ITALYNORTH;Capacity Calculation Region Italy North;;;Active;;;;Capacity Calculation Region,Outage Coordination Region;Y
+10Y1001C--00138T;CCR-GRIT;Capacity Calculation Region Greece Italy;;;Active;;;;Capacity Calculation Region,Outage Coordination Region;Y
+10Y1001C--00139R;CCR-SEE;Capacity Calculation Region Selene;;;Active;;;;Capacity Calculation Region,Outage Coordination Region;Y
+10Y1001C--001405;GB-NO-AREA;Border Area UK-Norway;;;Active;;;;Border Area;Y
+10Y1001C--001413;IT-CN-CO-BORDER;Border Area IT-Cnorth-Corsica;;;Active;;;;Border Area;Y
+10Y1001C--001421;CMM;Balancing Capacity Calculation Region;;10XCZ-CEPS-GRIDE;Active;;;;Capacity Calculation Region;Y
+10Y1001C--00146U;NORDIC_SYNC_AREA;Nordic Synchronous Area;;;Active;;;;Bidding Zone,Synchronous Area;Y
+10Y1001C--00147S;UA-MD-AREA;Border Area Ukraine - Moldova;;;Active;;;;Border Area;Y
+10Y1001C--00148Q;SE3A;Swedish Fictitious Area SE3A;;;Active;;;;Bidding Zone;Y
+10Y1001C--00149O;CH-2-ADFI-AREA;Technical Profile between CH and adjacent areas of AT, DE, FR, IT;;;Active;;;;Border Area;Y
+10Y1001C--001502;IE-GB-GIL-AREA;Border area between IE and GB;;;Active;;;;Border Area;Y
+10Y1001C--001510;50HZ-DKEVBZ;50Hz-DKE virtual bidding zone on 50Hz side (advanced hybrid coupling);;;Active;;;;Border Area;Y
+10Y1001C--00152Z;TTG-VBZ-NO2A;TTG–NO2 Virtual Bidding Zone on TTG side (advanced hybrid coupling);;10XDE-EON-NETZ-C;Active;;;;Border Area;Y
+10Y1001C--00153X;PSE-LTVBZ;PSE-LT virtual bidding zone on PSE side (advanced hybrid coupling);;;Active;;;;Local Market Area;Y
+10Y1001C--00154V;PSE-SE4VBZ;PSE-SE4 virtual bidding zone on PSE side (advanced hybrid coupling);;;Active;;;;Local Market Area;Y
+10YAD-AND------X;ANDORRA;Andorra Market area;;;Active;;;;Scheduling Area;Y
+10YAL-KESH-----5;AL;Albania;;;Active;;AL;;Bidding Zone,Control Area,LFC Area,LFC Block,Member State,Scheduling Area;Y
+10YAT-APG------L;AT;Austria;;;Active;1220;AT;;Bidding Zone,Control Area,LFC Area,LFC Block,Member State,Scheduling Area;Y
+10YAT-TIRAG-N--C;TIWAG-NETZ_AREA;TIWAG-Netz AG;;;Active;;;;Scheduling Area;Y
+10YAT-VKW-UNG--K;VUEN_AREA;VUEN Area;;;Active;;;;Scheduling Area;Y
+10YBA-JPCC-----D;BA;Bosnia and Herzegovina;;;Active;71000;BA;;Bidding Zone,Control Area,LFC Area,Member State,Scheduling Area;Y
+10YBE----------2;BE;Belgium;;;Active;;;;Bidding Zone,Control Area,LFC Area,LFC Block,Member State,Scheduling Area;Y
+10YCA-BULGARIA-R;BG;Bulgaria;;;Active;1407;BG;;Bidding Zone,Control Area,LFC Area,LFC Block,Member State,Scheduling Area,Control Block;Y
+10YCB-ALBANIA--1;CB-AL;CB Albania;;;Active;;AL;;Control Block;Y
+10YCB-BE-------T;CB-ELIA;Control Block  Belgium;;;Active;;;;Control Block;Y
+10YCB-BULGARIA-F;CB_BULGARIA;Elektroenergien Sistemen Operator EAD;;;Active;1407;BG;;Control Block;Y
+10YCB-CZECH-REP5;CB-CZECH-REP-ARE;CEPS, a. s.;;;Active;10152;CZ;;Control Block;Y
+10YCB-FR-ES-PT-S;CB_FR-ES-PT;Control Block France-Spain-Portugal;;;Active;;;;Control Block;Y
+10YCB-GERMANY--8;DE_DK1_LU;CB Germany_Denmark_Luxemburg;10YCC-UCTE-NO--K;10XDE-RWENET---W;Active;50259;DE;;LFC Block,Control Block;Y
+10YCB-GREECE---2;CB-GR;CB Greece;;;Active;;GR;;Control Block;Y
+10YCB-HUNGARY--J;CB-HU;Control Block Hungary;;;Active;;HU;;Control Block;Y
+10YCB-ITALY----1;ITALY_AREA_CB;Control Block  Italy;;;Active;;;;Control Block;Y
+10YCB-JIEL-----9;CB-RS_MK_ME;CB Serbia_FYROM_Montenegro;;;Active;;;;LFC Block;Y
+10YCB-NL-------V;CB_NL_TENNET;Control Block Netherlands;;;Active;;;;Control Block;Y
+10YCB-POLAND---Z;CB-PL;CB Poland;;;Active;;PL;;Control Block;Y
+10YCB-ROMANIA--C;CB_ROMANIA;Control Block Romanian Power Grid;;;Active;RO-010325;RO;;Control Block;Y
+10YCB-SI-HR-BA-3;CB-SI_HR_BA;CB Slovenia_Croatia_Bosnia and Hercegovina;;;Active;;;;LFC Block;Y
+10YCB-SLOVAKIA-H;CB-SLOVAKIA-AREA;Slovenska elektrizacna prenosova sustava, a.s.;;;Active;824 84;SL;;Control Block;Y
+10YCB-SWITZERL-D;CB_CH;Control Block  Switzerland;;;Active;;;;Control Block;Y
+10YCB-TURKEY---V;CB_TURKEY;Control Block Turkey;;;Active;;TR;;Control Block;Y
+10YCC-UCTE-NO--K;CC_RG_CE_NORTH;Coordination Center RG CE North (Amprion);10YEU-CONT-SYNC0;10XDE-RWENET---W;Active;50259;DE;;Coordination Center Zone;Y
+10YCC-UCTE-SO--W;UCTE_SOUTH;Control Centre UCTE South (ETRANS);;;Active;;;;Coordination Center Zone;Y
+10YCH-SWISSGRIDZ;CH;Switzerland;;;Active;5070;CH;;Bidding Zone,Control Area,LFC Area,LFC Block,Member State,Scheduling Area;Y
+10YCS-CG-TSO---S;ME;Montenegro;;10XCS-CG-TSO---5;Active;;ME;;Bidding Zone,Control Area,LFC Area,Member State,Scheduling Area;Y
+10YCS-SERBIATSOV;RS;Serbia;;;Active;11000;RS;;Bidding Zone,Control Area,LFC Area,Member State,Scheduling Area;Y
+10YCY-1001A0003J;CY;Cyprus;;;Active;;CY;;Bidding Zone,Control Area,Member State,Scheduling Area;Y
+10YCZ-CEPS-----N;CZ;Czech Republic;;;Active;;;;Bidding Zone,Control Area,LFC Area,LFC Block,Member State,Scheduling Area;Y
+10YDE-ENBW-----N;DE-TRANSNETBW;Germany TransnetBW;;;Active;70173;DE;;Control Area,LFC Area,Scheduling Area,Market Balance Area;Y
+10YDE-EON------1;DE-TENNET_DE;Germany TenneT DE;;;Active;;;;Control Area,LFC Area,Scheduling Area;Y
+10YDE-RWENET---I;DE-AMPRION-SCHED;Amprion GmbH;10YCB-GERMANY--8;10XDE-RWENET---W;Active;50259;DE;;Control Area,LFC Area,Scheduling Area,Market Balance Area;Y
+10YDE-VE-------2;DE-50HERTZ;Germany 50Hertz;;;Active;;DE;;Control Area,LFC Area,Scheduling Area,Market Balance Area;Y
+10YDK-1-------AA;OPT_AREA_DENMARK;Optimization area Denmark1;;;Active;;;;Scheduling Area;Y
+10YDK-1--------W;DK1;Denmark DK1;;10X1001A1001A248;Active;;;;Bidding Zone,LFC Area,Scheduling Area;Y
+10YDK-2--------M;DK2;Denmark DK2;;10X1001A1001A248;Active;;;;Bidding Zone,LFC Area,Scheduling Area;Y
+10YDOM-1001A001A;BALIT;FR and GB Cross Border Coordinated Market Balance Area;;;Active;;;;Border Area;Y
+10YDOM-1001A0028;GB-NL_MARKET;Market domain Great Britain – the Netherlands;;;Active;;;;Border Area;Y
+10YDOM-1001A0036;IT-SI-AREA;Border area Italy Slovenia;;;Active;;;;Border Area;Y
+10YDOM-1001A0044;HR-SI-AREA;Border area Croatia Slovenia;;;Active;;;;Border Area;Y
+10YDOM-1001A0060;CH-IT-AREA;Border area Switzerland Italy;;;Active;;;;Border Area;Y
+10YDOM-1001A027T;HU-RO-AREA;Border area Hungary Romania;;;Active;;;;Border Area;Y
+10YDOM-1001A028R;HU-SK-AREA;Border area Hungary Slovakia;;;Active;;;;Border Area;Y
+10YDOM-1001A029P;HU-UA-AREA;Border area Hungary Ukraine;;;Active;;;;Border Area;Y
+10YDOM-1001A0303;BA-RS-AREA;Border area BiH Serbia;;;Active;;;;Border Area;Y
+10YDOM-1001A0311;MK-RS-AREA;Border area Macedonia Serbia;;;Active;;;;Border Area;Y
+10YDOM-1001A033Y;BG-RS-AREA;Border area Bulgaria Serbia;;;Active;;;;Border Area;Y
+10YDOM-1001A034W;ME-RS-AREA;Border area Montenegro Serbia;;;Active;;;;Border Area;Y
+10YDOM-1001A035U;RO-RS-AREA;Border area Romania Serbia;;;Active;;;;Border Area;Y
+10YDOM-1001A036S;ES-AD-AREA;Border Area Spain Andorra;;;Active;;;;Border Area;Y
+10YDOM-1001A037Q;FR-GB-SEL-AREA;Border area between France and the UK at Sellindge delivery point;;;Active;;;;Border Area;Y
+10YDOM-1001A038O;FR-GB-MAN-AREA;Border area between France and the UK at Mandarins delivery point;;;Active;;;;Border Area;Y
+10YDOM-1001A039M;NO-NL-EEMSHAVEN;Border domain Norway-Netherlands at Eemshaven;;;Active;;;;Border Area;Y
+10YDOM-1001A0400;NO-NL-FEDA;Border domain Norway-Netherlands at Feda;;;Active;;;;Border Area;Y
+10YDOM-1001A041Z;NO-NL-AREA;Border Area Norway-Netherlands;;;Active;;;;Border Area;Y
+10YDOM-1001A042X;AL-GR-AREA;BORDER AREA ALBANIA GREECE;;;Active;;;;Border Area;Y
+10YDOM-1001A043V;BG-GR-AREA;BORDER AREA GREECE BULGARIA;;;Active;;;;Border Area;Y
+10YDOM-1001A044T;ENDK-DK1-DK2;Energinet.dk Storebælt;;10X1001A1001A248;Active;;;;Border Area;Y
+10YDOM-1001A045R;ME-BA-AREA;Border area Montenegro BiH;;;Active;;;;Border Area;Y
+10YDOM-1001A046P;HR-BA-AREA;Border area Croatia BiH;;;Active;;;;Border Area;Y
+10YDOM-1001A047N;CWE-RGCE-BORDER;Border between CWE Zone and the rest of Continental Europe;;;Active;;;;Border Area;Y
+10YDOM-1001A048L;FR-RGCE-BORDER;Border between France and the rest of Continental Europe;;;Active;;;;Border Area;Y
+10YDOM-1001A049J;ENDK-DK-NO;Energinet.dk/Statnett Skagerrak;;;Active;;;;Border Area;Y
+10YDOM-1001A050Y;ENDK-SK1-SK2;Energinet.dk/Statnett SK1 &  SK2;;;Active;;;;Border Area;Y
+10YDOM-1001A051W;ENDK-SK3-SK4;Energinet.dk/Statnett SK3 &  SK4;;;Active;;;;Border Area;Y
+10YDOM-1001A052U;DE-RGCE-BORDER;Border between Germany and the rest of Continental Europe;;;Active;;;;Border Area;Y
+10YDOM-1001A053S;GR-MK-AREA;BORDER AREA FYROM GREECE;;;Active;;;;Border Area;Y
+10YDOM-1001A054Q;ME-AL-AREA;Border area Montenegro - Albania;;;Active;;;;Border Area;Y
+10YDOM-1001A055O;LV-LT-AREA;Border Area Latvia Lithuania;;;Active;;;;Border Area;Y
+10YDOM-1001A056M;LV-RU-AREA;Border Area Latvia Russia;;;Active;;;;Border Area;Y
+10YDOM-1001A057K;EE-FI-AREA;Border area Estonia Finland;;;Active;;;;Border Area;Y
+10YDOM-1001A058I;EE-LV-AREA;Border area Estonia Latvia;;;Active;;;;Border Area;Y
+10YDOM-1001A059G;EE-RU-AREA;Border area Estonia Russia;;;Active;;;;Border Area;Y
+10YDOM-1001A060V;LT-SE-AREA;Border Area Lithuania Sweden;;;Active;;;;Border Area;Y
+10YDOM-1001A061T;NORTH-ITALY-BORD;Border between Italy and France, Austria, Slovenia, Switzerland;;;Active;;;;Border Area;Y
+10YDOM-1001A062R;DE-SE4-AREA;Border area DE-SE4;;;Active;;;;Border Area;Y
+10YDOM-1001A063P;FI-SE1-AREA;Border area FI-SE1;;;Active;;;;Border Area;Y
+10YDOM-1001A064N;FI-SE3-AREA;Border area FI-SE3;;;Active;;;;Border Area;Y
+10YDOM-1001A065L;NO1-SE3-AREA;Border area NO1-SE3;;;Active;;;;Border Area;Y
+10YDOM-1001A066J;NO3-SE2-AREA;Border area NO3-SE2;;;Active;;;;Border Area;Y
+10YDOM-1001A067H;NO4-SE1-AREA;Border area NO4-SE1;;;Active;;;;Border Area;Y
+10YDOM-1001A068F;NO4-SE2-AREA;Border area NO4-SE2;;;Active;;;;Border Area;Y
+10YDOM-1001A069D;PL-SE4-AREA;Border area PL-SE4;;;Active;;;;Border Area;Y
+10YDOM-1001A070S;SE1-SE2-AREA;Border area SE1-SE2;;;Active;;;;Border Area;Y
+10YDOM-1001A071Q;SE2-SE3-AREA;Border area SE2-SE3;;;Active;;;;Border Area;Y
+10YDOM-1001A072O;SE3-SE4-AREA;Border area SE3-SE4;;;Active;;;;Border Area;Y
+10YDOM-1001A073M;BORDER_NO1-NO2;Border area NO1-NO2;;;Active;;;;Border Area;Y
+10YDOM-1001A074K;BORDER_NO1-NO3;Border area NO1-NO3;;;Active;;;;Border Area;Y
+10YDOM-1001A075I;BORDER_NO1-NO5;Border area NO1-NO5;;;Active;;;;Border Area;Y
+10YDOM-1001A076G;BORDER_NO2-NO5;Border area NO2-NO5;;;Active;;;;Border Area;Y
+10YDOM-1001A077E;BORDER_NO3-NO4;Border area NO3-NO4;;;Active;;;;Border Area;Y
+10YDOM-1001A078C;BORDER_NO4-FI;Border area NO4-FI;;;Active;;;;Border Area;Y
+10YDOM-1001A079A;ENDK-DK1-SE3;Energinet.dk/Svenska Kraftnat Kontiskan;;;Active;;;;Border Area;Y
+10YDOM-1001A080P;ENDK-DK2-SE4;Energinet.dk/Svenska Kraftnät Øresund;;;Active;;;;Border Area;Y
+10YDOM-1001A081N;LT-PL-AREA;Border Area LT-PL;;;Active;;;;Border Area;Y
+10YDOM-1001A082L;DE-PL-CZ-AREA;Technical Profile between Germany (50Hertz), Poland and Czech Republic;;;Active;;;;Border Area;Y
+10YDOM-1001A083J;CZ-SK-AREA;Border Area Czech Republic Slovakia;;;Active;;;;Border Area;Y
+10YDOM-1001A084H;FI_RU_AREA;Border Area Finland Russia;;;Active;;;;Border Area;Y
+10YDOM-1001A085F;IT-MT-AREA;Border Area Italy Malta;;;Active;;;;Border Area;Y
+10YDOM-1001A086D;BE-LU-AREA;Border Area between Belgium (BE) and Luxembourg (LU);;;Active;;;;Border Area;Y
+10YDOM-1001A087B;EE-RU-LV-AREA;Border area Estonia-Russia-Latvia;;;Active;;;;Border Area;Y
+10YDOM-1001A0889;BORDER_NO3-NO5;Border area NO3-NO5;;;Active;;;;Border Area;Y
+10YDOM-1001A0897;RO-UA-AREA;Border Area Romania-Ucraina;;;Active;;;;Border Area;Y
+10YDOM-1001A090M;RO-BG-AREA;Border Area Romania-Bulgaria;;;Active;;;;Border Area;Y
+10YDOM-1001A091K;RO-MD-AREA;Border Area Romania- Republica Moldova;;;Active;;;;Border Area;Y
+10YDOM-1001A092I;BORDER_DE-NL;Border area Germany - Netherlands;;;Active;;;;Border Area;Y
+10YDOM-1001A093G;BG-MK-AREA;BORDER AREA BULGARIA MACEDONIA;;;Active;;;;Border Area;Y
+10YDOM-1001A094E;BORDER_DK1-NL;Border area Denmark1 - Netherlands;;10X1001A1001A361;Active;;;;Border Area;Y
+10YDOM-1010A009U;CH-AT-AREA;Border Area Switzerland Austria;;;Active;;;;Border Area;Y
+10YDOM-1010A0108;GR-IT-AREA;Border Area Greece Italy;;;Active;;;;Border Area;Y
+10YDOM-1010A0116;AT-IT-AREA;Border area Austria-Italy;;;Active;;;;Border Area;Y
+10YDOM-1010A0124;CH-DE-AREA;Border area Germany-Switzerland;;;Active;70173;DE;;Border Area;Y
+10YDOM-1010A0132;HU-RS-AREA;Border area Serbia Hungary;;;Active;;;;Border Area;Y
+10YDOM-1010A0140;ES-MA-AREA;Border Area Spain Morocco;;;Active;;;;Border Area;Y
+10YDOM-1010A016X;AT-DE-AREA;Border Area Austria–Germany;;;Active;;;;Border Area;Y
+10YDOM-1010A018T;APG-TENNET-AREA;Border Area APG–TenneT (Germany);;;Active;;;;Border Area;Y
+10YDOM-1010A019R;APG-DETNG-AREA;Border Area APG–DE-TransnetBW;;;Active;;;;Border Area;Y
+10YDOM-1010A0205;APG-AMPRION-AREA;Border Area APG–Amprion;;;Active;;;;Border Area;Y
+10YDOM-1010A0213;TTG-ENDK-AREA;Border area TenneT Gmbh – EnDK;;;Active;;;;Border Area;Y
+10YDOM-1010A0221;50HZT-ENDK-AREA;Border area 50Hertz-EnDk;;;Active;;DE;;Border Area;Y
+10YDOM-1010A024Y;NI-GB-AREA;Border area between Northern Ireland (NI) and Great Britain (GB);;;Active;;;;Border Area;Y
+10YDOM-1010A025W;IE-GB-EWIC-AREA;Border area between Republic of Ireland (IE) and Great Britain (GB);;;Active;;;;Border Area;Y
+10YDOM-1010A026U;HR-RS-AREA;Border area Croatia Serbia;;;Active;;;;Border Area;Y
+10YDOM-1010A032Z;AL-RS-AREA;Border area Albania Serbia;;;Active;;;;Border Area;Y
+10YDOM-AT-CZ---5;AT-CZ-AREA;Border Area Austria-Czech Republic;;;Active;;;;Border Area;Y
+10YDOM-AT-HU---0;HU-AT;Border Area;;;Active;;;;Border Area;Y
+10YDOM-AT-SI---V;AT-SI-AREA;Border Area Austria-Slovenia;;;Active;;;;Border Area;Y
+10YDOM--BE-FR--O;BE-FR-AREA;Border area Belgium France;;;Active;;;;Border Area;Y
+10YDOM--BE-NL--8;BE-NL-AREA;Border area Belgium Netherlands.;;;Active;;;;Border Area;Y
+10YDOM--BG-TR--E;BG-TR-AREA;Border Area Bulgaria-Turkey;;;Active;;TR;;Border Area;Y
+10YDOM--CH-FR--W;CH-FR-AREA;Border area Switzerland  France;;;Active;;;;Border Area;Y
+10YDOM-CZ-D2---O;CZ-DETENNET-AREA;CZ-TenneTDE Domain;;;Active;;;;Border Area;Y
+10YDOM-CZ-D8---V;CZ-D8-AREA;Border Area Czech Republic 50Hertz;;;Active;;;;Border Area;Y
+10YDOM-CZ-DE-SKK;CZ-DE-SK-AREA;Border area Czech Repulbic Germany and Slovakia;;;Active;;;;Border Area;Y
+10YDOM--CZ-PL--S;CZ-PL-AREA;Border area Czech Repulbic and Poland;;;Active;;;;Border Area;Y
+10YDOM-D8-PL---R;D8-PL-AREA;Border Area 50Hertz Poland;;;Active;;;;Border Area;Y
+10YDOM--DE-FR--8;DE-FR-AREA;Border area Germany France;;;Active;;;;Border Area;Y
+10YDOM-EON-NL--2;DE-NL-AREA;Border area Germany (TSO: TenneT DE) Netherlands;;;Active;50259;DE;;Border Area;Y
+10YDOM--ES-FR--D;ES-FR-AREA;Border area Spain France;;;Active;;;;Border Area;Y
+10YDOM--ES-PT--T;ES-PT-AREA;Border Area Spain Portugal;;;Active;;;;Border Area;Y
+10YDOM--FR-GB--Y;FR-GB-AREA;Border area between France and the United Kingdom;;;Active;;;;Border Area;Y
+10YDOM--FR-IT--Q;FR-IT-AREA;Border area France Italy;;;Active;;;;Border Area;Y
+10YDOM--GR-TR--8;GR-TR-AREA;Border Area Greece-Turkey;;;Active;;TR;;Border Area;Y
+10YDOM--HR-HU--B;HR-HU-AREA;Border Area Croatia Hungary;;;Active;;;;Border Area;Y
+10YDOM-PL-SE-LT2;LT-SE4-AREA;Polish optimization area PLA;;;Active;;;;Border Area;Y
+10YDOM-PL-SK---O;PL-SK-AREA;Border Area Poland - Slovakia;;;Active;;;;Border Area;Y
+10YDOM-REGION-1V;CWE-EU;CWE Region;;;Active;;;;Scheduling Area;Y
+10YDOM-RWE-NL--W;AMPRION-NL-AREA;Border area Amprion TSO GmbH (DE) TenneT TSO BV (NL);;;Active;;;;Border Area;Y
+10YES-REE------0;ES;Spain;;10XES-REE------E;Active;;;;Bidding Zone,Control Area,LFC Area,LFC Block,Member State,Scheduling Area;Y
+10YEU-CONT-SYNC0;EU-CONTINENT-SYN;Synchronous Zone of Continental Europe;;10XDE-RWENET---W;Active;50259;DE;;Synchronous Area;Y
+10YFI-0--------3;FINORTH;FINorth;;;Active;;FI;;Scheduling Area;Y
+10YFI-1C-------O;FI_CUT_P1;Finnish cut P1;;;Active;;FI;;Scheduling Area;Y
+10YFI-1--------U;FI;Finland;;;Active;;FI;;Bidding Zone,Control Area,LFC Area,Member State,Scheduling Area;Y
+10YFI-2--------K;FISOUTH;FISouth;;;Active;;FI;;Scheduling Area;Y
+10YFI-3-------9R;FICENTRAL;FI Central;;;Active;;;;Scheduling Area;Y
+10YFR-RTE------C;FR;France;;;Active;;;;Bidding Zone,Control Area,LFC Area,LFC Block,Member State,Scheduling Area,Control Block;Y
+10YGB----------A;GB;Great Britain;;;Active;;GB;;Bidding Zone,Control Area,LFC Area,LFC Block,Scheduling Area,Synchronous Area;Y
+10YGR-HTSO-----Y;GR;Greece;;;Active;;GR;;Bidding Zone,Control Area,LFC Area,LFC Block,Member State,Scheduling Area;Y
+10YHR-HEP------M;HR;Croatia;;;Active;;HR;;Bidding Zone,Control Area,LFC Area,Member State,Scheduling Area;Y
+10YHU-MAVIR----U;HU;Hungary;;;Active;;HU;;Bidding Zone,Control Area,LFC Area,LFC Block,Member State,Scheduling Area;Y
+10YIE-1001A00010;IE;Ireland;;;Active;;IE;;Control Area,LFC Area,LFC Block,Member State,Scheduling Area;Y
+10YIT-GRTN-----B;IT;Italy;;;Active;;;;Control Area,LFC Area,LFC Block,Member State,Scheduling Area;Y
+10YLT-1001A0008Q;LT;Lithuania;;;Active;;;;Bidding Zone,Control Area,LFC Area,Member State,Scheduling Area;Y
+10YLU-CEGEDEL-NQ;LU;Luxembourg;;;Active;;;;Control Area,LFC Area,Member State,Scheduling Area,Market Balance Area;Y
+10YLV-1001A00074;LV;Latvia;;;Active;;;;Bidding Zone,Control Area,LFC Area,Member State,Scheduling Area;Y
+10YMA-ONE------O;MOROCCO;Morocco Market area;;;Active;;;;Scheduling Area;Y
+10YMK-MEPSO----8;MK;FYROM;;;Active;;MK;;Bidding Zone,Control Area,LFC Area,Member State,Scheduling Area;Y
+10YNL----------L;NL;Netherlands;;;Active;;;;Bidding Zone,Control Area,LFC Area,LFC Block,Member State,Scheduling Area;Y
+10YNO-0--------C;NO;Norway;;;Active;;;;Control Area,LFC Area,Member State,Scheduling Area;Y
+10YNO-1--------2;NO1;Norwegian Area Elspot Area 1;;;Active;;;;Bidding Zone,Scheduling Area;Y
+10YNO-2--------T;NO2;Norwegian Area Elspot Area 2;;;Active;;;;Bidding Zone,Scheduling Area;Y
+10YNO-3--------J;NO3;Norwegian Area Elspot Area 3;;;Active;;;;Bidding Zone,Scheduling Area;Y
+10YNO-4--------9;NO4;Norwegian Area Elspot Area 4;;;Active;;;;Bidding Zone,Scheduling Area;Y
+10YPL-AREA-----S;PL;Poland;;;Active;05-520;PL;;Bidding Zone,Control Area,LFC Area,LFC Block,Member State,Scheduling Area;Y
+10YPT-REN------W;PT;Portugal;;10XPT-REN------9;Active;;;;Bidding Zone,Control Area,LFC Area,LFC Block,Member State,Scheduling Area;Y
+10YRO-TEL------P;RO;Romania;;;Active;;RO;;Bidding Zone,Control Area,LFC Area,LFC Block,Member State,Scheduling Area;Y
+10YSE-0--------U;SE_CUT_AREA_1;Swedish cut area 1;;;Active;;;;Scheduling Area;Y
+10YSE-1-------AZ;OPT_AREA_SWEDEN;Optimization area Sweden;;;Active;;;;Scheduling Area;Y
+10YSE-1C-------E;SE_CUT_1;Swedish cut 1;;;Active;;;;Scheduling Area;Y
+10YSE-1--------K;SE;Sweden;;;Active;;;;Control Area,LFC Area,Member State,Scheduling Area,Market Balance Area;Y
+10YSE-2--------A;SE_CUT_AREA_2;Swedish cut area 2;;;Active;;;;Scheduling Area;Y
+10YSE-2C-------4;SE_CUT_2;Swedish cut 2;;;Active;;;;Scheduling Area;Y
+10YSE-3--------0;SE_CUT_AREA_3;Swedish cut area 3;;;Active;;;;Scheduling Area;Y
+10YSE-3C-------V;SE_CUT_3;Swedish cut 3;;;Active;;;;Scheduling Area;Y
+10YSE-4C-------R;SE_CUT_4;Swedish cut 4;;;Active;;;;Market Balance Area;Y
+10YSE-4--------R;SE_CUT_AREA_4;Swedish cut area 4;;;Active;;;;Scheduling Area;Y
+10YSI-ELES-----O;SI;Slovenia;;;Active;;SI;;Bidding Zone,Control Area,LFC Area,Member State,Scheduling Area;Y
+10YSK-SEPS-----K;SK;Slovak Republic;;;Active;;;;Bidding Zone,Control Area,LFC Area,LFC Block,Member State,Scheduling Area;Y
+10YTR-TEIAS----W;TEIAS_AREA;TEIAS Area;;;Active;06100;TR;;Bidding Zone,Control Area,LFC Area,LFC Block,Member State,Scheduling Area;Y
+10YUA-WEPS-----0;UA-BEI;Ukrainian Area of Burshtyn island;;10X1001C--00001X;Active;;;;Bidding Zone,LFC Area,Scheduling Area;Y
+11Y0-0000-0001-T;NP-ID-C;Nord Pool AS;;11XNPSPOT-ELBASW;Active;;;;Balance Group;Y
+11Y0-0000-0149-L;NP-DA-C;Nord Pool DayAhead;;11XNPSPOT-ELBASW;Active;;;;Balance Group;Y
+11Y0-0000-0202-G;EMCO_BG_RDIFF;EMCO BG Rounding Diff;;11XNPSPOT-ELBASW;Active;;;;Balance Group;Y
+11Y0-0000-0265-K;GB1A-FR-AREA;UK optimization area GB1A;;11XNPSPOT-ELBASW;Active;;;;Border Area;Y
+11Y0-0000-0392-C;FRQUZ-EAAS-EEG;Frequenz Energy-as-a-Service GmbH EEG;;11X0-0000-0544-U;Active;;;;Balance Group;Y
+11Y0-0000-0393-9;FRQUZ-EAAS-TNNT;Frequenz Energy-as-a-Service GmbH Tennet;;11X0-0000-0544-U;Active;;;;Balance Group;Y
+11Y0-0000-0394-6;FRQUZ-EAAS-PRL;Frequenz Energy-as-a-Service GmbH PRL;;11X0-0000-0544-U;Active;;;;Balance Group;Y
+11Y0-0000-0576-Z;KEHAGPPA;KEHAGPPA;;11XKEHAGEH-----S;Active;;;;Balance Group;Y
+11Y0-0000-0937-S;GDE_OHA_AMPRION;Gemeindewerke Oberhaching GmbH // Amprion;;11X0-0000-0280-4;Active;;;;Balance Group;Y
+11Y0-0000-0938-P;GDE_OHA_TENNET;Gemeindewerke Oberhaching GmbH // TenneT;;11X0-0000-0280-4;Active;;;;Balance Group;Y
+11Y0-0000-0939-M;GDE_OHA_TRANSNET;Gemeindewerke Oberhaching GmbH // TransnetBW;;11X0-0000-0280-4;Active;;;;Balance Group;Y
+11Y0-0000-0940-8;GDE_OHA_50HERTZ;Gemeindewerke Oberhaching GmbH // 50hertz;;11X0-0000-0280-4;Active;;;;Balance Group;Y
+11Y0-0000-1110-H;11XSTWB-RD-----1;StWB-Redispatch;;;Active;;;;Balance Group;Y
+11Y0-0000-1148-I;Y-11Y-RDMVVNETZE;Redispatch 2.0 MVV Netze GmbH;;;Active;;;;Balance Group;Y
+11Y0-0000-1157-H;Y-11Y-RD-ENO;EIC RD 2.0 ENO;;;Active;;;;Balance Group;Y
+11Y0-0000-1169-7;11YRD-SWU-NETZEX;Redispatch Stadtwerke Ulm/Neu-Ulm Netze GmbH;;11XENERGIEPLUS-2;Active;;;;Balance Group;Y
+11Y0-0000-1360-O;RD_BNNETZE;Redispatch_bnnetze_GmbH;;11XBN-NETZ-KWK-L;Active;;;;Balance Group;Y
+11Y0-0000-1576-T;CURRDBK;Redispatch Bilanzkreis NetCur;;11XBAYER-BTSEMP4;Active;;;;Balance Group;Y
+11Y0-0000-1626-7;11YRED-BK-SWM--R;Stadtwerke Mühlheim am Main GmbH - Redispatch 2.0;;11XSWMUEHLHEIM-G;Active;;;;Balance Group;Y
+11Y0-0000-1779-A;BPGSK;BP Gelsenkirchen Refinery;;11XBPGAS-------E;Active;;;;Balance Group;Y
+11Y0-0000-1866-I;ENAL-D-ID;EnAlpin-D-Intraday;;11XED-H-GENERA-3;Active;;;;Balance Group;Y
+11Y0-0000-1871-T;KEHAG-PPA;PPA;;11X0-0000-0661-Q;Active;;;;Balance Group;Y
+11Y0-0000-2280-F;TGPLOA;TotalEnergies Gas & Power Ltd OA  ;;11XTOTAL-------8;Active;;;;Balance Group;Y
+11Y0-0000-2290-B;PPA_BEW;PPA BEW;;11XBEWVERTRIEB1E;Active;;;;Balance Group;Y
+11Y0-0000-2291-8;BEW_VERTRIEB_PPA;Ausspeisung PPA und Spot;;11XBEWVERTRIEB1E;Active;;;;Balance Group;Y
+11Y0-0000-2448-Y;SYN-PPA;Syneco_PPA-Anlagen;;11XSYNECO------U;Active;;;;Balance Group;Y
+11Y0-0000-2451-E;BTB_DV_BIO_EEG;BTB_DV_BIO_EEG;;11XBTB-NETZ03019;Active;;;;Balance Group;Y
+11Y0-0000-2500-W;11YENTELIOS----8;11YENTELIOS----8;;11XENTELIOS----7;Active;;;;Balance Group;Y
+11Y0-0000-2610-N;TRAWA;trawa energy;;11X0-0000-0752-M;Active;;;;Balance Group;Y
+11Y0-0000-2690-S;TRAWA_MP;trawa marktprämie;;11X0-0000-0752-M;Active;;;;Balance Group;Y
+11Y0-0000-2692-M;QCELLS_HANDEL_LT;Handelsbilanzkreis QCells LongTerm;;11X0-0000-0545-R;Active;;;;Balance Group;Y
+11YRBAHNSTROM--P;DBBAHNSTROMREGEL;DB Energie GmbH Regelzone 16,7 Hz Bahnstromnetz;;11XDBENERGIE-EDD;Active;;;;Scheduling Area;Y
+12Y-0000000947-3;ATHINAENERGIE-BG;Athina Energie AG;;12X-0000001972-E;Active;;;;Balance Group;Y
+12Y-0000000958-X;AXPO-RENEW---BG;Axpo Trading AG;;;Active;;;;Balance Group;Y
+12Y-0000001043-H;ELGABO-HANDEL-BG;Elgabo BG zur Direktvermarktung von Windkraft;;12X-0000002040-Y;Active;;;;Balance Group;Y
+12Y-000000104L-0;QUBEMASTER----BG;Qube Master Fund Ltd;;;Active;;;;Balance Group;Y
+13Y-MG-T-MG-V--K;VG-WEST-AT;AGGM Austrian Gas Grid Management AG;;;Active;;;;Control Area;Y
+14Y----0000041-W;AT-EXAAMC;Virtual Bidding Zone EXAA;;13X----EXAA----G;Active;;;;Bidding Zone,Market Area;Y
+14YATAPG-00040-E;APG-BID;APG Market Area Intraday;;;Active;;;;Market Area;Y
+14Y-AT-OEKO-MP-3;MPOEKO;OeMAG Abwicklungsstelle für Ökostrom AG;;;Active;;;;Balance Group;Y
+14Y-BZN-AT-SI--F;BZNATSI;Austrian Power Grid AG;;;Active;;;;Border Area;Y
+14YCCPADATENML2H;CCPACCP2;CCP Austria GmbH;;;Active;;;;Balance Group,Market Area;Y
+14YCCPADATENMLDW;CCPACCP1;CCP Austria GmbH;;;Active;;;;Balance Group,Bidding Zone,Market Area;Y
+14YEXAADATENML2F;EXAACCP2;EXAA Abwicklungsstelle für Energieprodukte AG;;;Active;;;;Balance Group,Market Area;Y
+14YEXAADATENMLDU;EXAACCP;EXAA Abwicklungsstelle für Energieprodukte AG;;;Active;;;;Balance Group,Bidding Zone,Market Area;Y
+14Y-GREEN-CCPA-8;CCPAGREEN;CCP Austria GmbH;;;Active;;;;Balance Group;Y
+14Y-KEW--------C;KEWLF;KELAG Energie & Wärme GmbH;;;Active;;;;Balance Group;Y
+14YVERBUND-VEB-K;VEBRL;VERBUND Energy4Business GmbH;;;Active;;;;Balance Group;Y
+16YAODOURO-----I;ADOURO;Area de Oferta Douro;;;Active;;;;Border Area;Y
+16YAODOUROSUP--T;DOUSUP;Area de Oferta Douro Superior;;;Active;;;;Balance Group;Y
+16YAOGUADIANA--T;AGUADIA;Area de Oferta Guadiana;;;Active;;;;Balance Group;Y
+16YAOLEZIRIA---F;ALEZI;Area de Oferta Douro Lezíria;;;Active;;;;Balance Group;Y
+16YAOLIMA------3;ALIMA;Area de Oferta Lima;;;Active;;;;Balance Group;Y
+16YAOMONDEGO---B;AMONDEG;Area de Oferta Mondego;;;Active;;;;Balance Group;Y
+16YAOTAMEGA----0;AOTAMEGA;Area de Oferta Douro Tâmega;;;Active;;;;Balance Group;Y
+16YAOTEJOZEZEREP;ATEJZEZ;Area de Oferta Tejo e Zêzere;;;Active;;;;Balance Group;Y
+17Y000000475668R;FR_VATTENFALL_SA;VATTENFALL ENERGIES SA;;17X000000475689X;Active;;;;Market Area;Y
+17Y000000930808E;FR_UK_IFA2000_1;vhub_UK_IFA2000_link1;;10XFR-RTE------Q;Active;;;;Bidding Zone;Y
+17Y000000930809C;FR_FR_IFA2000_1;vhub_FR_IFA2000_link1;;10XFR-RTE------Q;Active;;;;Bidding Zone;Y
+17Y000000930810R;FR_UK_IFA2000_2;vhub_UK_IFA2000_link2;;10XFR-RTE------Q;Active;;;;Bidding Zone;Y
+17Y000000930811P;FR_FR_IFA2000_2;vhub_FR_IFA2000_link2;;10XFR-RTE------Q;Active;;;;Bidding Zone;Y
+17Y000000930812N;FR_UK_ELECLINK;vhub_UK_Eleclink;;10XFR-RTE------Q;Active;;;;Scheduling Area;Y
+17Y000000930813L;FR_FR_ELECLINK;vhub_FR_Eleclink;;10XFR-RTE------Q;Active;;;;Scheduling Area;Y
+17Y000000930814J;FR_UK_IFA2;vhub_UK_IFA2;;10XFR-RTE------Q;Active;;;;Bidding Zone;Y
+17Y000000930815H;FR_FR_IFA2;vhub_FR_IFA2;;10XFR-RTE------Q;Active;;;;Bidding Zone;Y
+17Y000000930816F;FR_IT_SAV_PIE;vhub_IT_Savoie_Piemont;;10XFR-RTE------Q;Active;;;;Bidding Zone;Y
+17Y000000930817D;FR_FR_SAV_PIE;vhub_FR_Savoie_Piemont;;10XFR-RTE------Q;Active;;;;Bidding Zone;Y
+17Y0000009369493;FR_UK_IFA2_V_BZN;IFA2_virtual_BZN;;10XFR-RTE------Q;Active;;;;Bidding Zone,Border Area;Y
+20Y-LU001-ECCL-1;Y-ECCLUX;European Commodity Clearing Luxembourg Sàrl;;20X-LU003-ECC--S;Active;;;;Balance Group;Y
+21Y000000000001U;PEGNORDB;Point Exchange Gas - NORD B;;21X-FR-A-A0A0A-S;Active;;;;Bidding Zone;Y
+21Y000000000002S;PEGTEREGA;Point Exchange Gas - TIGF;;;Active;;;;Scheduling Area;Y
+21Y000000000003Q;DENMARK-SWEDEN;Joint Balancing Zone;;10X1001A1001A248;Active;;;;Scheduling Area;Y
+21Y000000000011R;VPPV;VPPV;;;Active;;;;Market Area;Y
+21Y000000000012P;TTFB;TTFB;;;Active;;;;Market Area;Y
+21Y000000000014L;BVP;Virtual area for balancing gas Shipper allocation;;;Active;;;;Market Area;Y
+21Y000000000017F;NAP;Virtual area for balancing gas System Operator emergency gas;;;Active;;;;Market Area;Y
+21Y000000000018D;NVP;Virtual area for balancing gas Shipper emergency gas;;;Active;;;;Market Area;Y
+21Y000000000019B;NOMFLXQTR;Virtual area for quarterly flexable contract transfers;;;Active;;;;Market Area;Y
+21Y000000000022M;NOMFLXYR;	Virtual area for yearly flexable contract transfer;;;Active;;;;Market Area;Y
+21Y000000000023K;BLZONE;Belgian Balancing L Zone;;;Active;;;;Scheduling Area;Y
+21Y000000000024I;BHZONE;Belgian Balancing H Zone;;;Active;;;;Scheduling Area;Y
+21Y000000000025G;MG-OST-AT;Market Area East AT;;;Active;;;;Scheduling Area;Y
+21Y000000000026E;NGTN-BG;Balancing zone BULGARIA;;21X-BG-A-A0A0A-C;Active;;;;Scheduling Area;Y
+21Y000000000027C;GTNTT-BG;Gas transmission network for transit transmission (Bulgaria);;;Active;;;;Scheduling Area;Y
+21Y000000000028A;AE-SI;Aggregated exit in Slovenia;;21X-SI-A-A0A0A-8;Active;;;;Market Area;Y
+21Y0000000000298;PCTD_PCLD-ES;EXITS PCTD/PCLD ENAGAS Spain;;;Active;;;;Market Area;Y
+21Y000000000030N;PRODUCTION-ES;PRODUCTION SITES  ENAGAS Spain;;;Active;;;;Market Area;Y
+21Y000000000031L;AGGREX_NS_BG;Aggregated exits NGTN (BG);;;Active;;;;Market Area;Y
+21Y000000000032J;AGGREX_TS_BG;Aggregated exits GTNTT (BG);;;Active;;;;Market Area;Y
+21Y000000000033H;AGGR_PROD_ONTRAS;ONTRAS Aggregate National Production entries;;;Active;;;;Market Area;Y
+21Y000000000034F;AGGR_IND_ONTRAS;ONTRAS Aggregate exits industrial consumers;;;Active;;;;Local Market Area;Y
+21Y000000000035D;TG_AGGR_CUSTOM_L;Thyssengas Aggregated final customers L;;;Active;;;;Local Market Area;Y
+21Y000000000036B;TG_AGGR_CUSTOM_H;Thyssengas aggregated final customers H;;;Active;;;;Local Market Area;Y
+21Y0000000000379;TG_AGGR_PRODUC_L;Thyssengas Aggregated production L;;;Active;;;;Market Area;Y
+21Y0000000000387;TG_AGGR_PRODUC_H;Thyssengas aggregated production H;;;Active;;;;Market Area;Y
+21Y0000000000395;VPM01;VIP Romgaz UGS (RO);;;Active;;;;Market Area;Y
+21Y000000000040K;AGGREN_PR_NS_BG;Aggregated entries NGTN (BG);;;Active;;;;Border Area;Y
+21Y000000000041I;TRS;TRADING REGION SOUTH (GRTgaz - TEREGA) France;;;Active;;;;Border Area;Y
+21Y000000000042G;VTP-CZ;CZ Virtual Trading Point;;;Active;;;;Market Area;Y
+21Y000000000043E;FLXBELPP;Final consumers (BE) (Fluxys) Power Plants L-zone;;21X-BE-A-A0A0A-Y;Active;;;;Local Market Area;Y
+21Y000000000044C;FLXBEHPP;Final consumers (BE) (Fluxys) Power Plants H-zone;;21X-BE-A-A0A0A-Y;Active;;;;Local Market Area;Y
+21Y000000000045A;FLXBELINDUST;Final consumers (BE) (Fluxys) Industrial clients L-zone;;21X-BE-A-A0A0A-Y;Active;;;;Local Market Area;Y
+21Y0000000000468;FLXBEHINDUST;Final consumers (BE) (Fluxys) Industrial clients H-zone;;21X-BE-A-A0A0A-Y;Active;;;;Local Market Area;Y
+21Y0000000000476;FLXBELDISTRIB;Distribution (BE) L-zone;;21X-BE-A-A0A0A-Y;Active;;;;Local Market Area;Y
+21Y0000000000484;FLXBEHDISTRIB;Distribution (BE) H-zone;;21X-BE-A-A0A0A-Y;Active;;;;Local Market Area;Y
+21Y0000000000492;GREATERBELFAST;Greater Belfast Exit Point;;21X0000000013562;Active;;;;Distribution Network Area;Y
+21Y000000000050H;AGGREE_PROD_HR;Aggregated production entrance (HR);;;Active;;;;Local Market Area;Y
+21Y000000000051F;AGGREX_HR;Aggregated exits (HR);;;Active;;;;Local Market Area;Y
+21Y000000000052D;TEREGA-PIC-FR;TEREGA Delivery Pool - Industrials (FR);;;Active;;;;Local Market Area;Y
+21Y000000000053B;TEREGA-PITD-FR;TEREGA Delivery Pool - Distribution (FR);;;Active;;;;Distribution Network Area;Y
+21Y0000000000549;THERMAL_PLANT_IT;Thermal Plants Italy;;;Active;;;;Local Market Area;Y
+21Y0000000000557;DEL_OTHERNET_IT;DEL OTHERNET IT;;;Active;;;;Local Market Area;Y
+21Y0000000000565;NAT_PROD_IT;National Production Italy;;;Active;;;;Local Market Area;Y
+21Y0000000000573;IND_CONSUMERS_IT;Industrial customers Italy;;;Active;;;;Local Market Area;Y
+21Y0000000000581;DISTR_NETWORK_IT;Distribution networks Italy;;;Active;;;;Local Market Area;Y
+21Y000000000060E;VTP_PL_BAL_PLATF;Virtual Trading Point - balancing platform (PL);;;Active;;;;Scheduling Area;Y
+21Y000000000061C;VTP_PL_POLPX;Virtual Trading Point - Gas Exchange (PL);;;Active;;;;Scheduling Area;Y
+21Y000000000062A;VTP_PL_OTC;Virtual Trading Point - OTC (PL);;;Active;;;;Scheduling Area;Y
+21Y0000000000638;DOM_GAS_FIELD_PL;PL - Domestic Gas Fields;;;Active;;;;Local Market Area;Y
+21Y0000000000646;NITROG_REMOV_PL;Nitrogen Removal Plants (PL);;;Active;;;;Local Market Area;Y
+21Y0000000000654;GAS_MIX_FAC_PL;Gas mixing facilities (PL);;;Active;;;;Local Market Area;Y
+21Y0000000000662;END_USERS_PL;Final Consumers (PL);;;Active;;;;Local Market Area;Y
+21Y0000000000670;AGG_DISTRIB_PL;Aggregated Distribution (PL);;;Active;;;;Local Market Area;Y
+21Y000000000070B;POOL_S;Aggregated total exits South Zone;;21X-FR-A-A0A0A-S;Active;;;;Local Market Area;Y
+21Y0000000000719;POOL_N;Aggregated total exits North Zone;;21X-FR-A-A0A0A-S;Active;;;;Local Market Area;Y
+21Y0000000000727;INDUS_POOL_S;Aggregated industrial exits South Zone;;21X-FR-A-A0A0A-S;Active;;;;Local Market Area;Y
+21Y0000000000735;INDUS_POOL_N;Aggregated industrial exits North Zone;;21X-FR-A-A0A0A-S;Active;;;;Local Market Area;Y
+21Y0000000000743;DISTRIB_POOL_S;Aggregated distribution exits South Zone;;21X-FR-A-A0A0A-S;Active;;;;Local Market Area;Y
+21Y0000000000751;DISTRIB_POOL_N;Aggregated distribution exits North Zone;;;Active;;;;Local Market Area;Y
+21Y000000000077Y;AGGREX_BN;Aggregated endconsumers bayernets;;;Active;;;;Local Market Area;Y
+21Y000000000078W;VTP-FI;Virtual Trading Point Finland;;21X000000001393X;Active;;;;Market Area;Y
+21Y000000000079U;MBA-1;MBA group;;;Active;;;;Market Area;Y
+21Y0000000000808;VTP_PL_BALP_L;Virtual Trading Point - balancing platform - L gas (PL);;;Active;;;;Scheduling Area;Y
+21Y0000000000816;VTP_PL_OTC_L;Virtual Trading Point - OTC - L gas(PL);;;Active;;;;Scheduling Area;Y
+21Y0000000000824;VTP_PL_BALP_SGT;Virtual Trading Point - balancing platform TGPS (PL);;;Active;;;;Scheduling Area;Y
+21Y0000000000832;VTP_PL_POLPX_SGT;Virtual Trading Point - Gas Exchange TGPS (PL);;;Active;;;;Scheduling Area;Y
+21Y0000000000840;VTP_PL_OTC_SGT;Virtual Trading Point - OTC - TGPS (PL);;;Active;;;;Scheduling Area;Y
+21Y000000000085Z;PL_TGPS_BAL_AREA;PL - TGPS balancing area;;;Active;;;;Scheduling Area;Y
+21Y000000000086X;PL_L_BAL_AREA;PL - L balancing area;;;Active;;;;Scheduling Area;Y
+21Y000000000087V;PL_E_BAL_AREA;PL - E balancing area;;;Active;;;;Scheduling Area;Y
+21Y000000000088T;VPP;Virtual Production Point;;;Active;;;;Balance Group;Y
+21Y000000000089R;VTP;Virtual Technical Point;;;Active;;;;Balance Group;Y
+21Y0000000000905;CREOSIND;Final Consumer Creos Industrial Clients;;;Active;;;;Market Area;Y
+21Y0000000000913;CREOSDIST;Public Distribution Lux;;;Active;;;;Market Area;Y
+21Y0000000000921;CREOSPOW;Final Consumers Creos Power Plant;;;Active;;;;Market Area;Y
+21Y000000000094Y;CREOSINDPOW;Final Consumers Creos Industrial;;;Active;;;;Market Area;Y
+21Y000000000095W;DOM_GAS_FLD_L_PL;PL - Domestic Gas Fields -  L-gas;;;Active;;;;Local Market Area;Y
+21Y000000000096U;NITR_REMOV_L_PL;Nitrogen Removal Plants - L-gas (PL);;;Active;;;;Local Market Area;Y
+21Y000000000097S;END_USERS_L_PL;Final Consumers - L-gas (PL);;;Active;;;;Local Market Area;Y
+21Y000000000098Q;AGG_DISTRIB_L_PL;Aggregated Distribution - L-gas  (PL);;;Active;;;;Local Market Area;Y
+21Y000000000099O;END_USERS_LV;Final consumers LV;;21X000000001379R;Active;;;;Local Market Area,Market Area,Member State;Y
+21Y000000000100S;DISTRIBUTION_LV;Distribution LV;;21X0000000013724;Active;;;;Local Market Area,Market Area,Member State,Scheduling Area;Y
+21Y000000000101Q;VTP_LV;Virtual Trading Point Latvia;;21X000000001379R;Active;;;;Local Market Area,Scheduling Area;Y
+21Y000000000102O;DP-SK;Aggregated point to distribution systems and storage;;;Active;;;;Local Market Area;Y
+21Y000000000103M;VTP-SK;Virtual Trading Point Eustream;;;Active;;;;Market Area;Y
+21Y000000000105I;VTT_CROATIA;Croatia;;;Active;;;;Scheduling Area;Y
+21Y000000000106G;GAS_SYS_ESTONIA;Estonian gas system;;;Active;;;;Market Area;Y
+21Y000000000107E;KK_PETRO;Croatia PETRO domestic network point for single customer;;;Active;;;;Local Market Area;Y
+21Y000000000108C;KK_EL_TO_ZG;Croatia EL_TO_ZG domestic network point for single customer;;;Active;;;;Local Market Area;Y
+21Y000000000109A;KK_TE_TO_ZG;Croatia TE_TO_ZG domestic network point for single customer;;;Active;;;;Local Market Area;Y
+21Y000000000110P;KK_RAF_URINJ;Croatia RAF_URINJ domestic network point for single customer;;;Active;;;;Local Market Area;Y
+21Y000000000111N;UMS_ETAN;Croatia ETAN point related to domestic gas production facility;;;Active;;;;Local Market Area;Y
+21Y000000000112L;UMS_GOLA;Croatia GOLA point related to domestic gas production facility;;;Active;;;;Local Market Area;Y
+21Y000000000113J;UMS_FERDINAND;Croatia FERDINAND point related to domestic gas production facility;;;Active;;;;Local Market Area;Y
+21Y000000000114H;UMS_HAMPOVICA;Croatia HAMPOVICA point related to domestic gas production facility;;;Active;;;;Local Market Area;Y
+21Y000000000115F;UMS_MOLVE;Croatia MOLVE point related to domestic gas production facility;;;Active;;;;Local Market Area;Y
+21Y000000000116D;UMS_TERM_PULA;Croatia TERM_PULA point related to domestic gas production facility;;;Active;;;;Local Market Area;Y
+21Y000000000117B;OKOLI_GAS_STOR;PSP OKOLI;;;Active;;;;Local Market Area;Y
+21Y0000000001189;AGG_PPG_TGPS_PL;Aggregated PPG -TGPS (PL);;;Active;;;;Local Market Area;Y
+21Y0000000001197;AGG_PPG_E_PL;Aggregated PPG -E gas (PL);;;Active;;;;Local Market Area;Y
+21Y000000000120M;AGG_PPG_L_PL;Aggregated PPG -L gas (PL);;;Active;;;;Local Market Area;Y
+21Y000000000122I;KK_TE_SISAK;Croatia KK_TE_SISAK;;;Active;;;;Local Market Area;Y
+21Y000000000123G;INTERGAS_LT;Druskininkai Municipality Republic of Lithuania;;;Active;;;;Local Market Area;Y
+21Y000000000124E;AGG_EX_DE_GTG_L;Final Consumers DE GTG Nord L Gas;;;Active;;;;Market Area;Y
+21Y000000000125C;SWEDEN_GAS_BALZ;SE ZONE;;;Active;;;;Scheduling Area;Y
+21Y000000000126A;AGGREGATED_EXIT;GASCADE Aggregated final customers;;;Active;;;;Market Area;Y
+21Y0000000001278;PEG_TRF;PEG TRF;;;Active;;;;Scheduling Area;Y
+21Y0000000001286;AGGREGATED_ENTRY;GASCADE Aggregated production ;;;Active;;;;Market Area;Y
+21Y0000000001294;NWG_AGGR_CUSTOM;NOWEGA AGGREGATION CUSTOMER;;;Active;;;;Market Area;Y
+21Y000000000130J;NWG_AGGR_PROD;NOWEGA AGGREGATION PRODUCTION;;;Active;;;;Market Area;Y
+21Y000000000131H;VTP-GREECE;Virtual Trading Point Greece;;;Active;;;;Market Area,Scheduling Area;Y
+21Y000000000132F;AGGREGATE_NAP;AGGR Exit terranets;;;Active;;;;Market Area;Y
+21Y000000000133D;ISAC_ORLOV_2-3;Transit 2 and Transit 3;;;Active;;;;Metering Grid Area;Y
+21Y000000000134B;VTP_PL_POLPX_L;Virtual Trading Point Gas Exchange L gas PL;;;Active;;;;Scheduling Area;Y
+21Y0000000001359;BALTIC-BAL;Baltic Balancing Zone;;;Active;;;;Scheduling Area;Y
+21Y0000000001367;ZEVENAAR;Zevenaar;;;Active;;;;Border Area;Y
+21Y0000000001375;TAP-BAL-ZONE;TAP Balancing Zone;;;Active;;;;Scheduling Area;Y
+21Y000000000140G;N4G-AGGR-CONSUM;Aggregated Final Consumers (CZ);;21X000000001304L;Active;;;;Market Area;Y
+21Y917356934859I;TNBW;NetConnect Germany;;;Active;;;;Distribution Network Area;Y
+21Y9842960273027;SUM-PRO-HEB-GUD;Sum Production H gas excl. Biogas GUD;;;Active;;;;Market Area;Y
+21Y---A001A001-B;VOB-CZ;Virtual Trading Point RWE Transgas Net;;21X000000001304L;Active;;;;Bidding Zone,Market Area,Metering Grid Area;Y
+21Y---A001A003-5;GTF-DK;Bilateral Trading Point;;10X1001A1001A248;Active;;;;Market Area;Y
+21Y---A001A004-2;EXX-ETF-DK;EXX-ETF-DK;;10X1001A1001A248;Active;;;;Market Area;Y
+21Y---A001A006-X;FOS-FR;Fos (Cavaou &  Tonkin);;21X-FR-A-A0A0A-S;Active;;;;Border Area;Y
+21Y---A001A007-U;MIDI-FR;MIDI (Dordogne/Hérault);;21X-FR-A-A0A0A-S;Active;;;;Border Area;Y
+21Y---A001A008-R;TAISNI-FR;Taisnierès (H) (FR);;21X-FR-A-A0A0A-S;Active;;;;Border Area;Y
+21Y---A001A009-O;IBP-IE;IBP;;47X0000000000576;Active;;;;Market Area;Y
+21Y---A001A010-A;PSV-IT;PSV;;;Active;;;;Market Area;Y
+21Y---A001A011-7;MH-EC-UK;Milford Haven (Terminal Entry Cap);;55XNATIONALGASTC;Active;;;;Local Market Area;Y
+21Y---A001A012-4;OBER-AT;Oberkappel;;;Active;;;;Local Market Area;Y
+21Y---A001A013-1;UBERACK-AT;Überackern;;;Active;;;;Local Market Area;Y
+21Y---A001A014-Z;OBERGAIL-FR-DE;Obergailbach FR DE Area;;;Active;;;;Local Market Area;Y
+21Y---A001A016-T;WALL-CH-DE;Wallbach CH DE area;;;Active;;;;Local Market Area;Y
+21Y---A001A018-N;CH-BALANCE-AREA;Market Balance Area CH;;;Active;;;;Scheduling Area;Y
+21Y---A001A023-Y;BAUM-SK-AT;Baumgarten SK AT Area;;21X-SK-A-A0A0A-N;Active;;;;Market Area;Y
+21Y---A002A005-T;PVB;PVB ES;;21X0000000013368;Active;;;;Market Area,Scheduling Area;Y
+21YBA-EC-------B;BA-EC;Terminal Bacton Entry Cap;;55XNATIONALGASTC;Active;;;;Local Market Area;Y
+21YBP-EC-------G;BP-EC;Terminal Burton Entry Cap;;55XNATIONALGASTC;Active;;;;Local Market Area;Y
+21YBR-EC-------T;BR-EC;Terminal Barrow Entry Cap;;55XNATIONALGASTC;Active;;;;Local Market Area;Y
+21YEA-EC-------9;EA-EC;Terminal Easington Entry Cap;;55XNATIONALGASTC;Active;;;;Local Market Area;Y
+21YGB-UKGASGRIDW;UK-GAS-GRID;UK GAS GRID;;55XNATIONALGASTC;Active;;;;Local Market Area;Y
+21YHS-EC------0B;HS-EC;Terminal Hornsea Entry Cap;;55XNATIONALGASTC;Active;;;;Local Market Area;Y
+21YIG-EC-------X;IG-EC;Terminal Isle of Grain Entry Cap;;55XNATIONALGASTC;Active;;;;Local Market Area;Y
+21YNL----TTF---1;NL-TTF;NL TTF;;;Active;;;;Scheduling Area;Y
+21YPNT-EX-GAS-NT;PEGNORD;Point Exchange Gas - NORD;;21X-FR-A-A0A0A-S;Active;;;;Bidding Zone;Y
+21YPNT-EX-GAS-SJ;PEGSUD;Point Exchange Gas - SUD;;21X-FR-A-A0A0A-S;Active;;;;Bidding Zone;Y
+21YRH-EC-------F;RH-EC;Terminal Rough Entry Cap;;55XNATIONALGASTC;Active;;;;Local Market Area;Y
+21YSF-EC-------Q;SF-EC;Terminal St Fergus Entry Cap;;55XNATIONALGASTC;Active;;;;Local Market Area;Y
+21YTE-EC-------P;TE-EC;Terminal Teesside Entry Cap;;55XNATIONALGASTC;Active;;;;Local Market Area;Y
+21YTH-EC-------Q;TH-EC;Terminal Theddlethorpe Entry Cap;;55XNATIONALGASTC;Active;;;;Local Market Area;Y
+22Y201903141---O;DE-BE-AREA;Border Area Germany-Belgium;;10X1001A1001A094;Active;;;;Border Area;Y
+22Y201903142---J;DEAMP-BE-AREA;Border Area DE-Amprion-Belgium;;10X1001A1001A094;Active;;;;Border Area;Y
+22Y201903143---E;ALEGRO-AREA;ALEGRO Area;;10X1001A1001A094;Active;;;;Control Area;Y
+22Y201903144---9;BE-AL-VH-AREA;Belgium ALEGRO Virtual HUB;;10X1001A1001A094;Active;;;;Scheduling Area;Y
+22Y201903145---4;DEAMP-AL-VH-AREA;DE Amprion ALEGRO Virtual HUB;;10X1001A1001A094;Active;;;;Scheduling Area;Y
+22Y20191008----W;BE-NLL-VH-AREA;Belgium NEMO LINK LTD Virtual HUB;;10X1001A1001A094;Active;;;;Scheduling Area;Y
+22Y20191009----Q;GB1-NLL-VH-AREA;Great-Britain1 NEMO LINK LTD Virtual HUB;;10X1001A1001A094;Active;;;;Scheduling Area;Y
+27YG-RTN-TSO-CZW;G-RTN-TSO-CZ;RWE Transgas NET, s.r.o;;;Active;;;;Distribution Network Area;Y
+27YSECOND-FOUNDB;SECOND-FOUND-Y;Second Foundation a.s.;;27XSECOND-FOUNDP;Active;;;;Balance Group;Y
+28Y0000000000001;EDP_CELJE;Elektro Celje, DO EDP;;;Active;;;;Distribution Network Area;Y
+28Y000000000002Y;EDP_LJUBLJANA;Elektro Ljubljana, DO EDP;;;Active;;;;Distribution Network Area;Y
+28Y000000000003W;EDP_MARIBOR;Elektro Maribor, DO EDP;;;Active;;;;Distribution Network Area;Y
+28Y000000000004U;EDP_GORENJSKA;Elektro Gorenjska, DO EDP;;;Active;;;;Distribution Network Area;Y
+28Y000000000005S;EDP_PRIMORSKA;Elektro Primorska, DO EDP;;;Active;;;;Distribution Network Area;Y
+28Y000000000007O;ZDS_PE_RAVNE;ZDS Petrol Energetika Ravne;;;Active;;;;Distribution Network Area;Y
+28Y000000000008M;ZDS_PE_STORE;ZDS Petrol Energetika Štore;;;Active;;;;Distribution Network Area;Y
+28Y000000000009K;ZDS-JESENICE;ZDS JESENICE;;;Active;;;;Distribution Network Area;Y
+28Y000000000010Z;ZDS_JES_ACRONI;ZDS Acroni Jesenice;;;Active;;;;Distribution Network Area;Y
+28Y000000000011X;ZDS_KID_TALUM;ZDS Talum Kidričevo;;;Active;;;;Distribution Network Area;Y
+28Y000000000013T;ZDS_SAL_ANHOVO;ZDS-Alpacem-Cement ;;;Active;;;;Distribution Network Area;Y
+31Y-00000000022J;HR-LNG-KRK;LNG Terminal Krk;;31X-LNG-HR-----7;Active;;;;Local Market Area;Y
+37Y000000000405B;NAPHALLEZONE;NAP Halle Zone;;;Active;;;;Coordination Center Zone;Y
+37Y0000000004360;DUISBURG_HUCKING;37Y0000000004360;;;Active;;;;Coordination Center Zone;Y
+37Y0000000005081;37Y0000000005081;Endverbraucher aggregiert H-Gas;;;Active;;;;Local Market Area;Y
+37Y005053MH0000R;TRADING_HUB_EUR;Marktgebiet THE;;;Active;;;;Market Area;Y
+37Y701125MH0000I;DVGW-MH0000I;Marktgebiet HGas NetConnect;;;Active;;;;Market Area;Y
+37Y701130ML0000P;DVGW-ML0000P;Marktgebiet L-Gas 1;;;Active;;;;Market Area;Y
+37Y701133MH0000P;DVGW-MH0000P;Marktgebiet GASPOOL;;;Active;;;;Market Area;Y
+39YSINBP000000NE;MGPHUNGARY;MGP-HUNGARY;;;Active;;;;Balance Group;Y
+44Y-000000000005;FI_FSJ000;Caruna Oy;;44X-000000000253;Active;;;;Metering Grid Area;Y
+44Y-000000000013;FI_FED000;Caruna Espoo Oy;;44X-000000000261;Active;;;;Metering Grid Area;Y
+44Y-000000000021;FI_FAS000;Caruna Oy, aluesiirto;;44X-000000000253;Active;;;;Metering Grid Area;Y
+44Y-00000000004Y;FI_SKE000;Seiverkot Oy;;44X-00000000028Y;Active;;;;Metering Grid Area;Y
+44Y-00000000005W;FI_KVK000;Verkko Korpela Oy;;44X-00000000029W;Active;;;;Metering Grid Area;Y
+44Y-00000000006U;FI_KVK001;Verkko Korpela Oy;;44X-00000000029W;Active;;;;Metering Grid Area;Y
+44Y-00000000007S;FI_KVK002;Verkko Korpela Oy;;44X-00000000029W;Active;;;;Metering Grid Area;Y
+44Y-00000000008Q;FI_TOHE00;Verkko Korpela Oy;;44X-00000000029W;Active;;;;Metering Grid Area;Y
+44Y-00000000009O;FI_VE0000;Vantaan Energia Sähköverkot Oy;;44X-00000000030A;Active;;;;Metering Grid Area;Y
+44Y-000000000102;FI_KSS000;Köyliön-Säkylän Sähkö Oy;;44X-000000000326;Active;;;;Metering Grid Area;Y
+44Y-000000000110;FI_KOSE00;KSS Verkko Oy;;44X-000000000334;Active;;;;Metering Grid Area;Y
+44Y-00000000012Z;FI_PKS000;PKS Sähkönsiirto Oy;;44X-000000000342;Active;;;;Metering Grid Area;Y
+44Y-00000000013X;FI_KRN000;PKS Sähkönsiirto Oy;;44X-000000000342;Active;;;;Metering Grid Area;Y
+44Y-00000000014V;FI_PAL000;PKS Sähkönsiirto Oy;;44X-000000000342;Active;;;;Metering Grid Area;Y
+44Y-00000000015T;FI_PUN000;PKS Sähkönsiirto Oy;;44X-000000000342;Active;;;;Metering Grid Area;Y
+44Y-00000000016R;FI_RUSK00;PKS Sähkönsiirto Oy;;44X-000000000342;Active;;;;Metering Grid Area;Y
+44Y-00000000017P;FI_SRI000;PKS Sähkönsiirto Oy;;44X-000000000342;Active;;;;Metering Grid Area;Y
+44Y-00000000018N;FI_VIHT00;PKS Sähkönsiirto Oy;;44X-000000000342;Active;;;;Metering Grid Area;Y
+44Y-00000000019L;FI_VAAR00;PKS Sähkönsiirto Oy;;44X-000000000342;Active;;;;Metering Grid Area;Y
+44Y-00000000021Y;FI_HKE000;Helen Sähköverkko Oy;;44X-000000000350;Active;;;;Metering Grid Area;Y
+44Y-00000000022W;FI_KE0000;Helen Sähköverkko Oy;;44X-000000000350;Active;;;;Metering Grid Area;Y
+44Y-00000000023U;FI_HAB000;Helen Sähköverkko Oy;;44X-000000000350;Active;;;;Metering Grid Area;Y
+44Y-00000000024S;FI_SAB000;Helen Sähköverkko Oy;;44X-000000000350;Active;;;;Metering Grid Area;Y
+44Y-00000000025Q;FI_VUA000;Helen Sähköverkko Oy;;44X-000000000350;Active;;;;Metering Grid Area;Y
+44Y-00000000026O;FI_VUB000;Helen Sähköverkko Oy;;44X-000000000350;Active;;;;Metering Grid Area;Y
+44Y-00000000027M;FI_PEL000;Pori Energia Sähköverkot Oy;;44X-00000000036Z;Active;;;;Metering Grid Area;Y
+44Y-00000000028K;FI_REO000;Rauman Energia Sähköverkko Oy;;44X-00000000037X;Active;;;;Metering Grid Area;Y
+44Y-00000000029I;FI_VSV000;Vakka-Suomen Voima Oy;;44X-00000000038V;Active;;;;Metering Grid Area;Y
+44Y-00000000030X;FI_AHV000;Helen Oy;;44X-00000000039T;Active;;;;Metering Grid Area;Y
+44Y-00000000031V;FI_MAN000;Helen Oy;;44X-00000000039T;Active;;;;Metering Grid Area;Y
+44Y-00000000032T;FI_PTA000;Helen Oy;;44X-00000000039T;Active;;;;Metering Grid Area;Y
+44Y-00000000033R;FI_KRP000;Kronoby Elverk Ab;;44X-000000000407;Active;;;;Metering Grid Area;Y
+44Y-00000000034P;FI_PKV000;Paneliankosken Voima Oy;;44X-000000000431;Active;;;;Metering Grid Area;Y
+44Y-00000000035N;FI_OE0000;Oulun Energia Siirto ja Jakelu Oy;;44X-00000000045Y;Active;;;;Metering Grid Area;Y
+44Y-00000000036L;FI_KME000;Keminmaan Energia ja Vesi Oy;;44X-00000000048S;Active;;;;Metering Grid Area;Y
+44Y-00000000037J;FI_ASV000;Esse Elektro-Kraft Ab;;44X-00000000049Q;Active;;;;Metering Grid Area;Y
+44Y-00000000039F;FI_LANK00;Lankosken Sähkö Oy ;;44X-000000000512;Active;;;;Metering Grid Area;Y
+44Y-00000000040U;FI_RKE000;Raahen Energia Oy ;;44X-000000000520;Active;;;;Metering Grid Area;Y
+44Y-00000000041S;FI_KOKE00;Kokemäen Sähkö Oy;;44X-00000000053Z;Active;;;;Metering Grid Area;Y
+44Y-00000000042Q;FI_LAMM00;Lammaisten Energia Oy;;44X-00000000054X;Active;;;;Metering Grid Area;Y
+44Y-00000000043O;FI_NUR000;Nurmijärven Sähköverkko Oy;;44X-00000000055V;Active;;;;Metering Grid Area;Y
+44Y-00000000044M;FI_TKS000;Tampereen Energia Sähköverkko Oy;;44X-00000000057R;Active;;;;Metering Grid Area;Y
+44Y-00000000045K;FI_HER000;Herrfors Nät-verkko Oy Ab;;44X-00000000058P;Active;;;;Metering Grid Area;Y
+44Y-00000000046I;FI_HER001;Herrfors Nät-verkko Oy Ab;;44X-00000000058P;Active;;;;Metering Grid Area;Y
+44Y-00000000047G;FI_HER002;Herrfors Nät-verkko Oy Ab;;44X-00000000058P;Active;;;;Metering Grid Area;Y
+44Y-00000000048E;FI_HER003;Herrfors Nät-verkko Oy Ab;;44X-00000000058P;Active;;;;Metering Grid Area;Y
+44Y-00000000049C;FI_KKE000;Kemin Energia ja Vesi Oy  ;;44X-00000000059N;Active;;;;Metering Grid Area;Y
+44Y-00000000050R;FI_OSS000;Oulun Seudun Sähkö Verkkopalvelut Oy;;44X-000000000601;Active;;;;Metering Grid Area;Y
+44Y-00000000051P;FI_KLS000;Koillis-Lapin Sähkö Oy ;;44X-00000000062Y;Active;;;;Metering Grid Area;Y
+44Y-00000000052N;FI_MSO000;Muonion Sähköosuuskunta;;44X-00000000063W;Active;;;;Metering Grid Area;Y
+44Y-00000000053L;FI_ROI000;Rovaniemen Verkko Oy;;44X-00000000064U;Active;;;;Metering Grid Area;Y
+44Y-00000000054J;FI_HSO000;Haukiputaan Sähköosuuskunta;;44X-00000000065S;Active;;;;Metering Grid Area;Y
+44Y-00000000055H;FI_HAM000;Haminan Energia Oy ;;44X-00000000066Q;Active;;;;Metering Grid Area;Y
+44Y-00000000056F;FI_KAM000;Karhu Voima Verkko Oy;;44X-00000000067O;Active;;;;Metering Grid Area;Y
+44Y-00000000057D;FI_TKE000;Tornion Energia Oy;;44X-00000000068M;Active;;;;Metering Grid Area;Y
+44Y-00000000058B;FI_TUVE00;Tunturiverkko Oy;;44X-00000000069K;Active;;;;Metering Grid Area;Y
+44Y-000000000599;FI_RVK000;Rovakaira Oy;;44X-00000000070Z;Active;;;;Metering Grid Area;Y
+44Y-00000000060O;FI_ENO000;Enontekiön Sähkö Oy;;44X-00000000071X;Active;;;;Metering Grid Area;Y
+44Y-00000000061M;FI_TLS000;TLS Verkko Oy;;44X-000000001997;Active;;;;Metering Grid Area;Y
+44Y-00000000062K;FI_JEP000;Jeppo Kraft Andelslag;;44X-00000000073T;Active;;;;Metering Grid Area;Y
+44Y-00000000063I;FI_LEO000;LE-Sähköverkko Oy;;44X-00000000074R;Active;;;;Metering Grid Area;Y
+44Y-00000000064G;FI_ISS000;Imatran Seudun Sähkösiirto Oy ;;44X-00000000075P;Active;;;;Metering Grid Area;Y
+44Y-00000000065E;FI_KSOY00;Kymenlaakson Sähköverkko Oy ;;44X-00000000076N;Active;;;;Metering Grid Area;Y
+44Y-00000000066C;FI_PBE000;Porvoon Sähköverkko Oy;;44X-00000000077L;Active;;;;Metering Grid Area;Y
+44Y-00000000067A;FI_PAV000;Porvoon Sähköverkko Oy;;44X-00000000077L;Active;;;;Metering Grid Area;Y
+44Y-000000000688;FI_TLH000;Porvoon Sähköverkko Oy;;44X-00000000077L;Active;;;;Metering Grid Area;Y
+44Y-000000000696;FI_HRBA00;Porvoon Sähköverkko Oy;;44X-00000000077L;Active;;;;Metering Grid Area;Y
+44Y-00000000070L;FI_KLS001;Keski-Lapin Voima Oy;;44X-00000000078J;Active;;;;Metering Grid Area;Y
+44Y-00000000071J;FI_VATA00;Vatajankosken Sähkö Oy;;44X-00000000185I;Active;;;;Metering Grid Area;Y
+44Y-00000000072H;FI_TUI000;Tuike Finland Oy;;44X-00000000080W;Active;;;;Metering Grid Area;Y
+44Y-00000000073F;FI_VALK00;Valkeakosken Energia Oy;;44X-00000000081U;Active;;;;Metering Grid Area;Y
+44Y-00000000074D;FI_KAS000;Loiste Sähköverkko Oy;;44X-00000000083Q;Active;;;;Metering Grid Area;Y
+44Y-00000000075B;FI_SV0000;Savon Voima Verkko Oy;;44X-00000000082S;Active;;;;Metering Grid Area;Y
+44Y-000000000769;FI_LEPP00;Leppäkosken Sähkö Oy;;44X-00000000084O;Active;;;;Metering Grid Area;Y
+44Y-000000000777;FI_KTA000;Kittilän Alueverkko Oy;;44X-00000000085M;Active;;;;Metering Grid Area;Y
+44Y-000000000785;FI_AJS000;Alajärven Sähkö Oy;;44X-00000000086K;Active;;;;Metering Grid Area;Y
+44Y-000000000793;FI_SVT001;Savon Voima Verkko Oy;;44X-00000000082S;Active;;;;Metering Grid Area;Y
+44Y-00000000080I;FI_SVT002;Savon Voima Verkko Oy;;44X-00000000082S;Active;;;;Metering Grid Area;Y
+44Y-00000000081G;FI_VEL000;Vetelin Energia Oy;;44X-00000000087I;Active;;;;Metering Grid Area;Y
+44Y-00000000082E;FI_VFV000;Elenia Oy;;44X-00000000089E;Active;;;;Metering Grid Area;Y
+44Y-00000000083C;FI_LRE000;Lappeenrannan Energiaverkot Oy;;44X-00000000090T;Active;;;;Metering Grid Area;Y
+44Y-00000000084A;FI_MRT001;Lappeenrannan Energiaverkot Oy;;44X-00000000090T;Active;;;;Metering Grid Area;Y
+44Y-000000000858;FI_MRT002;Lappeenrannan Energiaverkot Oy;;44X-00000000090T;Active;;;;Metering Grid Area;Y
+44Y-000000000866;FI_IEN000;Iin Energia Oy;;44X-00000000091R;Active;;;;Metering Grid Area;Y
+44Y-000000000874;FI_RKE001;SSAB Europe Oy;;44X-00000000092P;Active;;;;Metering Grid Area;Y
+44Y-000000000882;FI_RKE002;SSAB Europe Oy;;44X-00000000092P;Active;;;;Metering Grid Area;Y
+44Y-000000000890;FI_KAIK00;SSAB Europe Oy;;44X-00000000092P;Active;;;;Metering Grid Area;Y
+44Y-00000000090F;FI_HNS000;Yara Suomi Oy;;44X-00000000093N;Active;;;;Metering Grid Area;Y
+44Y-00000000091D;FI_HNS001;Yara Suomi Oy;;44X-00000000093N;Active;;;;Metering Grid Area;Y
+44Y-00000000092B;FI_SLJ000;Yara Suomi Oy;;44X-00000000093N;Active;;;;Metering Grid Area;Y
+44Y-000000000939;FI_SLJ001;Yara Suomi Oy;;44X-00000000093N;Active;;;;Metering Grid Area;Y
+44Y-000000000947;FI_FCP000;Kemira Oyj;;44X-00000000021B;Active;;;;Metering Grid Area;Y
+44Y-000000000955;FI_FCJO00;Kemira Oyj;;44X-00000000021B;Active;;;;Metering Grid Area;Y
+44Y-000000000963;FI_KUU001;Kemira Oyj;;44X-00000000021B;Active;;;;Metering Grid Area;Y
+44Y-000000000971;FI_FCAE00;Kemira Oyj;;44X-00000000021B;Active;;;;Metering Grid Area;Y
+44Y-00000000099Y;FI_KUO000;Kuopion Sähköverkko Oy;;44X-00000000094L;Active;;;;Metering Grid Area;Y
+44Y-000000001001;FI_HPN000;Kuopion Sähköverkko Oy;;44X-00000000094L;Active;;;;Metering Grid Area;Y
+44Y-00000000102Y;FI_NEO000;Aurora Kilpilahti Oy;;44X-00000000096H;Active;;;;Metering Grid Area;Y
+44Y-00000000103W;FI_SALL00;Sallilan Sähkönsiirto Oy ;;44X-00000000098D;Active;;;;Metering Grid Area;Y
+44Y-00000000104U;FI_FOR000;Forssan Verkkopalvelut Oy ;;44X-00000000099B;Active;;;;Metering Grid Area;Y
+44Y-00000000105S;FI_JYV000;Alva Sähköverkko Oy;;44X-00000000102B;Active;;;;Metering Grid Area;Y
+44Y-00000000106Q;FI_KOK000;Kokkolan Energiaverkot Oy;;44X-000000001039;Active;;;;Metering Grid Area;Y
+44Y-00000000107O;FI_UPMS;UPM Sähkönsiirto Oy;;44X-000000001047;Active;;;;Metering Grid Area;Y
+44Y-00000000108M;FI_KER000;Keravan Energia Oy;;44X-000000000164;Active;;;;Metering Grid Area;Y
+44Y-00000000109K;FI_ESU000;Sipoon Energia Oy;;44X-000000001055;Active;;;;Metering Grid Area;Y
+44Y-00000000110Z;FI_ASE000;Äänekosken Energia Oy;;44X-000000001063;Active;;;;Metering Grid Area;Y
+44Y-00000000111X;FI_VIM000;Vimpelin Voima Oy;;44X-000000001071;Active;;;;Metering Grid Area;Y
+44Y-00000000112V;FI_JSE000;Järvi-Suomen Energia Oy;;44X-00000000109Y;Active;;;;Metering Grid Area;Y
+44Y-00000000113T;FI_UKP000;Nykarleby Kraftverk Ab;;44X-00000000110C;Active;;;;Metering Grid Area;Y
+44Y-00000000114R;FI_RKS000;Rantakairan Sähkö Oy;;44X-00000000111A;Active;;;;Metering Grid Area;Y
+44Y-00000000115P;FI_LIIM00;Liimaniemen Sähköliittymä Oy;;44X-000000001144;Active;;;;Metering Grid Area;Y
+44Y-00000000116N;FI_KEU000;Keuruun Sähkö Oy;;44X-000000001128;Active;;;;Metering Grid Area;Y
+44Y-00000000117L;FI_TE0000;Turku Energia Sähköverkot Oy;;44X-000000001152;Active;;;;Metering Grid Area;Y
+44Y-00000000118J;FI_KUOR00;Kuoreveden Sähkö Oy;;44X-000000001160;Active;;;;Metering Grid Area;Y
+44Y-00000000119H;FI_PRK000;Parikkalan Valo Oy;;44X-00000000117Z;Active;;;;Metering Grid Area;Y
+44Y-00000000120W;FI_NAA000;Naantalin Energia Oy;;44X-00000000118X;Active;;;;Metering Grid Area;Y
+44Y-00000000121U;FI_LEH000;Lehtimäen Sähkö Oy;;44X-00000000119V;Active;;;;Metering Grid Area;Y
+44Y-00000000122S;FI_VS0000;Vaasan Sähköverkko Oy;;44X-000000001209;Active;;;;Metering Grid Area;Y
+44Y-00000000123Q;FI_WASA00;Vaasan Sähköverkko Oy;;44X-000000001209;Active;;;;Metering Grid Area;Y
+44Y-00000000124O;FI_HAVI00;Vaasan Sähköverkko Oy;;44X-000000001209;Active;;;;Metering Grid Area;Y
+44Y-00000000125M;FI_MSOY00;Nivos Verkot Oy;;44X-00000000139P;Active;;;;Metering Grid Area;Y
+44Y-00000000126K;FI_OKS000;Outokummun Energia Oy ;;44X-000000001233;Active;;;;Metering Grid Area;Y
+44Y-00000000127I;FI_EEV000;Tammisaaren Energia Oy;;44X-000000001241;Active;;;;Metering Grid Area;Y
+44Y-00000000128G;FI_KV0000;Fingrid Oyj;;10X1001A1001A264;Active;;;;Metering Grid Area;Y
+44Y-00000000129E;FI_KOTE00;Koskenkylän Tuulienergia Oy;;44X-00000000156P;Active;;;;Metering Grid Area;Y
+44Y-00000000130T;FI_VRS000;Keuruun Lämpövoima Oy;;44X-000000001136;Active;;;;Metering Grid Area;Y
+44Y-00000000131R;FI_KSAT00;Koillis-Satakunnan Sähkö Oy;;44X-000000001306;Active;;;;Metering Grid Area;Y
+44Y-00000000132P;FI_PERH00;Perhon Voima Oy voimalaitokset;;44X-000000001306;Active;;;;Metering Grid Area;Y
+44Y-00000000133N;FI_KILL00;Killinkosken vesivoimalaitos ;;44X-000000001306;Active;;;;Metering Grid Area;Y
+44Y-00000000134L;FI_KAEN00;Käenkosken voimalaitos ;;44X-000000001306;Active;;;;Metering Grid Area;Y
+44Y-00000000135J;FI_SOIN00;Soininkosken vesivoimalaitos ;;44X-000000001306;Active;;;;Metering Grid Area;Y
+44Y-00000000136H;FI_ONT000;UPM Sähkönsiirto Oy;;44X-000000001047;Active;;;;Metering Grid Area;Y
+44Y-00000000137F;FI_VOV000;UPM Sähkönsiirto Oy;;44X-000000001047;Active;;;;Metering Grid Area;Y
+44Y-00000000138D;FI_KEV000;UPM Sähkönsiirto Oy;;44X-000000001047;Active;;;;Metering Grid Area;Y
+44Y-00000000139B;FI_KUV000;UPM Sähkönsiirto Oy;;44X-000000001047;Active;;;;Metering Grid Area;Y
+44Y-00000000140Q;FI_SCH001;UPM Sähkönsiirto Oy;;44X-000000001047;Active;;;;Metering Grid Area;Y
+44Y-00000000141O;FI_TES000;UPM Sähkönsiirto Oy;;44X-000000001047;Active;;;;Metering Grid Area;Y
+44Y-00000000142M;FI_KAUK00;UPM Sähkönsiirto Oy;;44X-000000001047;Active;;;;Metering Grid Area;Y
+44Y-00000000143K;FI_JAM000;UPM Sähkönsiirto Oy;;44X-000000001047;Active;;;;Metering Grid Area;Y
+44Y-00000000144I;FI_KAIP00;UPM Sähkönsiirto Oy;;44X-000000001047;Active;;;;Metering Grid Area;Y
+44Y-00000000145G;FI_RRO000;UPM Sähkönsiirto Oy;;44X-000000001047;Active;;;;Metering Grid Area;Y
+44Y-00000000146E;FI_KUU000;UPM Sähkönsiirto Oy;;44X-000000001047;Active;;;;Metering Grid Area;Y
+44Y-00000000147C;FI_SCH000;UPM Sähkönsiirto Oy;;44X-000000001047;Active;;;;Metering Grid Area;Y
+44Y-00000000148A;FI_ATVL00;UPM Energy Oy;;44X-000000000148;Active;;;;Metering Grid Area;Y
+44Y-000000001498;FI_TYR000;UPM Energy Oy;;44X-000000000148;Active;;;;Metering Grid Area;Y
+44Y-00000000150N;FI_KLT000;UPM Energy Oy;;44X-000000000148;Active;;;;Metering Grid Area;Y
+44Y-00000000151L;FI_MUS000;Karhu Voima Verkko Oy;;44X-00000000067O;Active;;;;Metering Grid Area;Y
+44Y-00000000152J;FI_ESE000;ESE-Verkko Oy;;44X-000000001322;Active;;;;Metering Grid Area;Y
+44Y-00000000153H;FI_JYL000;Jylhän Sähköosuuskunta ;;44X-00000000134Z;Active;;;;Metering Grid Area;Y
+44Y-00000000154F;FI_SIMA00;Mannin Tuulivoima;;44X-00000000135X;Active;;;;Metering Grid Area;Y
+44Y-00000000155D;FI_SIMA01;Mannin maatila;;44X-00000000135X;Active;;;;Metering Grid Area;Y
+44Y-00000000156B;FI_KOSS00;Koskenkorvan Tuulivoima;;44X-00000000135X;Active;;;;Metering Grid Area;Y
+44Y-000000001579;FI_RAI000;Rauhalahti voimalaitos;;44X-00000000102B;Active;;;;Metering Grid Area;Y
+44Y-000000001587;FI_KJI000;Keljonlahden voimalaitos;;44X-00000000102B;Active;;;;Metering Grid Area;Y
+44Y-000000001595;FI_TELA00;Tenergia Oy;;44X-000000001411;Active;;;;Metering Grid Area;Y
+44Y-00000000160K;FI_FS;Fingrid Oyj;;10X1001A1001A264;Active;;;;Bidding Zone;Y
+44Y-00000000161I;FI_EL;Fingrid Oyj;;10X1001A1001A264;Active;;;;Bidding Zone;Y
+44Y-00000000162G;FI_OL0000;Olkiluodon voimalaitos;;44X-00000000143Y;Active;;;;Metering Grid Area;Y
+44Y-00000000163E;FI_OL0003;Olkiluoto kulutusverkko OL0003;;44X-00000000143Y;Active;;;;Metering Grid Area;Y
+44Y-00000000164C;FI_OL0005;Olkiluoto kulutusverkko OL0005;;44X-00000000143Y;Active;;;;Metering Grid Area;Y
+44Y-00000000165A;FI_KAV000;Kaakon Alueverkko ;;44X-00000000145U;Active;;;;Metering Grid Area;Y
+44Y-000000001668;FI_HAM001;Haminan Energia Oy ;;44X-00000000066Q;Active;;;;Metering Grid Area;Y
+44Y-000000001676;FI_HAM002;Haminan Energia Oy;;44X-00000000066Q;Active;;;;Metering Grid Area;Y
+44Y-000000001684;FI_SAVA00;Satavakka Oy;;44X-00000000146S;Active;;;;Metering Grid Area;Y
+44Y-000000001692;FI_LLT000;Lielahden voimalaitos;;23X--150519-TS-J;Active;;;;Metering Grid Area;Y
+44Y-00000000170H;FI_NSL100;Naistenlahti 1;;23X--150519-TS-J;Active;;;;Metering Grid Area;Y
+44Y-00000000171F;FI_NSL200;Naistenlahti 3;;23X--150519-TS-J;Active;;;;Metering Grid Area;Y
+44Y-00000000172D;FI_TMK000;Tammerkosken vesivoimalaitos;;23X--150519-TS-J;Active;;;;Metering Grid Area;Y
+44Y-00000000173B;FI_TAV000;Tammervoiman hyötyvoimalaitos;;23X--150519-TS-J;Active;;;;Metering Grid Area;Y
+44Y-000000001757;FI_SVI000;Sähkö-Virkeät Oy alueverkko;;44X-000000001306;Active;;;;Metering Grid Area;Y
+44Y-000000001765;FI_KESE00;Koskienergia Koskivoima Oy vesivoimalaitokset;;44X-000000001306;Active;;;;Metering Grid Area;Y
+44Y-000000001773;FI_VR0000;Ratajohtoverkko;;44X-00000000148O;Active;;;;Metering Grid Area;Y
+44Y-000000001781;FI_EPA000;EPV Alueverkko Oy;;44X-00000000149M;Active;;;;Metering Grid Area;Y
+44Y-00000000180E;FI_HAP000;Haapakosken voimalaitos;;44X-000000000415;Active;;;;Metering Grid Area;Y
+44Y-00000000181C;FI_ISH000;Isohaaran voimalaitos;;44X-000000000415;Active;;;;Metering Grid Area;Y
+44Y-00000000182A;FI_JUM000;Jumiskon voimalaitos;;44X-000000000415;Active;;;;Metering Grid Area;Y
+44Y-000000001838;FI_JUM001;Jumisko, kulutusverkko;;44X-000000000415;Active;;;;Metering Grid Area;Y
+44Y-000000001846;FI_KIE000;Kierikin voimalaitos;;44X-000000000415;Active;;;;Metering Grid Area;Y
+44Y-000000001854;FI_MAL000;Maalismaan voimalaitos;;44X-000000000415;Active;;;;Metering Grid Area;Y
+44Y-000000001862;FI_MEL000;Melon voimalaitos;;44X-000000000415;Active;;;;Metering Grid Area;Y
+44Y-000000001870;FI_PAH000;Pahkakosken voimalaitos;;44X-000000000415;Active;;;;Metering Grid Area;Y
+44Y-00000000188Z;FI_PAJ000;Pajarin voimalaitos;;44X-000000000415;Active;;;;Metering Grid Area;Y
+44Y-00000000189X;FI_RAS000;Raasakan voimalaitos;;44X-000000000415;Active;;;;Metering Grid Area;Y
+44Y-00000000190B;FI_RAS001;Raasakka, kulutusverkko ;;44X-000000000415;Active;;;;Metering Grid Area;Y
+44Y-000000001919;FI_AMA000;Ahlströmin Makkarakosken voimalaitos;;23X--150625-LE-S;Active;;;;Metering Grid Area;Y
+44Y-000000001927;FI_KARA00;Karanojan voimalaitos;;23X--150625-LE-S;Active;;;;Metering Grid Area;Y
+44Y-000000001935;FI_PSE001;Pietarsaaren energialaitos;;23X--150625-LE-S;Active;;;;Metering Grid Area;Y
+44Y-000000001943;FI_SUMI00;Sumituuli Oy;;23X--150625-LE-S;Active;;;;Metering Grid Area;Y
+44Y-000000001951;FI_PIP000;Piiparinmäki tuulipuisto;;44X-00000000083Q;Active;;;;Metering Grid Area;Y
+44Y-00000000197Y;FI_KAVO01;Kainuun Voima, lämpövoima;;44X-00000000083Q;Active;;;;Metering Grid Area;Y
+44Y-00000000198W;FI_KAVO00;Kainuun Voima, Ämmäkoski, Koivukoski I;;44X-00000000083Q;Active;;;;Metering Grid Area;Y
+44Y-00000000199U;FI_KAJA00;Kajaanin tehtaat;;44X-00000000083Q;Active;;;;Metering Grid Area;Y
+44Y-00000000200Y;FI_KAVO02;Kainuun Voima, Koivukoski III;;44X-00000000083Q;Active;;;;Metering Grid Area;Y
+44Y-00000000201W;FI_ALT000;Altia Oyj Koskenkorvan teollisuusverkko;;44X-00000000147Q;Active;;;;Metering Grid Area;Y
+44Y-00000000202U;FI_ATR000;Atria Nurmo kiinteistöverkko;;44X-00000000147Q;Active;;;;Metering Grid Area;Y
+44Y-00000000203S;FI_HAVE00;Vapo Oy Haapaveden voimalaitoksen kulutusverkko;;44X-00000000147Q;Active;;;;Metering Grid Area;Y
+44Y-00000000204Q;FI_HERA00;Valio Oy Herajoki;;44X-00000000147Q;Active;;;;Metering Grid Area;Y
+44Y-00000000205O;FI_HOV000;Hovinsaaren voimalaitos;;44X-00000000147Q;Active;;;;Metering Grid Area;Y
+44Y-00000000206M;FI_HYV000;Hyötyvoimalaitos;;44X-00000000147Q;Active;;;;Metering Grid Area;Y
+44Y-00000000207K;FI_HYV001;Hyötyvoimalaitoksen teollisuusverkko;;44X-00000000147Q;Active;;;;Metering Grid Area;Y
+44Y-00000000208I;FI_ILOM00;Vapo Oy Ilomantsin voimalaitoksen kulutusverkko;;44X-00000000147Q;Active;;;;Metering Grid Area;Y
+44Y-00000000209G;FI_KENI00;Kevätniemen voimalaitos;;44X-00000000147Q;Active;;;;Metering Grid Area;Y
+44Y-00000000210V;FI_KISU00;Kiimassuon voimalaitos;;44X-00000000147Q;Active;;;;Metering Grid Area;Y
+44Y-00000000211T;FI_KON000;Kone Oyj Teollisuusverkko;;44X-00000000147Q;Active;;;;Metering Grid Area;Y
+44Y-00000000212R;FI_KVL000;Kiviristin lämmön voimalaitos;;44X-00000000147Q;Active;;;;Metering Grid Area;Y
+44Y-00000000213P;FI_LEM000;LEMENE tuotantoverkko;;44X-00000000147Q;Active;;;;Metering Grid Area;Y
+44Y-00000000214N;FI_MDO000;Mondo Minerals Oy / Lahnaslampi;;44X-00000000147Q;Active;;;;Metering Grid Area;Y
+44Y-00000000215L;FI_NIKA00;Nivalan kaukolämpö Oy;;44X-00000000147Q;Active;;;;Metering Grid Area;Y
+44Y-00000000216J;FI_NR0000;Nokian Renkaat;;44X-00000000147Q;Active;;;;Metering Grid Area;Y
+44Y-00000000217H;FI_OKLA00;BKO kiinteistöverkko;;44X-00000000147Q;Active;;;;Metering Grid Area;Y
+44Y-00000000218F;FI_OKPY00;Pyhäsalmen Teollisuusverkko;;44X-00000000147Q;Active;;;;Metering Grid Area;Y
+44Y-00000000219D;FI_PAR000;FSEM Paraisten verkko;;44X-00000000147Q;Active;;;;Metering Grid Area;Y
+44Y-00000000220S;FI_RIV000;Riikinvoiman voimalaitos;;44X-00000000147Q;Active;;;;Metering Grid Area;Y
+44Y-00000000221Q;FI_RTP000;Valmet Oy Rautpohjan tehtaat;;44X-00000000147Q;Active;;;;Metering Grid Area;Y
+44Y-00000000222O;FI_SALO00;Vapo Oy Salon voimalaitoksen kulutusverkko;;44X-00000000147Q;Active;;;;Metering Grid Area;Y
+44Y-00000000223M;FI_SOT000;Vapo Oy Sotkamon voimalaitoksen kulutusverkko;;44X-00000000147Q;Active;;;;Metering Grid Area;Y
+44Y-00000000224K;FI_TAA000;Taalintehtaan Teollisuusverkko;;44X-00000000147Q;Active;;;;Metering Grid Area;Y
+44Y-00000000225I;FI_TORA00;Kuusamon voimalaitos;;44X-00000000147Q;Active;;;;Metering Grid Area;Y
+44Y-00000000226G;FI_VNJ000;Vanajan voimalaitos;;44X-00000000147Q;Active;;;;Metering Grid Area;Y
+44Y-00000000227E;FI_RIUT01;Pohjantuulen Voima Oy, Riutunkarin tuulipuisto;;44X-000000000601;Active;;;;Metering Grid Area;Y
+44Y-00000000228C;FI_JOE000;Joensuun kaukolämpölaitos;;44X-00000000082S;Active;;;;Metering Grid Area;Y
+44Y-00000000229A;FI_LALI01;Lännen Lintu Oy voimalaitosverkko;;44X-00000000098D;Active;;;;Metering Grid Area;Y
+44Y-00000000230P;FI_SALL01;Sallila Energia Oy Sallila vesivoimalaitosverkko;;44X-00000000098D;Active;;;;Metering Grid Area;Y
+44Y-00000000231N;FI_PJN000;Ahlström Varkaus Pajaniemi;;44X-00000000100F;Active;;;;Metering Grid Area;Y
+44Y-00000000232L;FI_TMP000;Heinola kulutusverkko;;44X-00000000100F;Active;;;;Metering Grid Area;Y
+44Y-00000000233J;FI_TMP001;Tampella Heinolan Alueverkko;;44X-00000000100F;Active;;;;Metering Grid Area;Y
+44Y-00000000234H;FI_UMH000;Uimaharjun voimalaitoksen kulutusverkko;;44X-00000000100F;Active;;;;Metering Grid Area;Y
+44Y-00000000235F;FI_MER000;Merikosken voimalaitos;;44X-00000000045Y;Active;;;;Metering Grid Area;Y
+44Y-00000000236D;FI_TOP000;Toppilan voimalaitos;;44X-00000000045Y;Active;;;;Metering Grid Area;Y
+44Y-00000000237B;FI_LAA000;Laanilan Biovoimalaitos;;44X-00000000045Y;Active;;;;Metering Grid Area;Y
+44Y-000000002389;FI_ASV001;Esse Elektro-Kraft Ab tuotanto yli 1 MW;;44X-00000000049Q;Active;;;;Metering Grid Area;Y
+44Y-000000002397;FI_ASV002;Esse Elektro-Kraft Ab tuotanto alle 1 MW;;44X-00000000049Q;Active;;;;Metering Grid Area;Y
+44Y-00000000240M;FI_HANH00;Hanhikosken voimalaitosverkko;;44X-00000000049Q;Active;;;;Metering Grid Area;Y
+44Y-00000000241K;FI_ESU001;Nikkilän voimalaitos;;44X-000000000164;Active;;;;Metering Grid Area;Y
+44Y-00000000242I;FI_KER001;Alikeravan ja Savion voimalaitokset;;44X-000000000164;Active;;;;Metering Grid Area;Y
+44Y-00000000243G;FI_KLV000;Keravan Lämpövoima Oy:n voimalaitos;;44X-000000000164;Active;;;;Metering Grid Area;Y
+44Y-00000000244E;FI_ANJ000;Anjalan tehtaat;;44X-00000000100F;Active;;;;Metering Grid Area;Y
+44Y-00000000245C;FI_ANJ001;Anjalankosken voimalaitosverkko;;44X-00000000100F;Active;;;;Metering Grid Area;Y
+44Y-00000000246A;FI_EGTU00;Enson tutkimustehdas Imatra;;44X-00000000100F;Active;;;;Metering Grid Area;Y
+44Y-000000002478;FI_TMP002;Heinola voimalaitosverkko;;44X-00000000100F;Active;;;;Metering Grid Area;Y
+44Y-000000002486;FI_HONSA0;Honkalahden saha;;44X-00000000100F;Active;;;;Metering Grid Area;Y
+44Y-000000002494;FI_KAU001;Kaukopää voimalaitosverkko;;44X-00000000100F;Active;;;;Metering Grid Area;Y
+44Y-00000000250J;FI_KAU000;Kaukopään tehtaat Imatra;;44X-00000000100F;Active;;;;Metering Grid Area;Y
+44Y-00000000251H;FI_NTS000;Nuottasaaren tehtaat;;44X-00000000100F;Active;;;;Metering Grid Area;Y
+44Y-00000000252F;FI_NTS002;Nuottasaari voimalaitosverkko;;44X-00000000100F;Active;;;;Metering Grid Area;Y
+44Y-00000000253D;FI_PJN001;Pajaniemi voimalaitosverkko;;44X-00000000100F;Active;;;;Metering Grid Area;Y
+44Y-00000000254B;FI_PNK000;Pankakosken tehdas;;44X-00000000100F;Active;;;;Metering Grid Area;Y
+44Y-000000002559;FI_PLAN00;Puhos, Kiteen Saha Plan-Sell;;44X-00000000100F;Active;;;;Metering Grid Area;Y
+44Y-000000002567;FI_SUN000;Sunila Oy;;44X-00000000100F;Active;;;;Metering Grid Area;Y
+44Y-000000002575;FI_SUN001;Sunila voimalaitosverkko;;44X-00000000100F;Active;;;;Metering Grid Area;Y
+44Y-000000002583;FI_TAT000;Tainionkosken tehtaat, Imatra;;44X-00000000100F;Active;;;;Metering Grid Area;Y
+44Y-000000002591;FI_UMH001;Uimaharjun voimalaitoksen tuotantoverkko;;44X-00000000100F;Active;;;;Metering Grid Area;Y
+44Y-00000000260G;FI_VEO000;Veitsiluodon tehtaat;;44X-00000000100F;Active;;;;Metering Grid Area;Y
+44Y-00000000261E;FI_VEO001;Veitsiluodon voimalaitosverkko;;44X-00000000100F;Active;;;;Metering Grid Area;Y
+44Y-00000000262C;FI_PILT00;Piltin puutarha;;44X-00000000156P;Active;;;;Metering Grid Area;Y
+44Y-00000000263A;FI_PETTU0;Pettumäen Mylly Oy;;44X-00000000156P;Active;;;;Metering Grid Area;Y
+44Y-000000002648;FI_VIAW00;Via Wind Oy;;44X-00000000156P;Active;;;;Metering Grid Area;Y
+44Y-000000002656;FI_SUTU00;Suotuuli Oy;;44X-00000000156P;Active;;;;Metering Grid Area;Y
+44Y-000000002664;FI_ARVA01;Årvas Wind Ab;;44X-00000000156P;Active;;;;Metering Grid Area;Y
+44Y-000000002672;FI_KYY000;Kyyttö Energy Oy tuulivoima;;44X-00000000156P;Active;;;;Metering Grid Area;Y
+44Y-000000002680;FI_KVKI00;Koivukosken vesivoimalaitos;;44X-00000000047U;Active;;;;Metering Grid Area;Y
+44Y-00000000269Z;FI_KOL000;Kolsin vesivoimalaitos;;44X-00000000047U;Active;;;;Metering Grid Area;Y
+44Y-00000000270D;FI_KRKI00;Korkeakosken vesivoimalaitos;;44X-00000000047U;Active;;;;Metering Grid Area;Y
+44Y-00000000271B;FI_MKI001;Myllykosken voimalaitos, Kouvola;;44X-00000000158L;Active;;;;Metering Grid Area;Y
+44Y-000000002729;FI_UKP001;Nykarleby Kraftverk tuotanto;;44X-00000000110C;Active;;;;Metering Grid Area;Y
+44Y-000000002737;FI_ALUT00;Ala-Utoksen voimalaitos;;23XFORTUMPOWER-W;Active;;;;Metering Grid Area;Y
+44Y-000000002745;FI_MON000;Montan vesivoimalaitos;;23XFORTUMPOWER-W;Active;;;;Metering Grid Area;Y
+44Y-000000002753;FI_NU0000;Nuojuan vesivoimalaitos;;23XFORTUMPOWER-W;Active;;;;Metering Grid Area;Y
+44Y-000000002761;FI_PY0000;Pyhäkosken vesivoimalaitos;;23XFORTUMPOWER-W;Active;;;;Metering Grid Area;Y
+44Y-00000000278Y;FI_PAL000;Pällin vesivoimalaitos;;23XFORTUMPOWER-W;Active;;;;Metering Grid Area;Y
+44Y-00000000279W;FI_ST0000;Seitenoikean vesivoimalaitos;;23XFORTUMPOWER-W;Active;;;;Metering Grid Area;Y
+44Y-00000000280A;FI_LEP000; Leppikosken vesivoimalaitos;;23XFORTUMPOWER-W;Active;;;;Metering Grid Area;Y
+44Y-000000002818;FI_VEL001;Vetelin Sähkölaitos Oy tuotanto;;44X-00000000087I;Active;;;;Metering Grid Area;Y
+44Y-000000002826;FI_BIVA00;Biovakan tuotantoverkko;;23XFORTUMPOWER-W;Active;;;;Metering Grid Area;Y
+44Y-000000002834;FI_EKEM01;Ekokemin teollisuusverkko, Riihimäki;;23XFORTUMPOWER-W;Active;;;;Metering Grid Area;Y
+44Y-000000002842;FI_HATU02;Haapajärvi 2;;23XFORTUMPOWER-W;Active;;;;Metering Grid Area;Y
+44Y-000000002850;FI_LEVI00;Ilmatar Leppävirta Oy;;23XFORTUMPOWER-W;Active;;;;Metering Grid Area;Y
+44Y-00000000286Z;FI_KITI00;Kivenlahden dieselverkko;;23XFORTUMPOWER-W;Active;;;;Metering Grid Area;Y
+44Y-00000000287X;FI_KOS000;Kokkosnivan vesivoimalaitos;;23XFORTUMPOWER-W;Active;;;;Metering Grid Area;Y
+44Y-00000000288V;FI_LATA00;Latamäki tuulipuisto;;44X-00000000147Q;Active;;;;Metering Grid Area;Y
+44Y-00000000289T;FI_LO0000;Loviisan ydinvoimalaitos;;23XFORTUMPOWER-W;Active;;;;Metering Grid Area;Y
+44Y-000000002907;FI_MUNT00;Muntilan Tuulivoima Oy;;23XFORTUMPOWER-W;Active;;;;Metering Grid Area;Y
+44Y-000000002915;FI_OS0000;Ossauskosken vesivoimalaitos;;23XFORTUMPOWER-W;Active;;;;Metering Grid Area;Y
+44Y-000000002923;FI_POR000;Porttipahdan vesivoimalaitos;;23XFORTUMPOWER-W;Active;;;;Metering Grid Area;Y
+44Y-000000002931;FI_SK0000;Seitakorvan vesivoimalaitos;;23XFORTUMPOWER-W;Active;;;;Metering Grid Area;Y
+44Y-00000000295Y;FI_SMJ001;Suomenojan lämpöpumppu kulutusverkko;;23XFORTUMPOWER-W;Active;;;;Metering Grid Area;Y
+44Y-00000000296W;FI_SMJ000;Suomenojan voimalaitosverkko;;23XFORTUMPOWER-W;Active;;;;Metering Grid Area;Y
+44Y-00000000297U;FI_TA0000;Taivalkosken vesivoimalaitos;;23XFORTUMPOWER-W;Active;;;;Metering Grid Area;Y
+44Y-00000000298S;FI_TAEL00;Tapiolan dieselverkko;;23XFORTUMPOWER-W;Active;;;;Metering Grid Area;Y
+44Y-00000000299Q;FI_UT0000;Utasen vesivoimalaitos;;23XFORTUMPOWER-W;Active;;;;Metering Grid Area;Y
+44Y-00000000300U;FI_VA0000;Vanttauskosken vesivoimalaitos;;23XFORTUMPOWER-W;Active;;;;Metering Grid Area;Y
+44Y-00000000301S;FI_VRK000;Sappi Finland Oy Kirkniemen tehdas;;44X-00000000129S;Active;;;;Metering Grid Area;Y
+44Y-00000000302Q;FI_VRK001;Kirkniemen voimalaitos;;44X-00000000129S;Active;;;;Metering Grid Area;Y
+44Y-00000000303O;FI_LAKA02;CPC Finland Oy, Lakiakangas 2;;11XNEAS--------Q;Active;;;;Metering Grid Area;Y
+44Y-00000000304M;FI_HANE01;Haukinevan Tuulipuisto;;11XNEAS--------Q;Active;;;;Metering Grid Area;Y
+44Y-00000000305K;FI_HEVI01;Hedet Vindpark Ab;;11XNEAS--------Q;Active;;;;Metering Grid Area;Y
+44Y-00000000306I;FI_HOTU00;Honkajoen Tuulipuisto ky;;11XNEAS--------Q;Active;;;;Metering Grid Area;Y
+44Y-00000000307G;FI_JEPW01;Jeppo Windpark;;11XNEAS--------Q;Active;;;;Metering Grid Area;Y
+44Y-00000000308E;FI_JOUW01;Jouttikallio Wind Oy;;11XNEAS--------Q;Active;;;;Metering Grid Area;Y
+44Y-00000000309C;FI_KAN000;Kantin Tuulipuisto Ky;;11XNEAS--------Q;Active;;;;Metering Grid Area;Y
+44Y-00000000310R;FI_KIPE00;Kivivaara-Peuravaaran Tuulipuisto Ky;;11XNEAS--------Q;Active;;;;Metering Grid Area;Y
+44Y-00000000311P;FI_KIPE01;Kivivaara-Peuravaaran Tuulipuisto 2A Ky;;11XNEAS--------Q;Active;;;;Metering Grid Area;Y
+44Y-00000000312N;FI_KIPE02;Kivivaara-Peuravaaran Tuulipuisto 2B Ky;;11XNEAS--------Q;Active;;;;Metering Grid Area;Y
+44Y-00000000313L;FI_KIK000;Kooninkallion tuulivoimapuisto;;11XNEAS--------Q;Active;;;;Metering Grid Area;Y
+44Y-00000000314J;FI_TLP000;Kytölän tuulivoimapuisto;;11XNEAS--------Q;Active;;;;Metering Grid Area;Y
+44Y-00000000315H;FI_LIM000;Limakon Tuulipuisto Ky;;11XNEAS--------Q;Active;;;;Metering Grid Area;Y
+44Y-00000000316F;FI_MYG000;Myllykankaan tuulivoimapuisto;;11XNEAS--------Q;Active;;;;Metering Grid Area;Y
+44Y-00000000317D;FI_MYG002;Myllykankaan tuulivoimapuisto 2;;11XNEAS--------Q;Active;;;;Metering Grid Area;Y
+44Y-00000000318B;FI_NYBY00;Nybyn tuulivoimapuisto;;11XNEAS--------Q;Active;;;;Metering Grid Area;Y
+44Y-000000003199;FI_OLTU01;Oltavan Tuulipuisto Ky;;11XNEAS--------Q;Active;;;;Metering Grid Area;Y
+44Y-00000000320O;FI_PAJU00;Pajukosken tuulipuisto;;11XNEAS--------Q;Active;;;;Metering Grid Area;Y
+44Y-00000000321M;FI_PATU01;Paltusmäen Tuulivoima Oy;;11XNEAS--------Q;Active;;;;Metering Grid Area;Y
+44Y-00000000322K;FI_VIHW01;Vihreäsaari Windpark;;11XNEAS--------Q;Active;;;;Metering Grid Area;Y
+44Y-00000000323I;FI_KATU02;wpd Kannuksen Tuulipuisto Oy;;11XNEAS--------Q;Active;;;;Metering Grid Area;Y
+44Y-00000000324G;FI_VSAK01;Säkylän voimalaitosverkko;;44X-00000000162U;Active;;;;Metering Grid Area;Y
+44Y-00000000325E;FI_VSAK00;Sucros Säkylä teollisuusverkko;;44X-00000000162U;Active;;;;Metering Grid Area;Y
+44Y-00000000326C;FI_IMA000;Imatran vesivoimalaitos;;23XFORTUMPOWER-W;Active;;;;Metering Grid Area;Y
+44Y-00000000327A;FI_JLH000;Jylhämän vesivoimalaitos;;23XFORTUMPOWER-W;Active;;;;Metering Grid Area;Y
+44Y-000000003288;FI_KALAX1;Kalaxin tuulipuisto;;23XFORTUMPOWER-W;Active;;;;Metering Grid Area;Y
+44Y-000000003296;FI_LKS000;Lieksankosken vesivoimalaitos;;23XFORTUMPOWER-W;Active;;;;Metering Grid Area;Y
+44Y-00000000330L;FI_LOKK00;Lokan vesivoimalaitos;;23XFORTUMPOWER-W;Active;;;;Metering Grid Area;Y
+44Y-00000000331J;FI_MPUL00;Meripori-Ulvila Alueverkko;;23XFORTUMPOWER-W;Active;;;;Metering Grid Area;Y
+44Y-00000000332H;FI_PT0000;Petäjäskosken vesivoimalaitos;;23XFORTUMPOWER-W;Active;;;;Metering Grid Area;Y
+44Y-00000000333F;FI_PI0000;Pirttikosken vesivoimalaitos;;23XFORTUMPOWER-W;Active;;;;Metering Grid Area;Y
+44Y-00000000334D;FI_VL0000;Valajaskosken vesivoimalaitos;;23XFORTUMPOWER-W;Active;;;;Metering Grid Area;Y
+44Y-00000000335B;FI_KOT000;Kotkamills Oy ;;66X-00000000011Q;Active;;;;Metering Grid Area;Y
+44Y-000000003369;FI_KOT001;Kotkan voimalaitosverkko;;66X-00000000011Q;Active;;;;Metering Grid Area;Y
+44Y-000000003377;FI_PEJ000;Perhonjoki Oy Kaitfors tuotanto;;44X-00000000058P;Active;;;;Metering Grid Area;Y
+44Y-000000003385;FI_PEJ001;Perhonjoki Oy Ylivieska tuotanto;;44X-00000000058P;Active;;;;Metering Grid Area;Y
+44Y-000000003393;FI_ANTU00;Annankankaan tuulipuisto;;44X-00000000163S;Active;;;;Metering Grid Area;Y
+44Y-00000000340I;FI_JOKE01;Jokelan Tuulipuisto;;44X-00000000163S;Active;;;;Metering Grid Area;Y
+44Y-00000000341G;FI_MPTU00;Meri-Pori tuulipuisto;;44X-00000000163S;Active;;;;Metering Grid Area;Y
+44Y-00000000342E;FI_NITU00;Nikkarinkaarron tuulipuisto;;44X-00000000163S;Active;;;;Metering Grid Area;Y
+44Y-00000000343C;FI_RATU00;Raahe tuulipuisto;;44X-00000000163S;Active;;;;Metering Grid Area;Y
+44Y-00000000344A;FI_TATU00;Tahkoluodon merituulipuisto;;44X-00000000163S;Active;;;;Metering Grid Area;Y
+44Y-000000003458;FI_AL0000;Ahvenanmaan verkko;;44X-00000000012C;Active;;;;Metering Grid Area;Y
+44Y-000000003466;FI_LAKA01;CPC Lakiakangas 1 Oy;;44X-00000000012C;Active;;;;Metering Grid Area;Y
+44Y-000000003474;FI_HATU01;Haapajärvi Sauviinmäki Tuulivoima Oy, Haapajärven;;44X-00000000012C;Active;;;;Metering Grid Area;Y
+44Y-000000003482;FI_HUIK01;Huikku Tuulivoima Oy, Hailuoto wind farm;;44X-00000000012C;Active;;;;Metering Grid Area;Y
+44Y-000000003490;FI_JOUK01;Joukhaisselän Tuulipuisto Oy, Joukhaisselkä wind farm;;44X-00000000012C;Active;;;;Metering Grid Area;Y
+44Y-00000000350F;FI_KANTU0;Kansallistuuli Oy, Hilskansaari wind farm;;44X-00000000012C;Active;;;;Metering Grid Area;Y
+44Y-00000000351D;FI_KATU01;Karhusaaren Tuulipuisto;;44X-00000000012C;Active;;;;Metering Grid Area;Y
+44Y-00000000352B;FI_KUOL01;Kuolavaara-Keulakkopään Tuulipuisto Oy;;44X-00000000012C;Active;;;;Metering Grid Area;Y
+44Y-000000003539;FI_POTU01;Porituuli;;44X-00000000012C;Active;;;;Metering Grid Area;Y
+44Y-000000003547;FI_PYVO00;Pyhänkosken tuulipuisto;;44X-00000000012C;Active;;;;Metering Grid Area;Y
+44Y-000000003555;FI_RES001;Restuuli Oy, Märynummi wind farm;;44X-00000000012C;Active;;;;Metering Grid Area;Y
+44Y-000000003563;FI_SATU01;Saarenkylän Tuulipuisto Oy;;44X-00000000012C;Active;;;;Metering Grid Area;Y
+44Y-000000003571;FI_MUTU01;SPC 2 -Mustaisneva Oy, Mustaisnevan Tuulipuisto;;44X-00000000012C;Active;;;;Metering Grid Area;Y
+44Y-00000000359Y;FI_SYSI01;Sysituuli Oy, Kauhajoki wind farm;;44X-00000000012C;Active;;;;Metering Grid Area;Y
+44Y-00000000360C;FI_TOHK01;Tohkojan Tuulipuisto Oy, Tohkojan Tuulipuisto;;44X-00000000012C;Active;;;;Metering Grid Area;Y
+44Y-00000000361A;FI_TUET01;Tuulipuisto Oy Etelänkylä, Etelänkylä wind farm;;44X-00000000012C;Active;;;;Metering Grid Area;Y
+44Y-000000003628;FI_TUPY01;Tuulipuisto Oy Pyhäjoki;;44X-00000000012C;Active;;;;Metering Grid Area;Y
+44Y-000000003636;FI_STW004;TuuliWatti, Olhava wind farm;;44X-00000000012C;Active;;;;Metering Grid Area;Y
+44Y-000000003644;FI_STW006;TuuliWatti, Olhavan 2 wind farm;;44X-00000000012C;Active;;;;Metering Grid Area;Y
+44Y-000000003652;FI_STW003;TuuliWatti, Onkalo wind farm;;44X-00000000012C;Active;;;;Metering Grid Area;Y
+44Y-000000003660;FI_STW002;TuuliWatti, Putaankangas wind farm;;44X-00000000012C;Active;;;;Metering Grid Area;Y
+44Y-00000000367Z;FI_TUVE01;Tuuliveikot Oy, Isoneva wind farm;;44X-00000000012C;Active;;;;Metering Grid Area;Y
+44Y-00000000368X;FI_KAMA00;Tuulivoimapuisto Kankaanpäänmäki Oy;;44X-00000000012C;Active;;;;Metering Grid Area;Y
+44Y-00000000369V;FI_TUTY01;Tuulivoimapuisto Tyrinselkä Oy, Tyrinselkä wind farm;;44X-00000000012C;Active;;;;Metering Grid Area;Y
+44Y-000000003709;FI_MGS000;wpd Finland Oy, Mäkikangas wind farm;;44X-00000000012C;Active;;;;Metering Grid Area;Y
+44Y-000000003717;FI_YKSP01;Ykspihlajan Tuulipuisto;;44X-00000000012C;Active;;;;Metering Grid Area;Y
+44Y-000000003725;FI_YLLB01;Yllikkälä Power Reserve One;;44X-00000000012C;Active;;;;Metering Grid Area;Y
+44Y-000000003733;FI_JUNTT1;Puutarha Timo Juntti Oy;;44X-00000000164Q;Active;;;;Metering Grid Area;Y
+44Y-000000003741;FI_STW011;TuuliWatti, Jäneskeidas wind farm;;44X-00000000160Y;Active;;;;Metering Grid Area;Y
+44Y-00000000376Y;FI_STW013;TuuliWatin Leipiön 2. wind farm;;44X-00000000160Y;Active;;;;Metering Grid Area;Y
+44Y-00000000377W;FI_STW016;TuuliWatti, Sarvankangas wind farm;;44X-00000000160Y;Active;;;;Metering Grid Area;Y
+44Y-00000000378U;FI_ALK000;Alakosken vesivoimalaitos;;44X-00000000165O;Active;;;;Metering Grid Area;Y
+44Y-00000000379S;FI_KESE01;Koskienergia Koskivoima Oy Koillismaan vesivoimalaitokset;;44X-00000000165O;Active;;;;Metering Grid Area;Y
+44Y-000000003806;FI_KESE02;Koskienergia Koskivoima Oy Etelä-Suomen vesivoimalaitokset;;44X-00000000165O;Active;;;;Metering Grid Area;Y
+44Y-000000003814;FI_KESE03;Koskienergia Oy Pohjanmaan vesivoimalaitokset;;44X-00000000165O;Active;;;;Metering Grid Area;Y
+44Y-000000003822;FI_KESE04;Koskienergia Oy Keski-Suomen vesivoimalaitokset;;44X-00000000165O;Active;;;;Metering Grid Area;Y
+44Y-000000003830;FI_KOPSA2;Kopsan tuulivoimala 2;;44X-00000000058P;Active;;;;Metering Grid Area;Y
+44Y-00000000384Z;FI_AJOW01;Ajoksen tuulipuisto;;44X-00000000166M;Active;;;;Metering Grid Area;Y
+44Y-00000000385X;FI_ANK004;Äänekosken vesivoimalaitos;;66X-00000000006J;Active;;;;Metering Grid Area;Y
+44Y-00000000386V;FI_ANK003;Metsä Board Äänekosken tehdasverkko;;66X-00000000006J;Active;;;;Metering Grid Area;Y
+44Y-00000000387T;FI_PULP01;Joutseno Pulp MS;;66X-00000000006J;Active;;;;Metering Grid Area;Y
+44Y-00000000388R;FI_HVO001;Hämeenkyrön Voima;;66X-00000000006J;Active;;;;Metering Grid Area;Y
+44Y-00000000389P;FI_SIM000;Simpeleen teollisuusverkko;;66X-00000000006J;Active;;;;Metering Grid Area;Y
+44Y-000000003903;FI_KYO002;Kyröskosken voimalaitos;;66X-00000000006J;Active;;;;Metering Grid Area;Y
+44Y-000000003911;FI_RAT000;Ratinan teollisuusverkko;;66X-00000000006J;Active;;;;Metering Grid Area;Y
+44Y-00000000393Y;FI_SIM001;Simpeleen voimalaitos;;66X-00000000006J;Active;;;;Metering Grid Area;Y
+44Y-00000000394W;FI_RAT001;Takon voimalaitos;;66X-00000000006J;Active;;;;Metering Grid Area;Y
+44Y-00000000395U;FI_KYO000;KYRÖ Oy;;66X-00000000006J;Active;;;;Metering Grid Area;Y
+44Y-00000000396S;FI_KATE00;Kaskisten tehtaat;;66X-00000000006J;Active;;;;Metering Grid Area;Y
+44Y-00000000397Q;FI_MESA00;Merikarvian Sahan teollisuusverkko;;44X-00000000002F;Active;;;;Metering Grid Area;Y
+44Y-00000000398O;FI_LASA00;Lappeenrannan Sahan teollisuusverkko;;44X-00000000002F;Active;;;;Metering Grid Area;Y
+44Y-00000000399M;FI_KYSA00;Kyrön Sahan teollisuusverkko;;44X-00000000002F;Active;;;;Metering Grid Area;Y
+44Y-00000000400Q;FI_REN000;Metsä Wood Rengon teollisuusverkko;;44X-00000000002F;Active;;;;Metering Grid Area;Y
+44Y-00000000401O;FI_VLP000;Metsä Wood Vilppulan teollisuusverkko;;44X-00000000002F;Active;;;;Metering Grid Area;Y
+44Y-00000000402M;FI_KEO000;Kemi kulutusverkko;;44X-00000000002F;Active;;;;Metering Grid Area;Y
+44Y-00000000403K;FI_PULP00;Joutseno kulutusverkko;;44X-00000000002F;Active;;;;Metering Grid Area;Y
+44Y-00000000404I;FI_MR0000;Rauma kulutusverkko;;44X-00000000002F;Active;;;;Metering Grid Area;Y
+44Y-00000000405G;FI_ANK001;Äänekoski kulutusverkko;;44X-00000000002F;Active;;;;Metering Grid Area;Y
+44Y-00000000406E;FI_KEO001;Kemi voimalaitosverkko;;44X-00000000002F;Active;;;;Metering Grid Area;Y
+44Y-00000000407C;FI_PULP02;Joutseno voimalaitosverkko;;44X-00000000002F;Active;;;;Metering Grid Area;Y
+44Y-00000000408A;FI_MR0001;Rauma voimalaitosverkko;;44X-00000000002F;Active;;;;Metering Grid Area;Y
+44Y-000000004098;FI_BKV000;Vilppulan voimalaitos;;44X-00000000002F;Active;;;;Metering Grid Area;Y
+44Y-00000000410N;FI_BKR000;Rengon voimalaitos;;44X-00000000002F;Active;;;;Metering Grid Area;Y
+44Y-00000000411L;FI_ANK005;Äänekoski voimalaitosverkko MBO;;44X-00000000002F;Active;;;;Metering Grid Area;Y
+44Y-00000000412J;FI_MANTT1;Mäntän Voimalaitos;;44X-00000000167K;Active;;;;Metering Grid Area;Y
+44Y-00000000413H;FI_MANTT0;Mäntän teollisuusverkko;;44X-00000000167K;Active;;;;Metering Grid Area;Y
+44Y-00000000414F;FI_LOH000;Metsä Wood Lohja teollisuusverkko;;44X-00000000168I;Active;;;;Metering Grid Area;Y
+44Y-00000000415D;FI_KUMP01;Kumpuniemen voimalaitos;;44X-00000000168I;Active;;;;Metering Grid Area;Y
+44Y-00000000416B;FI_KUMP00;Kumpuniemen teollisuusverkko;;44X-00000000168I;Active;;;;Metering Grid Area;Y
+44Y-000000004179;FI_PUKE00;Punkaharjun Kerto-tehtaan teollisuusverkko;;44X-00000000168I;Active;;;;Metering Grid Area;Y
+44Y-000000004187;FI_ANK006;Äänevoima Oy kulutusverkko;;44X-00000000169G;Active;;;;Metering Grid Area;Y
+44Y-000000004195;FI_ANK002;Äänevoima Oy voimalaitosverkko;;44X-00000000169G;Active;;;;Metering Grid Area;Y
+44Y-00000000420K;FI_ANK000;Ääneverkko Oy;;44X-00000000169G;Active;;;;Metering Grid Area;Y
+44Y-000000004349;FI_PONSV1;Ponsivuori Wind Oy, Ponsivuori wind farm;;44X-00000000170V;Active;;;;Metering Grid Area;Y
+44Y-000000004357;FI_RIVI01;Ribäcken-Långmossa wind farm;;44X-00000000171T;Active;;;;Metering Grid Area;Y
+44Y-000000004365;FI_VERHO1;Verhonkulma Wind Oy;;44X-00000000172R;Active;;;;Metering Grid Area;Y
+44Y-000000004373;FI_SVO002;Mäkelänkankaan aurinkovoimalaitos;;44X-00000000173P;Active;;;;Metering Grid Area;Y
+44Y-000000004381;FI_SVO001;Mäkelänkankaan tuulivoimapuisto;;44X-00000000173P;Active;;;;Metering Grid Area;Y
+44Y-00000000440E;FI_PK-L00;Nordkalk Lappeenrannan teollisuusverkko;;23X--150126-NOA2;Active;;;;Metering Grid Area;Y
+44Y-00000000441C;FI_KRB000;Suomen Karbonaatti Oy Lappeenrannan tehdas;;23X--150126-NOA2;Active;;;;Metering Grid Area;Y
+44Y-00000000442A;FI_TYT000;Tytyrin kaivos;;23X--150126-NOA2;Active;;;;Metering Grid Area;Y
+44Y-000000004438;FI_STB001;Viinamäen tuulipuisto, akusto;;44X-00000000174N;Active;;;;Metering Grid Area;Y
+44Y-000000004446;FI_STW017;Viinamäen tuulipuisto;;44X-00000000174N;Active;;;;Metering Grid Area;Y
+44Y-000000004454;FI_STW012;Tuuliwatti, Mustilankangas wind farm;;44X-00000000175L;Active;;;;Metering Grid Area;Y
+44Y-000000004462;FI_STW008;Tuuliwatti, Peittoo wind farm;;44X-00000000176J;Active;;;;Metering Grid Area;Y
+44Y-000000004470;FI_STW001;Tuuliwatti, Meri-Pori wind farm;;44X-00000000177H;Active;;;;Metering Grid Area;Y
+44Y-00000000448Z;FI_STW010;Tuuliwatti, Märynummi wind farm;;44X-00000000183M;Active;;;;Metering Grid Area;Y
+44Y-00000000449X;FI_STW014;Tuuliwatti Oy, Halmekangas;;44X-00000000178F;Active;;;;Metering Grid Area;Y
+44Y-00000000450B;FI_STW007;Tuuliwatti, Leipiö wind farm;;44X-00000000179D;Active;;;;Metering Grid Area;Y
+44Y-000000004519;FI_STW015;Tuuliwatti, Onkalo 2 wind farm;;44X-00000000180S;Active;;;;Metering Grid Area;Y
+44Y-000000004527;FI_STW005;Tuuliwatti, Varevaara wind farm;;44X-00000000181Q;Active;;;;Metering Grid Area;Y
+44Y-000000004535;FI_STW009;Tuuliwatti, Kitkiäisvaara wind farm;;44X-00000000182O;Active;;;;Metering Grid Area;Y
+44Y-000000004543;FI_LOVO00;Lounavoima voimalaitos;;44X-00000000147Q;Active;;;;Metering Grid Area;Y
+44Y-000000004551;FI_AMS000;Ämmässuo;;44X-00000000184K;Active;;;;Metering Grid Area;Y
+44Y-00000000457Y;FI_KMVL00;Kalliomäen voimalaitos;;44X-00000000184K;Active;;;;Metering Grid Area;Y
+44Y-00000000458W;FI_KRA000;Järvenpään voimalaitos;;44X-000000000172;Active;;;;Metering Grid Area;Y
+44Y-00000000459U;FI_SCWR01;Ristiina voimalaitosverkko;;44X-00000000186G;Active;;;;Metering Grid Area;Y
+44Y-000000004608;FI_SCWR00;Schauman Wood Ristiina;;44X-00000000186G;Active;;;;Metering Grid Area;Y
+44Y-000000004616;FI_SCWS00;UPM Jyväskylän tehtaat;;44X-00000000186G;Active;;;;Metering Grid Area;Y
+44Y-000000004624;FI_PPV000;Porin Prosessivoima Oy;;44X-00000000187E;Active;;;;Metering Grid Area;Y
+44Y-000000004632;FI_ATL001;Aittaluodon tuotantoverkko;;44X-00000000188C;Active;;;;Metering Grid Area;Y
+44Y-000000004640;FI_STEP01;STEP Oy, Harjavallan voimalaitosverkko;;44X-00000000188C;Active;;;;Metering Grid Area;Y
+44Y-00000000465Z;FI_BOR000;Borealis Polymers Oy;;44X-00000000190P;Active;;;;Metering Grid Area;Y
+44Y-00000000466X;FI_HOBI00;Honkajoen biokaasuvoimala;;44X-00000000185I;Active;;;;Metering Grid Area;Y
+44Y-00000000467V;FI_VATA01;Vatajankoski kaukolämpö voimalaitosverkko;;44X-00000000185I;Active;;;;Metering Grid Area;Y
+44Y-00000000468T;FI_STOR01;Storbacken;;44X-00000000012C;Active;;;;Metering Grid Area;Y
+44Y-00000000469R;FI_KROP01;Kröpuln;;44X-00000000012C;Active;;;;Metering Grid Area;Y
+44Y-000000004705;FI_SYS000;Sysilahden teollisuusverkko;;44X-00000000191N;Active;;;;Metering Grid Area;Y
+44Y-000000004713;FI_FORKT0;Forssan varavoimalaitos;;10X1001A1001A264;Active;;;;Metering Grid Area;Y
+44Y-000000004721;FI_NEP000;Neste Porvoo KT;;10X1001A1001A264;Active;;;;Metering Grid Area;Y
+44Y-00000000474Y;FI_EKEM00;Ekokemin teollisuusverkko, Riihimäki;;23XFORTUMPOWER-W;Active;;;;Metering Grid Area;Y
+44Y-00000000475W;FI_EPT004;Paskoonharjun tuulivoimapuisto 1;;44X-00000000149M;Active;;;;Metering Grid Area;Y
+44Y-00000000476U;FI_EPTV00;EPV Teollisuusverkot Oy;;44X-00000000192L;Active;;;;Metering Grid Area;Y
+44Y-00000000477S;FI_RUS001;Kaitakosken tuontiyhteys;;44X-000000001225;Active;;;;Metering Grid Area;Y
+44Y-00000000478Q;FI_HIN000;Hinkismäen voimalaitos;;44X-000000000334;Active;;;;Metering Grid Area;Y
+44Y-00000000479O;FI_TUTU00;Tunturituuli;;44X-00000000063W;Active;;;;Metering Grid Area;Y
+44Y-000000004802;FI_POTU00;Polusjärven tuulipuisto;;44X-00000000163S;Active;;;;Metering Grid Area;Y
+44Y-000000004810;FI_KJVL00;Kalajärven vesivoimalaitos;;44X-00000000010G;Active;;;;Metering Grid Area;Y
+44Y-00000000482Z;FI_JSA000;Jusslan teollisuusverkko;;44X-00000000193J;Active;;;;Metering Grid Area;Y
+44Y-00000000483X;FI_GENE00;Genencor Oy;;44X-00000000194H;Active;;;;Metering Grid Area;Y
+44Y-00000000484V;FI_RATE00;Raision tehdasalue;;44X-00000000194H;Active;;;;Metering Grid Area;Y
+44Y-00000000485T;FI_HERI00;Saint-Gobain Isover Oy;;44X-00000000194H;Active;;;;Metering Grid Area;Y
+44Y-00000000486R;FI_VERW00;Versowood Oy, Riihimäen tehdas;;44X-00000000194H;Active;;;;Metering Grid Area;Y
+44Y-00000000487P;FI_KEKL00;Kemijärven kaukolämmön voimalaitosverkko;;44X-00000000195F;Active;;;;Metering Grid Area;Y
+44Y-00000000488N;FI_NEO001;Neste Tuotantoverkko;;44X-00000000196D;Active;;;;Metering Grid Area;Y
+44Y-00000000489L;FI_KKV000;Kokkolan Voimalaitos;;44X-000000001039;Active;;;;Metering Grid Area;Y
+44Y-00000000491Y;FI_KOV000;Kokkolan Voiman Voimalaitos;;44X-000000001039;Active;;;;Metering Grid Area;Y
+44Y-00000000492W;FI_RVK001;Kaihuan ja Kaarnin voimalaitokset;;44X-00000000197B;Active;;;;Metering Grid Area;Y
+44Y-00000000493U;FI_NEN000;Neste Naantalin verkko;;44X-00000000003D;Active;;;;Metering Grid Area;Y
+44Y-00000000494S;FI_TLV000;Tornionlaakson Voima Oy;;44X-000000001989;Active;;;;Metering Grid Area;Y
+44Y-00000000495Q;FI_RTE000;Raahen Tuulienergia;;44X-00000000200B;Active;;;;Metering Grid Area;Y
+44Y-00000000496O;FI_ROI001;Suosiolan voimalaitos;;44X-00000000064U;Active;;;;Metering Grid Area;Y
+44Y-00000000497M;FI_KYO001;Kyröskosken Voima voimalaitosverkko;;44X-000000002019;Active;;;;Metering Grid Area;Y
+44Y-00000000498K;FI_TLV001;Jolmankosken voimalaitos;;44X-000000001997;Active;;;;Metering Grid Area;Y
+44Y-00000000499I;FI_TLV002;Kaaranneskosken voimalaitos;;44X-000000001997;Active;;;;Metering Grid Area;Y
+44Y-00000000500M;FI_TLV003;Portimokosken voimalaitos;;44X-000000001997;Active;;;;Metering Grid Area;Y
+44Y-00000000501K;FI_MIKVL0;Pursialan voimalaitos;;44X-000000001322;Active;;;;Metering Grid Area;Y
+44Y-00000000502I;FI_ISH001;Isohaara kulutusverkko;;44X-000000002027;Active;;;;Metering Grid Area;Y
+44Y-00000000503G;FI_SABA00;Saba Wind Oy Sandön tuulivoimalaitos;;44X-000000001241;Active;;;;Metering Grid Area;Y
+44Y-00000000504E;FI_TAVO00;Ekenäs Energi Tammisaaren voimalaitos;;44X-000000001241;Active;;;;Metering Grid Area;Y
+44Y-00000000505C;FI_HAR000;Harjavallan voimalaitos;;44X-000000000504;Active;;;;Metering Grid Area;Y
+44Y-00000000506A;FI_TOVO00;Tornion Voima;;44X-00000000155R;Active;;;;Metering Grid Area;Y
+44Y-000000005078;FI_VAS001;Vaskiluoto 1;;44X-000000002035;Active;;;;Metering Grid Area;Y
+44Y-000000005086;FI_HVT001;Haapajärven Välikankaan Tuulivoima Oy;;44X-00000000194H;Active;;;;Metering Grid Area;Y
+44Y-000000005094;FI_KUTU10;Kuivatuuli;;44X-000000002019;Active;;;;Metering Grid Area;Y
+44Y-00000000510J;FI_PIKK00;Pikkalan teollisuusverkko;;44X-00000000147Q;Active;;;;Metering Grid Area;Y
+44Y-00000000511H;FI_LEPP01;Leppäkosken Sähkö Oy moottorivoimalaitos;;44X-000000002019;Active;;;;Metering Grid Area;Y
+44Y-00000000512F;FI_NOK000;Nokia KOMBI voimalaitos;;44X-000000002019;Active;;;;Metering Grid Area;Y
+44Y-00000000513D;FI_KOWI01;Korkeakangas wind farm;;44X-000000002043;Active;;;;Metering Grid Area;Y
+44Y-00000000514B;FI_PARHA1;Parhan tuulivoimapuisto;;44X-000000002051;Active;;;;Metering Grid Area;Y
+44Y-000000005159;FI_SARV01;Simo Sarvisuon tuulipuisto;;44X-00000000160Y;Active;;;;Metering Grid Area;Y
+44Y-000000005167;44Y-000000005167;Tuulivoimapuisto Tyrinselkä 2;;44X-00000000045Y;Active;;;;Metering Grid Area;Y
+44Y-000000005175;44Y-000000005175;Kymijärven tuotantoverkko;;44X-00000000074R;Active;;;;Metering Grid Area;Y
+44Y-000000005183;44Y-000000005183;Metsälamminkankaan tuulipuisto;;44X-000000001403;Active;;;;Metering Grid Area;Y
+44Y-000000005191;44Y-000000005191;Sievi Jakostenkallio Tuulivoima Oy;;44X-00000000194H;Active;;;;Metering Grid Area;Y
+44Y-00000000520G;44Y-00000000520G;Tuulipuisto Pihtipudas Oy;;44X-00000000194H;Active;;;;Metering Grid Area;Y
+44Y-00000000521E;44Y-00000000521E;Mirkan teollisuusverkko, Jepua;;44X-00000000128U;Active;;;;Metering Grid Area;Y
+44Y-00000000522C;44Y-00000000522C;Mastokangas wind farm;;44X-00000000207Y;Active;;;;Metering Grid Area;Y
+44Y-00000000523A;44Y-00000000523A;Hankilan tuulivoimapuisto;;44X-000000002051;Active;;;;Metering Grid Area;Y
+44Y-000000005248;44Y-000000005248;Kestilän Kokkonevan Tuulivoima tuulipuisto;;44X-00000000083Q;Active;;;;Metering Grid Area;Y
+44Y-000000005256;44Y-000000005256;Sinebrychoff battery, Kerava;;44X-00000000194H;Active;;;;Metering Grid Area;Y
+44Y-000000005264;44Y-000000005264;Sinebrychoff brewery, Kerava;;44X-00000000194H;Active;;;;Metering Grid Area;Y
+44Y-000000005272;44Y-000000005272;Konttisuon Tuulivoima Oy;;11XNEAS--------Q;Active;;;;Metering Grid Area;Y
+44Y-000000005280;44Y-000000005280;Rasakankaan tuulipuisto;;44X-00000000208W;Active;;;;Metering Grid Area;Y
+44Y-00000000529Z;44Y-00000000529Z;Humppila-Urjalan tuulipuisto;;44X-00000000208W;Active;;;;Metering Grid Area;Y
+44Y-00000000530D;44Y-00000000530D;Saunamaa Wind Farm Oy;;44X-00000000020D;Active;;;;Metering Grid Area;Y
+44Y-00000000531B;44Y-00000000531B;Vöyrinkangas Wind Farm Oy;;44X-00000000020D;Active;;;;Metering Grid Area;Y
+44Y-000000005329;44Y-000000005329;Naantalin teollisuusverkko ;;44X-00000000156P;Active;;;;Metering Grid Area;Y
+44Y-000000005337;44Y-000000005337;Mutkalampi North;;23XSTATKRAFT-AS8;Active;;;;Metering Grid Area;Y
+44Y-000000005345;44Y-000000005345;Mutkalampi South;;23XSTATKRAFT-AS8;Active;;;;Metering Grid Area;Y
+44Y-000000005353;44Y-000000005353;JUUR01 tuotantoverkko;;44X-000000002213;Active;;;;Metering Grid Area;Y
+44Y-000000005361;FI_AHV001;Ahvenkosken pumppaamo;;44X-00000000039T;Active;;;;Metering Grid Area;Y
+44Y-00000000538Y;44Y-00000000538Y;Alajoki-Peuralinnan tuulipuisto ;;44X-00000000163S;Active;;;;Metering Grid Area;Y
+44Y-00000000539W;44Y-00000000539W;Isonevan tuulipuisto;;11XNEAS--------Q;Active;;;;Metering Grid Area;Y
+44Y-00000000540A;FI_OL0006;Olkiluoto akkuenergiavarasto;;44X-00000000143Y;Active;;;;Metering Grid Area;Y
+44Y-000000005418;44Y-000000005418;Läntisen tuulipuisto, Kalajoki;;44X-00000000194H;Active;;;;Metering Grid Area;Y
+44Y-000000005426;44Y-000000005426;Kivenlahden lämpölaitos;;23XFORTUMPOWER-W;Active;;;;Metering Grid Area;Y
+44Y-000000005434;44Y-000000005434;Vermon lämpölaitos;;23XFORTUMPOWER-W;Active;;;;Metering Grid Area;Y
+44Y-000000005442;44Y-000000005442;Otaniemen lämpölaitos;;23XFORTUMPOWER-W;Active;;;;Metering Grid Area;Y
+44Y-000000005450;44Y-000000005450;Voimajohto Oy Kalajoki;;44X-00000000194H;Active;;;;Metering Grid Area;Y
+44Y-00000000546Z;44Y-00000000546Z;Haapalamminkangas Wind Farm Oy;;44X-00000000194H;Active;;;;Metering Grid Area;Y
+44Y-00000000547X;44Y-00000000547X;Merkkikallion tuulipuisto;;44X-00000000194H;Active;;;;Metering Grid Area;Y
+44Y-00000000548V;44Y-00000000548V;Kraftnät Åland;;44X-00000000226U;Active;;;;Metering Grid Area;Y
+44Y-00000000549T;44Y-00000000549T;Takanebacken;;44X-00000000227S;Active;;;;Metering Grid Area;Y
+44Y-000000005507;44Y-000000005507;Torvenkylä;;44X-00000000228Q;Active;;;;Metering Grid Area;Y
+44Y-000000005515;44Y-000000005515;Murtotuulen tuulipuisto ;;11XNEAS--------Q;Active;;;;Metering Grid Area;Y
+44Y-000000005523;44Y-000000005523;Hautakankaan tuulipuisto;;44X-00000000194H;Active;;;;Metering Grid Area;Y
+44Y-000000005531;44Y-000000005531;Hallakankaan tuulipuisto;;44X-00000000194H;Active;;;;Metering Grid Area;Y
+44Y-00000000555Y;44Y-00000000555Y;Puutikankangas Wind;;44X-00000000194H;Active;;;;Metering Grid Area;Y
+44Y-00000000556W;44Y-00000000556W;Rustarin tuulipuisto;;44X-00000000194H;Active;;;;Metering Grid Area;Y
+44Y-00000000557U;44Y-00000000557U;TUPA01;;44X-00000000229O;Active;;;;Metering Grid Area;Y
+44Y-00000000558S;44Y-00000000558S;Ali-Juhakkalan lämpöpumppuverkko;;44X-00000000074R;Active;;;;Metering Grid Area;Y
+44Y-00000000559Q;44Y-00000000559Q;Keson tuulivoimapuisto;;44X-000000002051;Active;;;;Metering Grid Area;Y
+44Y-000000005604;44Y-000000005604;Kaukasen tuulivoimapuisto;;44X-000000002051;Active;;;;Metering Grid Area;Y
+44Y-000000005612;44Y-000000005612;Wpd Finland , Karhunnevankangas wind;;44X-000000002302;Active;;;;Metering Grid Area;Y
+44Y-000000005620;44Y-000000005620;Wpd Finland , Nuolivaara wind;;44X-000000002302;Active;;;;Metering Grid Area;Y
+44Y-00000000563Z;44Y-00000000563Z;Pahkakosken tuulipuisto;;44X-00000000208W;Active;;;;Metering Grid Area;Y
+44Y-00000000564X;44Y-00000000564X;Jäkäläkankaan tuulipuisto;;44X-00000000208W;Active;;;;Metering Grid Area;Y
+44Y-00000000565V;FI_RIUT02;Pohjantuulen Voima Oy, Riutunkarin tuulipuisto 2;;44X-000000000601;Active;;;;Metering Grid Area;Y
+44Y-00000000566T;RUDA01;Ruda Solpark;;44X-00000000156P;Active;;;;Metering Grid Area;Y
+44Y-00000000567R;KREC00;Kaipola Recycling Oy;;44X-00000000239L;Active;;;;Metering Grid Area;Y
+44Y-00000000568P;HESS01;Equinix Sinimäki, HESS1;;44X-00000000128U;Active;;;;Metering Grid Area;Y
+44Y-00000000569N;MURM01;Murtomäen tuulipuisto;;44X-00000000194H;Active;;;;Metering Grid Area;Y
+44Y-000000005701;LOUH01;Louhukangas wind farm;;44X-00000000208W;Active;;;;Metering Grid Area;Y
+44Y-000000005710;KSS001;Säkylän diesel-voimalat;;44X-000000000326;Active;;;;Metering Grid Area;Y
+44Y-00000000572Y;JOR001;Joroisten aurinkopuisto;;44X-00000000208W;Active;;;;Metering Grid Area;Y
+44Y-00000000573W;44Y-00000000573W;Blominmäen jätevedenpuhdistamo;;44X-00000000184K;Active;;;;Metering Grid Area;Y
+44Y-00000000574U;44Y-00000000574U;Voikkaan kiinteistöverkko;;44X-00000000242W;Active;;;;Metering Grid Area;Y
+44Y-00000000575S;44Y-00000000575S;Tolpanvaara wind farm;;44X-00000000243U;Active;;;;Metering Grid Area;Y
+44Y-00000000576Q;44Y-00000000576Q;Lumivaaran Lumisuon tuulipuisto;;44X-00000000245Q;Active;;;;Metering Grid Area;Y
+44Y-00000000577O;44Y-00000000577O;Lindö Solpark;;44X-000000000253;Active;;;;Metering Grid Area;Y
+44Y-00000000578M;44Y-00000000578M;Mörknässkogen;;44X-00000000012C;Active;;;;Metering Grid Area;Y
+44Y-00000000579K;44Y-00000000579K;Taivalmaan puutarha;;44X-00000000164Q;Active;;;;Metering Grid Area;Y
+44Y-00000000580Z;PAPE00;Pajuperänkangas wind farm;;44X-00000000247M;Active;;;;Metering Grid Area;Y
+44Y-00000000581X;44Y-00000000581X;Mankkaan lämpöpumppulaitos;;23XFORTUMPOWER-W;Active;;;;Metering Grid Area;Y
+44Y-00000000582V;PALM01;Palman tuulipuisto;;44X-00000000208W;Active;;;;Metering Grid Area;Y
+44Y-00000000583T;VAST01;Västervik-Isokeidas wind farms;;44X-00000000208W;Active;;;;Metering Grid Area;Y
+44Y-00000000584R;FI_BOSOL0;BOHA Solarigon aurinkovoimala;;44X-000000002116;Active;;;;Metering Grid Area;Y
+44Y-00000000585P;44Y-00000000585P;Koiramäki;;11X0-0000-0518-U;Active;;;;Metering Grid Area;Y
+44Y-00000000586N;IDEA00;Ideaparkin kulutusverkko;;44X-00000000147Q;Active;;;;Metering Grid Area;Y
+44Y-00000000587L;44Y-00000000587L;Laanilan sähkökattila;;44X-00000000045Y;Active;;;;Metering Grid Area;Y
+44Y-00000000588J;44Y-00000000588J;Björkliden wind farm;;17X0000013609253;Active;;;;Metering Grid Area;Y
+44Y-00000000589H;44Y-00000000589H;Karamalmin lämpöpumppulaitos;;23XFORTUMPOWER-W;Active;;;;Metering Grid Area;Y
+44Y-00000000590W;BJOL01;Björkliden Vindpark;;44X-00000000012C;Active;;;;Metering Grid Area;Y
+44Y-00000000591U;44Y-00000000591U;Riutunkarin tuulipuisto 3;;44X-00000000251V;Active;;;;Metering Grid Area;Y
+44Y-00000000592S;MGRID0;MGRID Lempäälä;;44X-00000000147Q;Active;;;;Metering Grid Area;Y
+44Y-00000000593Q;ILLE01;Illevaaran tuulipuisto;;44X-00000000164Q;Active;;;;Metering Grid Area;Y
+44Y-00000000594O;44Y-00000000594O;Hittisennevan tuulipuisto;;44X-00000000252T;Active;;;;Metering Grid Area;Y
+44Y-00000000595M;44Y-00000000595M;Mustalamminmäki;;11X0-0000-0518-U;Active;;;;Metering Grid Area;Y
+45Y000000000001C;DKW-NO2;DKW-NO2 virtual Bidding Zone Border;;;Active;;;;Bidding Zone,Border Area;Y
+45Y000000000002A;DKW-SE3;DKW-SE3 virtual Bidding Zone Border;;;Active;;;;Bidding Zone,Border Area;Y
+45Y0000000000038;DKW-DKE;DKW-DKE virtual Bidding Zone Border;;;Active;;;;Bidding Zone,Border Area;Y
+45Y0000000000046;DKW-NL;DKW-NL virtual Bidding Zone Border;;;Active;;;;Border Area;Y
+45Y0000000000054;DKW-TTG;DKW-TTG virtual Bidding Zone Border;;;Active;;;;Border Area;Y
+45Y0000000000062;DKE-DKW;DKE-DKW virtual Bidding Zone Border;;;Active;;;;Border Area;Y
+45Y0000000000070;DKE-50HZ;DKE-50Hz virtual Bidding Zone Border;;;Active;;;;Border Area;Y
+45Y000000000008Z;VIKINGLINK_AREA;Interconnector Viking Link;;;Active;;;;Scheduling Area;Y
+45Y000000000009X;BORDER_DK1-GB;Border Area DK1 - GB;;;Active;;;;Border Area;Y
+46Y000000000001Y;SE3_FS;SE3_FS (SE3, Fennoskan);;;Active;;;;Bidding Zone;Y
+46Y000000000002W;SE3_KS;SE3_KS (SE3, Kontiskan);;;Active;;;;Bidding Zone;Y
+46Y000000000003U;SE4_SP;SE4_SP (SE4, Swepol link);;;Active;;;;Bidding Zone;Y
+46Y000000000004S;SE4_NB;SE4_NB (SE4, Nordbalt);;;Active;;;;Bidding Zone;Y
+46Y000000000005Q;SE4_BC;SE4_BC (SE4, Baltic Cable);;;Active;;;;Bidding Zone;Y
+46Y000000000006O;SYDVASTLANKEN;Sydvästlänken (SE3-SE4-AREA);;;Active;;;;Border Area;Y
+46Y000000000007M;CUT_AREA_SE3LS;Cut area SE3LS;;;Active;;;;Bidding Zone;Y
+46Y000000000008K;CUT_AREA_SE3;Cut area SE3;;;Active;;;;Bidding Zone;Y
+46Y000000000009I;CUTCOR_SE3LS-SE3;Cut corridor SE3LS-SE3;;;Active;;;;Bidding Zone;Y
+46Y000000000015N;VBZ_SE3-SE4_ACSW;Virtual bidding zone border SE3-SE4 AC+SWL;;;Active;;;;Bidding Zone;Y
+46Y000000000016L;VBZ_SE4-SE3_ACSW;Virtual bidding zone border SE4-SE3 AC+SWL;;;Active;;;;Bidding Zone;Y
+46Y000000000017J;SE3_SWL;SE3_SWL (SE3, Sydvastlanken);;;Active;;;;Bidding Zone;Y
+46Y000000000018H;SE4_SWL;SE4_SWL (SE4, Sydvastlanken);;;Active;;;;Bidding Zone;Y
+46Y000000000019F;CUTCOR_SE3A-SE3;Cut corridor SE3A-SE3;;;Active;;;;Bidding Zone;Y
+49Y000000000000S;XBID-MC;Single Intraday Coupling Domain;;10X1001A1001A361;Active;;;;Market Area;Y
+49Y000000000001Q;GB-NL-MAASVLAKTE;Border domain Great Britain - Netherlands at Maasvlakte;;10X1001A1001A361;Active;;;;Border Area;Y
+49Y000000000002O;DK1-NL_COBRAVHUB;vhub_DK1_COBRA;;;Active;;;;Local Market Area;Y
+50Y0JVU59B4JWQCU;NO_NO2NSL;Virtual Bidding Zone NO2NSL;;10X1001A1001A38Y;Active;;;;Bidding Zone;Y
+50Y73EMZ34CQL9AJ;NO_NO2_NL;Virtual Bidding Zone NO2-NL;;10X1001A1001A38Y;Active;;;;Bidding Zone;Y
+50YCUY85S1HH29EK;NO_NO2_DK1;Virtual Bidding Zone NO2-DK1;;10X1001A1001A38Y;Active;;;;Bidding Zone;Y
+50Y-HTS3792HUOAC;NO_NO2-GB;Virtual bidding Zone NO2-GB;;10X1001A1001A38Y;Active;;;;Bidding Zone;Y
+50YNBFFTWZRAHA3P;NO_NO2-DE;Virtual bidding Zone NO2-DE   ;;10X1001A1001A38Y;Active;;;;Bidding Zone;Y
+52Y0000000000006;GTS_LDC;GTS Local Distribution Companies;52Y0000000000006;21X-NL-A-A0A0A-Z;Active;;;;Local Market Area;Y
+52Y0000000000014;GTS_PRODUCTION;GTS Aggregated Production;52Y0000000000014;21X-NL-A-A0A0A-Z;Active;;;;Market Area;Y
+52Y0000000000022;GTS_PDC;GTS Private Distribution Companies;52Y0000000000022;21X-NL-A-A0A0A-Z;Active;;;;Local Market Area;Y
+52Y0000000000030;GTS_INDUSTRY;GTS Aggregated Industry;52Y0000000000030;21X-NL-A-A0A0A-Z;Active;;;;Market Area;Y
+52Y000000000004Z;GTS_INDUSTRY_L;GTS Aggregated Industry L-gas;;;Active;;;;Local Market Area;Y
+52Y000000000005X;GTS_PRODUCTIONGG;GTS Aggregated Production Green Gas;;;Active;;;;Local Market Area;Y
+52Y000000000006V;GTS_LDC_H;GTS Local Distribution Companies H-gas;;;Active;;;;Local Market Area;Y
+52Y000000000007T;GTS_LDC_L;GTS Local Distribution Companies L-gas;;;Active;;;;Local Market Area;Y
+52Y000000000008R;GTS_POWERPL_H;GTS Power Plants H-gas;;;Active;;;;Local Market Area;Y
+52Y000000000009P;GTS_POWERPL_L;GTS Power plants L-gas;;;Active;;;;Local Market Area;Y
+52Y0000000000103;GTS_INDUSTRY_H;GTS Aggregated Industry H-gas;;;Active;;;;Local Market Area;Y
+55Y11NG-NBP--11D;NG-NBP;National Grid NBP;;21X-GB-A-A0A0A-7;Active;;;;Scheduling Area;Y
+55YCOUL1-ENERGY0;COULOMBENERGY;Coulomb Energy;;;Active;;;;Balance Group;Y
+55YENERGY-24LTDW;ENERGY24LTD;Energy24limited;;;Active;;;;Balance Group;Y
+55YINOVYN77RUNCK;NOVYNRUNCORNG;Inovyn Runcorn G;;;Active;;;;Balance Group;Y
+55YIUKCONNECTOR4;IUK;Interconnector UK Ltd;;;Active;;;;Market Area;Y
+55YNI-BALANCE-A6;NI-BALANCE-AREA;NI Balancing Zone;;21X0000000013562;Active;;;;Scheduling Area;Y
+56Y940000001397J;BALANCE_ZONE_UA;Balancing zone of Ukraine;;;Active;;;;Market Area;Y
+58Y-BG-AGGR-EXT4;AGGREX_BG;Aggregated exits Bulgaria;;21X-BG-A-A0A0A-C;Active;;;;Market Area;Y
+59Y000000000001A;M_RN_SOR;AREA SUD ORIENTALE;;;Active;;;;Scheduling Area;Y
+59Y0000000000028;M_RN_SOC;AREA SUD OCCIDENTALE;;;Active;;;;Scheduling Area;Y
+59Y0000000000036;M_RN_NOR;AREA NORD ORIENTALE;;;Active;;;;Scheduling Area;Y
+59Y0000000000044;M_RN_NOC;AREA NORD OCCIDENTALE;;;Active;;;;Scheduling Area;Y
+59Y0000000000052;M_RN_MER;AREA MERIDIONALE;;;Active;;;;Scheduling Area;Y
+59Y0000000000060;M_RN_CEN;AREA CENTRALE;;;Active;;;;Scheduling Area;Y
+59Y-0-LITASCO-9M;LITASCO;LITASCO S.A.;;59X-7-LITASCO-5Y;Active;;;;Balance Group;Y
+60Y000000000001I;AREA-RO-NTS;Market Area Romania (NTS);;;Active;;;;Market Area,Scheduling Area;Y
+60Y000000000002G;AREA-RO-DTS;Market Area Romania (DTS);;;Active;;;;Market Area,Scheduling Area;Y
+63Y2261598125895;FRG_POOL_DISTRIB;GRTgaz aggregated end consumers  distribution;;;Active;;;;Local Market Area;Y
+63Y252261163634J;FRG_TEST5;TEST;;;Active;;;;Market Area;Y
+63Y2681718729982;FRG_POOL_INDUS;GRTgaz aggregated end consumers  industrial;;;Active;;;;Local Market Area;Y
+63Y564764785539O;FRG_POOL_GRTGAZ;GRTgaz aggregated end consumers;;;Active;;;;Local Market Area;Y
+65YBGGENEX000002;GENEX;GENEX;;;Active;;;;Balance Group;Y
+65YBG-GSE-TGRIDV;GSE_TRANSM_BG;GSE_TRANSM_BG;;;Active;;;;Balance Group;Y
+66Y-00000000001F;FINLAND_GAS_BALZ;Finland Gas Market Balance Area;;21X000000001393X;Active;;;;Scheduling Area;Y
+11Y0-0000-2753-U;EMCO_BG_IDA_RDIF;EMCO BG IDA Rounding Diff;;11XNPSPOT-ELBASW;Active;;;;Balance Group;Y
+44Y-00000000596K;44Y-00000000596K;Oosinselän tuulipuisto 2;;44X-00000000163S;Active;;;;Metering Grid Area;Y
+44Y-00000000597I;44Y-00000000597I;Oosinselän liityntäjohto;;44X-00000000160Y;Active;;;;Metering Grid Area;Y
+44Y-00000000598G;44Y-00000000598G;Sandbacka Vindkraft Oy;;44X-00000000259F;Active;;;;Metering Grid Area;Y
+44Y-00000000599E;44Y-00000000599E;Helen Aurinkopuisto Kalanti;;44X-00000000039T;Active;;;;Metering Grid Area;Y
+44Y-00000000600I;44Y-00000000600I;Tuulipuisto Karahka;;44X-00000000039T;Active;;;;Metering Grid Area;Y
+44Y-00000000601G;44Y-00000000601G;Tuulipuisto Niinimäki;;44X-00000000039T;Active;;;;Metering Grid Area;Y
+44Y-00000000602E;44Y-00000000602E;Tuulipuisto Kalistanneva;;44X-00000000039T;Active;;;;Metering Grid Area;Y
+44Y-00000000603C;44Y-00000000603C;Tuulipuisto Lakiakangas 3;;44X-00000000039T;Active;;;;Metering Grid Area;Y
+14Y--CCPA-ID1--9;CCPAID1;CCP Austria Abwicklungsstelle für Börsengeschäfte GmbH;;14X----CCPA----8;Active;;;;Balance Group;Y
+12Y-000000104Q-M;RESPECTNRJ-FU-BG;Respect Energy Fuels Sp. z o.o;;;Active;;;;Balance Group;Y
+44Y-00000000604A;44Y-00000000604A;Tuulipuisto Juurakko;;44X-00000000039T;Active;;;;Metering Grid Area;Y
+44Y-000000006058;44Y-000000006058;Kosolankankaan siirtoverkko;;44X-00000000252T;Active;;;;Metering Grid Area;Y
+44Y-000000006066;44Y-000000006066;Kosolankankaan tuulipuisto;;44X-00000000252T;Active;;;;Metering Grid Area;Y
+44Y-000000006074;44Y-000000006074;Iso-Kortenevan tuulipuisto;;44X-00000000252T;Active;;;;Metering Grid Area;Y
+44Y-000000006082;44Y-000000006082;Lestijärven sähköverkko;;44X-00000000262Q;Active;;;;Metering Grid Area;Y
+10YDK1-DE-10010E;TTG-VBZ-DK1;TTG–DK1 Virtual Bidding Zone on TTG side (advanced hybrid coupling);;10XDE-EON-NETZ-C;Active;;;;Border Area;Y
+44Y-000000006090;KVSO00;Lakarin aurinkopuisto;;44X-00000000101D;Active;;;;Metering Grid Area;Y
+44Y-00000000610F;HVSSOL1;Hirvensalmi Solarigon aurinkovoimala;;44X-000000002116;Active;;;;Metering Grid Area;Y
+44Y-00000000611D;44Y-00000000611D;Ii Isokangas wind farm;;44X-00000000268E;Active;;;;Metering Grid Area;Y
+44Y-00000000612B;44Y-00000000612B;Ii Palokangas wind farm;;44X-00000000268E;Active;;;;Metering Grid Area;Y
+44Y-000000006139;44Y-000000006139;Simo Halmekankaan liittymisjohto;;44X-00000000268E;Active;;;;Metering Grid Area;Y
+44Y-000000006147;44Y-000000006147;Oosinselän tuulipuisto 1;;44X-00000000160Y;Active;;;;Metering Grid Area;Y
+44Y-000000006163;44Y-000000006163;Lohjan aurinkopuisto;;44X-00000000039T;Active;;;;Metering Grid Area;Y
+65YBG-KSMEXPORT2;KSMEXPORT-IMPORT;BG-KSM Export-Import LLC;;;Active;;;;Balance Group;Y
+44Y-000000006171;44Y-000000006171;Vaajakosken tuotantoverkko;;44X-00000000274J;Active;;;;Metering Grid Area;Y
+44Y-00000000619Y;44Y-00000000619Y;Karhukankaan ja Navettakankaan tuulipuisto 1;;44X-00000000163S;Active;;;;Metering Grid Area;Y
+46Y000000000020U;METER_GRID_A_ST4;Metering Grid Area ST4;;;Active;;;;Metering Grid Area;Y
+10YFI-4--------0;FIMULTIAREA;FI Multiarea;;;Active;;;;Scheduling Area;Y
+44Y-00000000620C;MAAS01;Maaselänkankaan tuulipuisto;;44X-00000000277D;Active;;;;Metering Grid Area;Y
+44Y-00000000621A;PKV001;Paneliankosken diesel-voimalat;;44X-000000000431;Active;;;;Metering Grid Area;Y
+10YDE-SE4-VBZ-01;TTG-VBZ-SE4;TTG–SE4 Virtual Bidding Zone on TTG side (advanced hybrid coupling);;10XDE-EON-NETZ-C;Active;;;;Border Area;Y
+44Y-000000006228;44Y-000000006228;Kuhmoinen BESS;;44X-00000000219R;Active;;;;Metering Grid Area;Y
+44Y-000000006236;44Y-000000006236;Storböttet wind farm;;44X-000000002302;Active;;;;Metering Grid Area;Y
+44Y-000000006244;44Y-000000006244;Lumivaaran Rauhalan tuulipuisto;;44X-000000002302;Active;;;;Metering Grid Area;Y
+44Y-000000006252;VATA02;Vatajankosken vesivoimalaitos;;44X-00000000135X;Active;;;;Metering Grid Area;Y
+44Y-000000006260;MAR000;Martinlaakson voimalaitos;;44X-000000000172;Active;;;;Metering Grid Area;Y
+44Y-00000000627Z;JV1000;Vantaan Jätevoimala;;44X-000000000172;Active;;;;Metering Grid Area;Y
+14YEVN-AG-DL001V;EVN-AG-DIENSTL-1;EVN-AG-DIENSTLEISTUNG-001;;14XEVN-AG0000001;Active;;;;Balance Group;Y
+44Y-00000000629V;44Y-00000000629V;Kitusenkulman aurinkopuisto;;44X-000000001306;Active;;;;Metering Grid Area;Y
+44Y-00000000628X;44Y-00000000628X;Sahanmäen voimalaitosverkko;;44X-00000000147Q;Active;;;;Metering Grid Area;Y
+22Y20240708----O;BE_CORE_AHC;CORE-AHC borders;;22XCORESO------S;Active;;;;Scheduling Area;Y
+44Y-000000006317;44Y-000000006317;Energiavarasto Loppi GreenStack Oy;;44X-00000000248K;Active;;;;Metering Grid Area;Y
+44Y-000000006325;44Y-000000006325;Anjalankosken ja Inkeroisten voimalaitosverkko;;23XFORTUMPOWER-W;Active;;;;Metering Grid Area;Y
+67Y-VISKOL-2003T;VISKOL2003;VISKOL DOO NOVI SAD SRBIJA;;67X-RS-00000003H;Active;;;;Bidding Zone,ITC,Local Market Area,Market Area;Y
+11Y0-0000-2937-G;TRAWA_AT;trawa energy Austria;;11X0-0000-0752-M;Active;;;;Balance Group;Y
+44Y-000000006333;MIKO01;Mikonkeitaan tuulipuisto;;44X-00000000281M;Active;;;;Metering Grid Area;Y
+11Y0-0000-2971-I;TEN-HANDEL;TEN-Handel;;11XTEN---------L;Active;;;;Balance Group;Y
+44Y-000000006341;BIES01;Biosolar Energy Storage SPV 1 Oy Turku;;44X-00000000248K;Active;;;;Metering Grid Area;Y
+44Y-00000000636Y;44Y-00000000636Y;Karhukankaan ja Navettakankaan tuulipuisto 2;;44X-00000000163S;Active;;;;Metering Grid Area;Y
+11Y0-0000-2991-A;LW_BK_VERTRIEB;Lokalwerke GmbH Bilanzkreis Vertrieb;;11XSWAVERTRIEB14;Active;;;;Balance Group;Y
+11Y0-0000-2995-Z;PROKON;Prokon Regenerative Energien eG;;11XPROKON------J;Active;;;;Balance Group;Y
+14YSOGLMELDUNG-T;SOGL-MELDUNG;KELAG-Kärntner Elektrizitäts-Aktiengesellschaft;;;Active;;;;Balance Group;Y
+44Y-00000000637W;EUP000;Euran paperin teollisuusverkko;;44X-000000000326;Active;;;;Metering Grid Area;Y
+44Y-00000000638U;44Y-00000000638U;Nurmijärven aurinkopuisto;;44X-00000000039T;Active;;;;Metering Grid Area;Y
+44Y-00000000639S;LIMIN0;Kuormatien lämpölaitos;;44X-00000000147Q;Active;;;;Metering Grid Area;Y
+14YOEKOWATT----Y;OEKOWATT_L;Öko Watt GmbH;;14XSALZBURGAG-B8;Active;;;;Balance Group;Y
+44Y-000000006406;NWJF10;Energiavarastot Nwj Fin Oy;;44X-00000000194H;Active;;;;Metering Grid Area;Y
+45Y000000000010B;DK_INCAM_MPM;In Commodities Asset Management A/S;;45X000000000222A;Active;;;;Balance Group;Y
+45Y0000000000119;DK_INCAM_NON_MPM;In Commodities Asset Management A/S;;45X000000000222A;Active;;;;Balance Group;Y
+44Y-000000006414;44Y-000000006414;Aurora Oulu, Nokian kampus;;44X-00000000284G;Active;;;;Metering Grid Area;Y
+63Y986185796641W;FRG_TEREGA;TEREGA;;;Active;;;;Local Market Area;Y
+21Y0000000001391;N4G-AGGR-DISTRIB;Aggregated Distribution (CZ);;21X000000001304L;Active;;;;Local Market Area;Y
+63Y256858662988P;FRG_POOL_PROD;GRTgaz aggregated biomethane producers;;;Active;;;;Local Market Area;Y
+44Y-000000006422;KAPU01;Kapulin Energiavarasto;;44X-00000000248K;Active;;;;Metering Grid Area;Y
+44Y-000000006430;KORP01;Korpilevonmäen Tuulipuisto;;44X-00000000208W;Active;;;;Metering Grid Area;Y
+11Y0-0000-3134-M;OTTER-GREEN;otter-green;;11X0-0000-0821-W;Active;;;;Balance Group;Y
+44Y-00000000644Z;MOKSY1;Möksyn wind farm;;44X-00000000208W;Active;;;;Metering Grid Area;Y
+44Y-00000000645X;YLLB02;Yllikkälä Power Reserve Two;;44X-00000000135X;Active;;;;Metering Grid Area;Y
+44Y-00000000646V;TUMU00;TuuliMuukko Wind Farm;;44X-00000000291J;Active;;;;Metering Grid Area;Y
+44Y-00000000647T;VART00;Vartinoja 1 tuulipuisto;;44X-00000000292H;Active;;;;Metering Grid Area;Y
+44Y-00000000648R;MATT01;Mattilan Energiavarasto;;44X-00000000248K;Active;;;;Metering Grid Area;Y
+49Y000000000003M;TTN-VBZ_DK1;TTN-DK1 Virtual Bidding Zone on TTN Side;;10X1001A1001A361;Active;;;;Bidding Zone;Y
+49Y000000000004K;TTN-VBZ_NO2;TTN-NO2 Virtual Bidding Zone on TTN Side;;10X1001A1001A361;Active;;;;Bidding Zone;Y
+10Y1001C--001999;IE-FR-CL-AREA;Border area between IE and FR;;;Active;;;;Border Area;Y
+10Y1001C--00158N;RO-BGVBZ;RO-BG virtual bidding zone on TEL side (advanced hybrid coupling);;10XRO-TEL------2;Active;;;;Border Area;Y
+44Y-00000000649P;FI_MRT005;Mertaniemi 5 sähköakku;;44X-00000000090T;Active;;;;Metering Grid Area;Y
+11Y0-0000-3195-W;11YMPM-METDE---A;11YMPM-METDE---A;;11X0-0000-0609-Q;Active;;;;Balance Group;Y
+21Y000000000141E;WHV_LNG-ZONE;Wilhelmshaven, LNG-Zone;;21X-DE-C-A0A0A-T;Active;;;;Border Area;Y
+44Y-000000006503;SII000;Siikakosken vesivoimalaitos;;44X-000000000334;Active;;;;Metering Grid Area;Y
+44Y-000000006511;VER000;Verlan vesivoimalaitos;;44X-000000000334;Active;;;;Metering Grid Area;Y
+44Y-00000000653Y;KANNU0;Kannuskosken vesivoimalaitos;;44X-000000000334;Active;;;;Metering Grid Area;Y
+11Y0-0000-3204-T;REDIRECT-AT;REDIRECT-AT;;11X0-0000-0844-F;Active;;;;Balance Group;Y
+44Y-00000000654W;HOG000;Högberginhaara kiinteistöverkko;;44X-00000000147Q;Active;;;;Metering Grid Area;Y
+45YDOM-1001A0942;INCOMAS_WL;In Commodities A/S;;45X000000000043A;Active;;;;Balance Group;Y
+45Y0000000000127;INCOMAS_WL_;In Commodities A/S;;45X000000000043A;Active;;;;Balance Group;Y

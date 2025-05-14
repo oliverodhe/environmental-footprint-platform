@@ -1,0 +1,73 @@
+.terminal-container {
+    height: 350px;
+    background-color: #1e1e1e;
+    border-radius: 0.5rem;
+    padding: 0.5rem;
+    overflow: hidden;
+  }
+  
+/* Terminal panel styling */
+.terminal-panel {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    height: 300px;
+    background-color: #1e1e1e;
+    color: #f8f8f8;
+    z-index: 1030;
+    display: flex;
+    flex-direction: column;
+    box-shadow: 0 -2px 10px rgba(0, 0, 0, 0.1);
+    transition: height 0.3s ease;
+}
+
+.terminal-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0.5rem 1rem;
+    background-color: #252526;
+    border-top: 1px solid #333;
+    cursor: default;
+}
+
+.terminal-header h5 {
+    color: #f8f8f8;
+    font-size: 0.9rem;
+}
+
+.terminal-header p {
+    color: #a0a0a0;
+    font-size: 0.75rem;
+}
+
+.terminal-controls {
+    display: flex;
+}
+
+.terminal-resize-handle {
+    height: 5px;
+    background-color: #333;
+    cursor: ns-resize;
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    transform: translateY(-50%);
+}
+
+.terminal-container {
+    flex: 1;
+    overflow: hidden;
+    padding: 0.5rem;
+}
+
+.terminal-minimized {
+    height: 50px;
+    overflow: hidden;
+}
+
+.terminal-minimized .terminal-container {
+    display: none;
+}

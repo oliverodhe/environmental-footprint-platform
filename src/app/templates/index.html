@@ -1,0 +1,308 @@
+<!-- filepath: /c:/Users/herma/Documents/GitHub/DATX11-DIT561-VT25-30/templates/index.html -->
+{% extends "base.html" %} {% block title %}Dashboard{% endblock %} {% block
+content %}
+<nav class="navbar navbar-expand-lg border-bottom sticky-top">
+  <div class="container-fluid">
+    <h1 class="h2 mt-1 mx-3">
+        <i id="dashboard-icon" class="bi bi-lightning-charge text-primary"></i> Energy Dashboard
+    </h1>
+    <button class="navbar-toggler d-lg-none me-3" type="button" data-bs-toggle="collapse" data-bs-target="#sidebarMenu">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <a class="navbar-brand d-lg-none" href="#">Energy Monitor</a>
+    <div class="d-flex ms-auto">
+      <button class="btn btn-outline-secondary me-3" type="button" data-bs-toggle="offcanvas" data-bs-target="#settingsOffcanvas">
+        <i class="bi bi-gear"></i>
+    </button>
+    </div>
+  </div>
+</nav>
+
+<div class="offcanvas offcanvas-end settings-offcanvas" tabindex="-1" id="settingsOffcanvas" aria-labelledby="settingsOffcanvasLabel">
+  <div class="offcanvas-header">
+      <h4 class="offcanvas-title" id="settingsOffcanvasLabel">Settings</h4>
+      <button type="button" class="btn-close" data-bs-dismiss="offcanvas" aria-label="Close"></button>
+  </div>
+  <div class="offcanvas-body">
+    <!-- Country Selection -->
+    <h6 class="offcanvas-title mb-3">Data Options</h6>
+    <div class="mb-3">
+      <div class="dropdown w-100">
+        <button class="btn btn-outline-secondary dropdown-toggle w-100 d-flex align-items-center justify-content-between px-4 py-2" type="button" id="dropdownMenuButton" data-bs-toggle="dropdown" aria-expanded="false">
+          <span class="dropdown-label">Select Country</span>
+        </button>
+        <ul id="countryDropdownMenu" class="dropdown-menu w-100 scrollable-menu" aria-labelledby="dropdownMenuButton">
+          <!--Countries will be added here-->
+        </ul>
+      </div>
+    </div>
+
+    <!-- CO2 Zone Selection -->
+    <div class="mb-3">
+      <div class="dropdown w-100">
+        <button class="btn btn-outline-secondary dropdown-toggle w-100 d-flex align-items-center justify-content-between px-4 py-2" type="button" id="zoneBtn" data-bs-toggle="dropdown" aria-expanded="false">
+          <span class="dropdown-label">Select CO2 Zone</span>
+        </button>
+        <ul id="zoneDropdownMenu" class="dropdown-menu w-100" aria-labelledby="zoneBtn">
+          <!--Zones will be added here-->
+        </ul>
+      </div>
+    </div>
+
+    <!-- Price Zone Selection -->
+    <div class="mb-4">
+      <div class="dropdown w-100">
+        <button class="btn btn-outline-secondary dropdown-toggle w-100 d-flex align-items-center justify-content-between px-4 py-2" type="button" id="electrictyBtn" data-bs-toggle="dropdown" aria-expanded="false">
+          <span class="dropdown-label">Select Price Zone</span>
+        </button>
+        <ul id="priceDropdownMenu" class="dropdown-menu w-100 scrollable-menu" aria-labelledby="electrictyBtn">
+          <!--electricty price zones will be added here-->
+        </ul>
+      </div>
+    </div>
+
+    <hr class="my-4">
+
+    <h6 class="offcanvas-title mb-3">Actions</h6>
+      <!-- Connect Button -->
+    <button type="button" id="connect-button" class="btn btn-outline-secondary d-flex align-items-center py-2 px-4 w-100 mb-3" data-bs-toggle="modal" data-bs-target="#myModal" data-whatever="">
+      Connect
+    </button>
+
+      <!-- Download CSV Dropdown -->
+    <div class="dropdown">
+      <button class="btn btn-outline-secondary dropdown-toggle w-100 d-flex align-items-center justify-content-between px-4 py-2" type="button" id="download-btn" data-bs-toggle="dropdown" aria-expanded="false">
+        Download CSV
+      </button>
+      <ul class="dropdown-menu w-100" aria-labelledby="download-btn">
+        <li><a class="dropdown-item" href="#" id="download-with-logs">Including Output Logs</a></li>
+        <li><a class="dropdown-item" href="#" id="download-without-logs">Excluding Output Logs</a></li>
+      </ul>
+    </div>
+
+
+    <hr class="my-4">
+
+    <!-- Dark Mode Toggle -->
+    <div class="d-flex align-items-center justify-content-between">
+      <span class="fw-medium">Dark Mode</span>
+      <div class="form-check form-switch">
+        <input class="form-check-input" type="checkbox" id="dark-mode-toggle" style="width: 3rem; height: 1.5rem;">
+        <label class="form-check-label visually-hidden" for="dark-mode-toggle">Dark Mode</label>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="px-4">
+<div class="row mt-4">
+    <div class="col-lg-8">
+      <!-- Chart tabs -->
+      <div class="card">
+        <div class="card-header d-flex justify-content-between align-items-center">
+          <ul class="nav nav-tabs" id="chartTabs" role="tablist">
+            <li class="nav-item" role="presentation">
+              <button class="nav-link active" id="power-tab" data-bs-toggle="tab" data-bs-target="#powerChartPane" type="button" role="tab" aria-controls="powerChartPane" aria-selected="true">
+                Power Usage
+              </button>
+            </li>
+            <li class="nav-item" role="presentation">
+              <button class="nav-link" id="other-tab" data-bs-toggle="tab" data-bs-target="#carbonChartPane" type="button" role="tab" aria-controls="carbonChartPane" aria-selected="false">
+                Carbon Emission
+              </button>
+            </li>
+          </ul>
+          <!-- <h5 class="card-title">Power Usage</h5> -->
+          <div class="d-flex">
+            <div class="dropdown me-2">
+              <button class="btn btn-sm btn-outline-secondary dropdown-toggle" type="button" data-bs-toggle="dropdown">
+                <i class="bi bi-funnel me-1"></i> Filter
+              </button>
+              <ul id="chartFilter" class="dropdown-menu" aria-labelledby="dropdownMenuButton">
+                <div class="p-2 mb-3">
+                <label for="dataPointSelect" class="form-label text-muted small">Max Data Points</label>
+                <select class="form-select" id="dataPointSelect" name="dataPointSelect">
+                    <option value="" selected>None</option>
+                    <option value="10">10</option>
+                    <option value="50">50</option>
+                    <option value="100">100</option>
+                    <option value="200">200</option>
+                </select>
+                </div>
+                <div class="p-2 mb-3">
+                  <label class="form-label text-muted small" for="interpolationCheckbox">
+                    Interpolate
+                  </label>
+                  <div class="form-check form-switch">
+                    <input class="form-check-input" type="checkbox" value="" id="interpolation" checked>
+                  </div>
+                </div>
+                <div class="p-2 mb-3">
+                  <label class="form-label text-muted small" for="fixedChartWidthCheckbox">
+                    Enable Fixed Width
+                  </label>
+                  <div class="form-check form-switch">
+                    <input class="form-check-input" type="checkbox" value="" id="fixedChartWidth" unchecked>
+                  </div>
+                </div>
+                <div class="p-2">
+                  <label class="form-label text-muted small" for="frequencySetting">
+                    Sampling Frequency
+                  </label>
+                  <input type="number" id="frequencySetting" class="form-control" value="10" min="1" max="25" placeholder="1-25">
+                </div>
+              </ul>
+            </div>
+          </div>
+        </div>
+        <div class="card-body">
+          <div class="tab-content">
+              <div class="tab-pane fade show active" id="powerChartPane" role="tabpanel" aria-labelledby="power-tab">
+                <canvas id="myChart" width="400" height="200"></canvas>
+              </div>
+              <!-- Second Chart Pane -->
+              <div class="tab-pane fade" id="carbonChartPane" role="tabpanel" aria-labelledby="other-tab">
+                <canvas id="carbonChart" width="400" height="200"></canvas>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+
+  <div class="col-lg-3 mt-lg-0">
+    <div class="metric-card card mb-4" id="metric-card">
+        <div class="card-header">
+          <h5 class="card-title mb-0">Metrics</h5>
+          <p class="card-text text-muted small mb-0">Current monitoring session metrics</p>
+        </div>
+        <div class="card-body">
+            <div class="d-flex align-items-center mb-3">
+                <div class="metric-icon me-3">
+                  <i class="bi bi-cash"></i>
+                </div>
+                <div>
+                  <p class="mb-0 fw-medium">Total Cost</p>
+                  <p id="totalCost" class="fs-5 fw-bold mb-0">XX</p>
+                </div>
+              </div>
+
+          <div class="d-flex align-items-center mb-3">
+            <div class="metric-icon me-3">
+              <i class="bi bi-cloud"></i>
+            </div>
+            <div>
+              <p class="mb-0 fw-medium">CO2 Intensity</p>
+              <p id="co2Intensity" class="fs-5 fw-bold mb-0">XX</p>
+            </div>
+          </div>
+
+          <div class="d-flex align-items-center mb-3">
+            <div class="metric-icon me-3">
+              <i class="bi bi-tree"></i>
+            </div>
+            <div>
+              <p class="mb-0 fw-medium">Emission</p>
+              <p id="emission" class="fs-5 fw-bold mb-0">XX</p>
+            </div>
+          </div>
+
+          <div class="d-flex align-items-center mb-3">
+            <div class="metric-icon me-3">
+              <i class="bi bi-lightning-charge"></i>
+            </div>
+            <div>
+              <p class="mb-0 fw-medium">Average Power</p>
+              <p id="avgPower" class="fs-5 fw-bold mb-0">XX</p>
+            </div>
+          </div>
+
+          <div class="d-flex align-items-center mb-3">
+            <div class="metric-icon me-3">
+              <i class="bi bi-clock"></i>
+            </div>
+            <div>
+              <p class="mb-0 fw-medium">Time Elapsed</p>
+              <p id="timeElapsed" class="fs-5 fw-bold mb-0">XX</p>
+            </div>
+          </div>
+
+          <div class="d-flex align-items-center">
+            <div class="metric-icon me-3">
+              <i class="bi bi-battery"></i>
+            </div>
+            <div class="my-auto">
+              <p class="mb-0 fw-medium">Total Consumption</p>
+              <p id="totCon" class="fs-5 fw-bold mb-0">XX</p>
+            </div>
+          </div>
+        </div>
+    </div>
+  </div>
+</div>
+</div>
+
+<div id="terminal-panel" class="terminal-panel">
+  <div class="terminal-header">
+      <div>
+          <h5 class="mb-0">Raspberry Pi Terminal</h5>
+          <p class="text-muted small mb-0">Interactive command line interface</p>
+      </div>
+      <div class="terminal-controls">
+          <button id="minimizeTerminalBtn" class="btn btn-sm btn-outline-secondary me-1">
+              <i class="bi bi-chevron-down"></i>
+          </button>
+          <!-- <button id="clearTerminalBtn" class="btn btn-sm btn-outline-secondary me-1">
+              <i class="bi bi-trash"></i>
+          </button>
+          <button id="executeCommandBtn" class="btn btn-sm btn-outline-secondary">
+              <i class="bi bi-play-fill"></i>
+          </button> -->
+      </div>
+  </div>
+  <div class="terminal-resize-handle" id="terminal-resize-handle"></div>
+  <div class="main-content-wrapper">
+    <div class="terminal-container">
+      <div id="terminal"></div>
+  </div>
+  </div>
+</div>
+
+</div>
+<!-- Bootstrap Modal  -->
+<div class="modal" id="myModal" tabindex="-1" role="dialog" aria-labelledby="modalLabel" aria-hidden="true">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content connect-modal">
+            <div class="modal-header">
+                <h5 class="modal-title" id="modalLabel">Enter Raspberry Pi 5 Details</h5>
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close">
+                </button>
+            </div>
+            <div class="modal-body">
+                <form id="connect-rpi-form" method="POST" action="submit-rpi-form">
+                    <div class="mb-3">
+                        <label for="hostname" class="form-label">Hostname</label>
+                        <input type="text" class="form-control" id="hostname" name="hostname" required>
+                    </div>
+                    <div class="mb-3">
+                        <label for="username" class="form-label">Username</label>
+                        <input type="text" class="form-control" id="username" name="username" required>
+                    </div>
+                    <div class="mb-4">
+                        <label for="password" class="form-label">Password</label>
+                        <input type="password" class="form-control" id="password" name="password" required>
+                    </div>
+                    <button type="submit" class="btn btn-primary">Submit</button>
+                </form>
+                <div id="loading-indicator" class="mt-3" style="display: none;">
+                  <div class="spinner-border text-primary" role="status">
+                      <span class="visually-hidden">Loading...</span>
+                  </div>
+              </div>
+                <div id="result-message" class="mt-3"></div>
+            </div>
+        </div>
+    </div>
+</div>
+
+{% endblock %}
+

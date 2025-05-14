@@ -1,0 +1,143 @@
+body[data-bs-theme='dark'] {
+    background-color: #333 !important;
+    color: #f8f8f8;
+}
+  
+body[data-bs-theme='dark'] .card {
+    color: var(--bs-body);
+    background-color: #515151 !important;
+    border: 1px #252526 solid;
+}
+
+body[data-bs-theme='dark'] .card-header {
+    background-color: #444;
+    border-bottom: 1px solid #555;
+}
+
+body[data-bs-theme='dark'] .metric-icon {
+    background-color: rgba(255, 165, 0, 0.1); /* Light orange background */
+    color: #ffa500; /* Orange color for the icon */
+  }
+
+body[data-bs-theme='dark'] .dropdown-menu {
+    background-color: #444;
+    color: #f8f8f8;
+    border: 1px solid #555;
+}
+
+body[data-bs-theme='dark'] .dropdown-item:hover {
+    background-color: #555;
+    color: #fff;
+}
+
+body[data-bs-theme='dark'] .form-check-input {
+    background-color: #444;
+    border-color: #666;
+}
+
+body[data-bs-theme='dark'] .form-check-input:checked {
+    background-color: #0d6efd;
+    border-color: #0d6efd;
+}
+
+body[data-bs-theme='dark'] .terminal-container {
+    background-color: #1e1e1e;
+    color: #f8f8f8;
+}
+
+body[data-bs-theme='dark'] .terminal-header {
+    background-color: #252526;
+    border-top: 1px solid #333;
+}
+
+body[data-bs-theme='dark'] .terminal-controls .btn {
+    color: #a0a0a0;
+    background-color: transparent;
+    border-color: #444;
+}
+
+body[data-bs-theme='dark'] .terminal-controls .btn:hover {
+    color: #f8f8f8;
+    background-color: #333;
+}
+
+/* Light mode styles for the terminal */
+body[data-bs-theme='light'] .terminal-container {
+    background-color: #ffffff; /* White background */
+    color: #000000; /* Black text */
+}
+
+body[data-bs-theme='light'] .terminal-panel {
+    background-color: #ffffff; /* White background */
+    color: #000000; /* Black text */
+    box-shadow: 0 -2px 10px rgba(0, 0, 0, 0.1); /* Subtle shadow */
+}
+
+body[data-bs-theme='light'] .terminal-header {
+    background-color: #f1f1f1; /* Light gray header */
+    border-top: 1px solid #ddd; /* Light border */
+}
+
+body[data-bs-theme='light'] .terminal-header h5 {
+    color: #000000; /* Black text for header title */
+}
+
+body[data-bs-theme='light'] .terminal-header p {
+    color: #555555; /* Dark gray text for header subtitle */
+}
+
+body[data-bs-theme='light'] .terminal-resize-handle {
+    background-color: #ddd; /* Light gray resize handle */
+}
+
+/* Dark mode styles for the filter button */
+body[data-bs-theme='dark'] .btn-outline-secondary {
+    color: #ffffff; /* Black text */
+    border-color: #ffffff; /* White border */
+}
+
+body[data-bs-theme='dark'] .btn-outline-secondary:hover  {
+    background-color: #f1f1f1; /* Light gray background on hover */
+    color: #000000; /* Black text on hover */
+    border-color: #f1f1f1; /* Light gray border on hover */
+}
+
+body[data-bs-theme='dark'] .offcanvas-title, .fw-medium {
+    color: #f8f8f8; /* White text */
+}
+
+body[data-bs-theme='dark'] .settings-offcanvas .btn {
+    color: #f8f8f8; /* White text */
+    /* background-color: #444; 
+    border-color: #555; */
+}
+
+body[data-bs-theme='dark'] .settings-offcanvas .btn:hover {
+    background-color: #f8f8f8; /* Darker background on hover */
+    color: #333;
+}
+
+body[data-bs-theme='dark'] .settings-offcanvas, .connect-modal {
+    background-color: #333; /* Dark background */
+    color: #f8f8f8; /* White text */
+}
+
+body[data-bs-theme='dark'] .connect-modal .form-control {
+    background-color: #444; /* Darker input field */
+    color: #f8f8f8; /* White text */
+    border: 1px solid #555; /* Light border */
+}
+
+body[data-bs-theme='dark'] .connect-modal .form-control:focus {
+    background-color: #444; /* Darker input field on focus */
+    color: #f8f8f8; /* White text */
+    border-color: #0d6efd; /* Blue border on focus */
+}
+
+body[data-bs-theme='dark'] .connect-modal .form-control::placeholder {
+    color: #aaa; /* Placeholder text color */
+}
+
+body[data-bs-theme='dark'] .connect-modal .form-control:focus::placeholder {
+    color: #aaa; /* Placeholder text color on focus */
+}
