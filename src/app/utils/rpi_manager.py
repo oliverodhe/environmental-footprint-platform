@@ -5,6 +5,15 @@ from src.app.config import config
 import numpy as np
 
 
+"""
+
+This file contains code adapted from Stack Overflow:
+https://stackoverflow.com/questions/6203653/how-do-you-execute-multiple-commands-in-a-single-session-in-paramiko-python
+
+The original code has been modified to fit the needs of this project.
+
+"""
+
 strdata=''
 fulldata=''
 
@@ -62,20 +71,20 @@ class ssh:
             for i in range(0, len(lines)-1):
                 print(lines[i])
                 line = lines[i]
-                if "power_consumption=" in line:
-                    OUTPUT = float(line.replace("power_consumption=", "").replace("\x1b[?2004l", ""))
+                if "##CO2##" in line:
+                    OUTPUT = float(line.replace("##CO2##", "").replace("\x1b[?2004l", ""))
                 elif line != '':
                     socketio.emit('terminal_data', {'line_data': line})
-                if "Energy consumed" in last_line:
+                if "Energy consumed =" in last_line:
                     stop_threads()
             last_line = lines[len(lines) - 1]
             if data.endswith('\n'):
                 print(last_line)
-                if "power_consumption=" in last_line:
-                    OUTPUT = float(last_line.replace("power_consumption=", "").replace("\x1b[?2004l", ""))
+                if "##CO2##" in last_line:
+                    OUTPUT = float(last_line.replace("##CO2##", "").replace("\x1b[?2004l", ""))
                 else:
                     socketio.emit('terminal_data', {'line_data': last_line})
-                if "Energy consumed" in last_line:
+                if "Energy consumed =" in last_line:
                     stop_threads()
                 last_line = ''
         return last_line

@@ -1,6 +1,6 @@
 from flask import Blueprint, request, jsonify, send_file
 import pandas as pd
-from app.config import config
+from src.app.config import config
 import os
 
 log_bp = Blueprint("log_routes", __name__)

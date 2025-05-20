@@ -3,7 +3,7 @@
 from flask import Flask
 from flask_socketio import SocketIO
 from flask_cors import CORS
-from app.config import Config
+from src.app.config import Config
 
 socketio = SocketIO(cors_allowed_origins="*")
 
@@ -15,7 +15,7 @@ def create_app():
     socketio.init_app(app)
 
     # Register Blueprints (Modular Routes)
-    from app.routes import register_routes
+    from src.app.routes import register_routes
     register_routes(app)
 
     return app

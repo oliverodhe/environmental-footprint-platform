@@ -32,7 +32,7 @@ function fetchCarbonChart(ctx) {
       data: {
         labels: [], // initialize labels
         datasets: [{
-          label: 'Current Emission (μg)',
+          label: 'Current Emission (μg/s)',
           data: [],
           backgroundColor: gradient,
           borderColor: 'rgba(255, 99, 132, 1)',
@@ -44,7 +44,7 @@ function fetchCarbonChart(ctx) {
           yAxisID: "y"
         },
         {
-            label: 'Total Emisions (μg)',
+            label: 'Total Emissions (μg)',
             data: [],
             borderColor: 'rgb(5, 101, 16)',
             borderWidth: 2,
@@ -96,7 +96,7 @@ function fetchCarbonChart(ctx) {
             position: "left",
             title: {
                 display: true,
-                text: "Current Emission (μg)",
+                text: "Current Emission (μg/s)",
             },
             grid: {
                 color: "rgba(0, 0, 0, 0.05)",

@@ -1,11 +1,11 @@
 from flask import Blueprint
 from flask_socketio import emit
-from app import socketio
+from src.app import socketio
 import time
 import numpy as np
-from app.utils.thread_manager import start_threads, stop_threads, RUN, stop_event, OUTPUT
-from app.utils import rpi_manager
-from app.config import config
+from src.app.utils.thread_manager import start_threads, stop_threads, RUN, stop_event, OUTPUT
+from src.app.utils import rpi_manager
+from src.app.config import config
 import random
 
 socket_bp = Blueprint("socket_routes", __name__)

@@ -1,9 +1,9 @@
 from flask import Blueprint, request, jsonify, render_template
-from app.utils import rpi_manager, thread_manager
-from app.config import config
+from src.app.utils import rpi_manager, thread_manager
+from src.app.config import config
 import os
 import time
-from app import socketio
+from src.app import socketio
 import numpy as np
 
 
@@ -49,6 +49,7 @@ def upload_file():
 @rpi_bp.route('/send-command-to-rpi/', methods=['POST'])
 def send_command_to_rpi():
     data = request.get_json().get("command")        
+    wrapper_path = "/home/rasp"
 
     if not data:
         return jsonify({"error": "No command provided"}), 400
@@ -56,6 +57,10 @@ def send_command_to_rpi():
     print(data)
     if "bash ./power_wrapper2.sh" in data:
         print("start thread test")
+        thread_manager.start_thread(target=rpi_manager.send_live_power_data)
+
+    if data.startswith("CO2 "):
+        data = data.replace("CO2", "bash " + wrapper_path + "/power_wrapper.sh")
         thread_manager.start_thread(target=rpi_manager.send_live_power_data)
 
     CONNECTION.send_shell(data)

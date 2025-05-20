@@ -36,7 +36,7 @@ def fetch_electricity_price(zone):
 def get_electricity_price_data(zone):    
     timeseries = fetch_electricity_price(zone).find_all('TimeSeries')
 
-    df_EIC = pd.read_csv("app/api_clients/Y_eicCodes.csv", delimiter=";")
+    df_EIC = pd.read_csv("src/app/api_clients/Y_eicCodes.csv", delimiter=";")
     eic_dict = dict(zip(df_EIC['EicCode'], df_EIC['EicLongName']))
 
 
@@ -75,7 +75,7 @@ def get_electricity_price_data(zone):
 
 
 def get_eic_code(zone):
-    df_EIC = pd.read_csv("app/api_clients/Y_eicCodes.csv", delimiter=";")
+    df_EIC = pd.read_csv("src/app/api_clients/Y_eicCodes.csv", delimiter=";")
     eic_code = df_EIC[df_EIC["EicDisplayName"] == zone]["EicCode"].iloc[0]
     return eic_code
 

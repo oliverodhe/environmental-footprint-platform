@@ -7,7 +7,7 @@ POWER=$(mktemp)
 SCRIPT_PATH=$(dirname "$(realpath "$0")")
 
 # Start measuring power
-"${SCRIPT_PATH}"/power_sampler.sh $POWER &
+"${SCRIPT_PATH}"/modified_power_sampler.sh $POWER &
 PID=$!
 
 # Get start time in nanoseconds
@@ -35,6 +35,8 @@ sed -i '$ d' $POWER
 p=$(cat $POWER | awk '{sumX+=+$1;sumX2+=(($1)^2)}END{if (NR>1) printf "%.3f", sumX/(NR)}')
 e=$(awk "BEGIN {printf \"%.3f\",${elapsed_sec}*${p}}")
 rm $POWER
+
+echo "Measurement Finished"
 
 echo "Exectution time = ${elapsed_sec}s"
 echo "Average power   = ${p}W"

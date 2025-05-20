@@ -1,5 +1,5 @@
 from flask import Blueprint, request, jsonify
-from app.config import config
+from src.app.config import config
 
 config_bp = Blueprint("config_routes", __name__)
 

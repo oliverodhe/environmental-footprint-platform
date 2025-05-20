@@ -36,6 +36,8 @@ p=$(cat $POWER | awk '{sumX+=+$1;sumX2+=(($1)^2)}END{if (NR>1) printf "%.3f", su
 e=$(awk "BEGIN {printf \"%.3f\",${elapsed_sec}*${p}}")
 rm $POWER
 
+echo "Measurement Finished"
+
 echo "Exectution time = ${elapsed_sec}s"
 echo "Average power   = ${p}W"
 echo "Energy consumed = ${e}J"
