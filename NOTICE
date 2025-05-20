@@ -1,0 +1,12 @@
+Environmental Footprint Platform
+Copyright (c) 2025 Oliver Odhe, Albin Essman, Vilgot Teiffel, Fei Björnham, Herman Forsberg
+
+This project includes code from the following third-party sources:
+
+1. Stack Overflow
+   - Source: https://stackoverflow.com/questions/6203653/how-do-you-execute-multiple-commands-in-a-single-session-in-paramiko-python
+   - License: Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
+   - Used in: src/app/utils/rpi_manager.py
+   - Modifications: Adapted for project-specific needs
+
+For the full text of the CC BY-SA 4.0 license, see: https://creativecommons.org/licenses/by-sa/4.0/ 
